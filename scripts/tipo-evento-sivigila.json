@@ -1,0 +1,839 @@
+[
+  {
+    "codigo": "994",
+    "nombre": "IRA POR VIRUS NUEVO (COLECTIVO)",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "3",
+    "id_formulario": 94,
+    "version": "2018",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "000",
+    "nombre": "NOTIFICACION NEGATIVA",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 0,
+    "version": "2007",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "100",
+    "nombre": "ACCIDENTE OFIDICO",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 8,
+    "version": "2007",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "110",
+    "nombre": "BAJO PESO AL NACER",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 47,
+    "version": "2011",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "113",
+    "nombre": "DESNUTRICIÓN AGUDA EN MENORES DE 5 AÑOS",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 83,
+    "version": "2016",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "115",
+    "nombre": "CÁNCER EN MENORES DE 18 AÑOS",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 63,
+    "version": "2015",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "155",
+    "nombre": "CÁNCER DE LA MAMA Y CUELLO UTERINO",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 79,
+    "version": "2016",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "200",
+    "nombre": "COLERA",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 46,
+    "version": "2007",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "202",
+    "nombre": "CONSUMO DE SUSTANCIAS PSICOACTIVAS INYECTADAS",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 78,
+    "version": "2016",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "205",
+    "nombre": "CHAGAS",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 27,
+    "version": "2008",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "210",
+    "nombre": "DENGUE",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 42,
+    "version": "2010",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "215",
+    "nombre": "DEFECTOS CONGENITOS",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 56,
+    "version": "2014",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "217",
+    "nombre": "CHIKUNGUNYA",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 86,
+    "version": "2015",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "220",
+    "nombre": "DENGUE GRAVE",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 42,
+    "version": "2010",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "228",
+    "nombre": "EXPOSICIÓN A FLÚOR",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 49,
+    "version": "2012",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "230",
+    "nombre": "DIFTERIA",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 14,
+    "version": "2007",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "235",
+    "nombre": "CARBUNCO",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 0,
+    "version": "2010",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "250",
+    "nombre": "ENCEFALITIS DEL NILO OCCIDENTAL EN HUMANOS",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 0,
+    "version": "2008",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "270",
+    "nombre": "ENCEFALITIS EQUINA DEL OESTE EN HUMANOS",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 0,
+    "version": "2008",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "275",
+    "nombre": "ENCEFALITIS EQUINA DEL ESTE EN HUMANOS",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 0,
+    "version": "2018",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "290",
+    "nombre": "ENCEFALITIS EQUINA VENEZOLANA EN HUMANOS",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 0,
+    "version": "2008",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "295",
+    "nombre": "ENFERMEDADES DE ORIGEN PRIONICO",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 0,
+    "version": "2010",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "298",
+    "nombre": "EVENTO ADVERSO GRAVE POSTERIOR A LA VACUNACIÓN",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 15,
+    "version": "2007",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "300",
+    "nombre": "AGRESIONES POR ANIMALES POTENCIALMENTE TRANSMISORES DE RABIA",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 5,
+    "version": "2007",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "305",
+    "nombre": "TRACOMA",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 61,
+    "version": "2015",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "310",
+    "nombre": "FIEBRE AMARILLA",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 1,
+    "version": "2007",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "320",
+    "nombre": "FIEBRE TIFOIDEA Y PARATIFOIDEA",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 0,
+    "version": "2008",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "330",
+    "nombre": "HEPATITIS A",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 0,
+    "version": "2008",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "340",
+    "nombre": "HEPATITIS B, C Y COINFECCIÓN HEPATITIS B Y DELTA",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 16,
+    "version": "2007",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "342",
+    "nombre": "ENFERMEDADES HUERFANAS - RARAS",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 67,
+    "version": "2015",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "345",
+    "nombre": "ESI - IRAG (VIGILANCIA CENTINELA)",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 93,
+    "version": "2007",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "346",
+    "nombre": "IRA POR VIRUS NUEVO",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 21,
+    "version": "2009",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "348",
+    "nombre": "INFECCION RESPIRATORIA AGUDA GRAVE IRAG INUSITADA",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 21,
+    "version": "2009",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "349",
+    "nombre": "BROTES DE ENFERMEDADES TRANSMITIDAS POR ALIMENTOS - ETA Y CÓLERA",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "3",
+    "id_formulario": 91,
+    "version": "2018",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "352",
+    "nombre": "INFECCIONES DE SITIO QUIRÚRGICO ASOCIADAS A PROCEDIMIENTO MÉDICO QUIRÚRGICO",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 76,
+    "version": "2015",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "354",
+    "nombre": "CONSUMO DE ANTIBIÓTICOS EN EL ÁMBITO HOSPITALARIO",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "3",
+    "id_formulario": 81,
+    "version": "2016",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "355",
+    "nombre": "ENFERMEDAD TRANSMITIDA POR ALIMENTOS O AGUA (ETA)",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 22,
+    "version": "2007",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "356",
+    "nombre": "INTENTO DE SUICIDIO",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 77,
+    "version": "2016",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "357",
+    "nombre": "IAD - INFECCIONES ASOCIADAS A DISPOSITIVOS - INDIVIDUAL",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 87,
+    "version": "2016",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "359",
+    "nombre": "IAD - INFECCIONES ASOCIADAS A DISPOSITIVOS - COLECTIVO",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "3",
+    "id_formulario": 88,
+    "version": "2016",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "362",
+    "nombre": "INFECCIONES DE SITIO QUIRÚRGICO ASOCIADAS A PROCEDIMIENTO MÉDICO QUIRÚRGICO - COLECTIVO",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "3",
+    "id_formulario": 90,
+    "version": "2018",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "365",
+    "nombre": "INTOXICACIONES",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 66,
+    "version": "2015",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "420",
+    "nombre": "LEISHMANIASIS CUTANEA",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 17,
+    "version": "2007",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "430",
+    "nombre": "LEISHMANIASIS MUCOSA",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 17,
+    "version": "2007",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "440",
+    "nombre": "LEISHMANIASIS VISCERAL",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 17,
+    "version": "2007",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "450",
+    "nombre": "LEPRA",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 3,
+    "version": "2007",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "452",
+    "nombre": "LESIONES POR ARTEFACTOS EXPLOSIVOS (POLVORA Y MINAS ANTIPERSONAL)",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 60,
+    "version": "2014",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "453",
+    "nombre": "LESIONES DE CAUSA EXTERNA",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 84,
+    "version": "2016",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "455",
+    "nombre": "LEPTOSPIROSIS",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 36,
+    "version": "2010",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "465",
+    "nombre": "MALARIA",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 65,
+    "version": "2015",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "535",
+    "nombre": "MENINGITIS BACTERIANA Y ENFERMEDAD MENINGOCÓCICA",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 62,
+    "version": "2015",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "549",
+    "nombre": "MORBILIDAD MATERNA EXTREMA",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 48,
+    "version": "2007",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "550",
+    "nombre": "MORTALIDAD MATERNA",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 58,
+    "version": "2007",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "551",
+    "nombre": "MORTALIDAD MATERNA - DATOS BÁSICOS",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 0,
+    "version": "2018",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "560",
+    "nombre": "MORTALIDAD PERINATAL Y NEONATAL TARDÍA",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 9,
+    "version": "2007",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "570",
+    "nombre": "MORTALIDAD POR COLERA",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 46,
+    "version": "2008",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "580",
+    "nombre": "MORTALIDAD POR DENGUE",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 42,
+    "version": "2010",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "591",
+    "nombre": "VIGILANCIA INTEGRADA DE MUERTES EN MENORES DE CINCO AÑOS POR INFECCIÓN RESPIRATORIA AGUDA, ENFERMEDAD DIARREICA AGUDA Y/O DESNUTRICIÓN",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 82,
+    "version": "2018",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "605",
+    "nombre": "ENFERMEDAD DIARREICA AGUDA POR ROTAVIRUS",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 33,
+    "version": "2010",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "607",
+    "nombre": "EBOLA",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 92,
+    "version": "2015",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "610",
+    "nombre": "PARALISIS FLACIDA AGUDA (MENORES DE 15 AÑOS)",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 4,
+    "version": "2007",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "620",
+    "nombre": "PAROTIDITIS",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 0,
+    "version": "2008",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "621",
+    "nombre": "PAROTIDITIS COLECTIVO",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "3",
+    "id_formulario": 0,
+    "version": "2018",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "630",
+    "nombre": "PESTE (BUBONICA/NEUMONICA)",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 0,
+    "version": "2008",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "650",
+    "nombre": "RABIA ANIMAL EN PERROS O GATOS",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "3",
+    "id_formulario": 24,
+    "version": "2008",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "652",
+    "nombre": "VIGILANCIA DE LA RABIA POR LABORATORIO",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "3",
+    "id_formulario": 24,
+    "version": "2010",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "670",
+    "nombre": "RABIA HUMANA",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 35,
+    "version": "2007",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "710",
+    "nombre": "RUBEOLA",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 6,
+    "version": "2007",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "720",
+    "nombre": "SINDROME DE RUBEOLA CONGENITA",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 10,
+    "version": "2007",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "730",
+    "nombre": "SARAMPION",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 6,
+    "version": "2007",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "740",
+    "nombre": "SIFILIS CONGENITA",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 44,
+    "version": "2010",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "750",
+    "nombre": "SIFILIS GESTACIONAL",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 11,
+    "version": "2007",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "760",
+    "nombre": "TETANOS ACCIDENTAL",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 39,
+    "version": "2007",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "770",
+    "nombre": "TETANOS NEONATAL",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 12,
+    "version": "2007",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "780",
+    "nombre": "TIFUS EPIDEMICO TRANSMITIDO POR PIOJOS",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 0,
+    "version": "2008",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "790",
+    "nombre": "TIFUS ENDEMICO TRASMITIDO POR PULGAS",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 0,
+    "version": "2008",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "800",
+    "nombre": "TOS FERINA",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 20,
+    "version": "2007",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "813",
+    "nombre": "TUBERCULOSIS",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 89,
+    "version": "2018",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "830",
+    "nombre": "VARICELA COLECTIVO",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "3",
+    "id_formulario": 0,
+    "version": "2008",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "831",
+    "nombre": "VARICELA INDIVIDUAL",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 0,
+    "version": "2008",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "850",
+    "nombre": "VIH/SIDA/MORTALIDAD POR SIDA",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 7,
+    "version": "2007",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "875",
+    "nombre": "VIGILANCIA EN SALUD PÚBLICA DE LA VIOLENCIA DE GÉNERO E INTRAFAMILIAR",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 51,
+    "version": "2012",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "895",
+    "nombre": "ZIKA",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 85,
+    "version": "2016",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "900",
+    "nombre": "EVENTO INDIVIDUAL SIN ESTABLECER",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 97,
+    "version": "2018",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "901",
+    "nombre": "EVENTO COLECTIVO SIN ESTABLECER",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "3",
+    "id_formulario": 0,
+    "version": "2018",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "913",
+    "nombre": "ZIKA COLECTIVO",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "3",
+    "id_formulario": 0,
+    "version": "2016",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "995",
+    "nombre": "MORBILIDAD POR IRA",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "3",
+    "id_formulario": 43,
+    "version": "2010",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "998",
+    "nombre": "MORBILIDAD POR EDA",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "3",
+    "id_formulario": 0,
+    "version": "2007",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "739",
+    "nombre": "SÍNDROME INFLAMATORIO MULTISISTÉMICO EN NIÑOS ASOCIADO A SARS-COV2",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 95,
+    "version": "2018",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "880",
+    "nombre": "VIRUS MPOX",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 96,
+    "version": "2018",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "101",
+    "nombre": "ACCIDENTES POR OTROS ANIMALES VENENOSOS",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "1",
+    "id_formulario": 98,
+    "version": "2018",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "957",
+    "nombre": "BROTES DE INFECCIONES ASOCIADAS A LA ATENCIÓN EN SALUD",
+    "notificacion_inmediata": 0,
+    "tipo_notificacion": "3",
+    "id_formulario": 99,
+    "version": "2018",
+    "estado": "Definitivo"
+  },
+  {
+    "codigo": "114",
+    "nombre": "RIESGO DE DESNUTRICIÓN AGUDA EN MENORES DE 5 AÑOS",
+    "notificacion_inmediata": 1,
+    "tipo_notificacion": "1",
+    "id_formulario": 100,
+    "version": "2018",
+    "estado": "Definitivo"
+  }
+]

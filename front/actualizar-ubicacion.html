@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ubicación en tiempo real - Dinamedical</title>
+    <link rel="stylesheet" href="estilos.css">
+    <style>
+        body { padding: 2rem; max-width: 480px; margin: 0 auto; text-align: center; }
+        .estado { padding: 1rem; border-radius: 8px; margin: 1rem 0; }
+        .estado.ok { background: rgba(76,175,80,0.2); color: #4caf50; }
+        .estado.error { background: rgba(244,67,54,0.2); color: #f44336; }
+        .estado.info { background: rgba(33,150,243,0.2); color: #2196f3; }
+        .coords { font-family: monospace; font-size: 0.9rem; margin-top: 0.5rem; }
+    </style>
+</head>
+<body>
+    <h1>Ubicación en tiempo real</h1>
+    <div id="contenido">
+        <p class="estado info" id="estado">Cargando...</p>
+        <p class="coords oculto" id="coords"></p>
+    </div>
+    <script>
+        (async function() {
+            const params = new URLSearchParams(location.search);
+            const codigo = params.get('c');
+            const estado = document.getElementById('estado');
+            const coords = document.getElementById('coords');
+
+            if (!codigo) {
+                estado.className = 'estado error';
+                estado.textContent = 'Enlace no válido. Falta el código.';
+                return;
+            }
+
+            try {
+                const resVal = await fetch('/api/ubicacion/validar/' + codigo);
+                const val = await resVal.json().catch(() => ({}));
+                if (!resVal.ok) {
+                    estado.className = 'estado error';
+                    estado.textContent = val.error || 'Enlace no válido.';
+                    return;
+                }
+
+                estado.className = 'estado info';
+                estado.textContent = 'Obteniendo ubicación...';
+
+                function enviarUbicacion(lat, lon) {
+                    return fetch('/api/ubicacion/actualizar', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({ codigo, latitud: lat, longitud: lon })
+                    });
+                }
+
+                function actualizarCada5Segundos() {
+                    if (!navigator.geolocation) {
+                        estado.className = 'estado error';
+                        estado.textContent = 'Tu navegador no soporta geolocalización.';
+                        return;
+                    }
+                    navigator.geolocation.getCurrentPosition(
+                        async (pos) => {
+                            const lat = pos.coords.latitude;
+                            const lon = pos.coords.longitude;
+                            try {
+                                const res = await enviarUbicacion(lat, lon);
+                                const data = await res.json().catch(() => ({}));
+                                if (res.ok) {
+                                    estado.className = 'estado ok';
+                                    estado.textContent = 'Actualizando cada 5 segundos. Mantenga esta página abierta.';
+                                    coords.textContent = lat.toFixed(6) + ', ' + lon.toFixed(6);
+                                    coords.classList.remove('oculto');
+                                } else {
+                                    estado.className = 'estado error';
+                                    estado.textContent = data.error || 'Error al actualizar.';
+                                }
+                            } catch (e) {
+                                estado.className = 'estado error';
+                                estado.textContent = e.message || 'Error de conexión.';
+                            }
+                        },
+                        (err) => {
+                            estado.className = 'estado error';
+                            estado.textContent = 'No se pudo obtener la ubicación: ' + (err.message || 'Permiso denegado');
+                        },
+                        { enableHighAccuracy: true }
+                    );
+                }
+
+                actualizarCada5Segundos();
+                setInterval(actualizarCada5Segundos, 5000);
+            } catch (e) {
+                estado.className = 'estado error';
+                estado.textContent = e.message || 'Error inesperado.';
+            }
+        })();
+    </script>
+</body>
+</html>

@@ -1,0 +1,63 @@
+Indice de paginas de preguntas por ficha (vision) vs instructivo (texto).
+Renderizados 0 PNG nuevos, eliminados 8 PNG de instructivo, 0 paginas escaneadas (vision obligada).
+
+101_Accidentes_Animales_Venenosos_2026 | total=8 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+115_CA_Menores_18_2026 | total=6 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+155_CA_mama_y_cuello_ut_2026 | total=6 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+200_Cólera_2026 | total=6 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+205_Chagas_2026 | total=7 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+215_Defectos_Congenitos_2026 | total=6 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+217_Chikungunya_2026 | total=6 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+230_Difteria_2026 | total=6 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+250-270-275-290_Encefalitis Datos_Básicos_2026 | total=4 | preguntas=[1] | fin_preguntas=p1 | instructivo_desde=p2
+300_Aptr_2026 | total=7 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+305_Tracoma_2026 | total=6 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+310_F_Amarilla_2026 | total=6 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+320_Fiebre tifoidea y paratifoidea Datos_Básicos_2026 | total=4 | preguntas=[1] | fin_preguntas=p1 | instructivo_desde=p2
+330_Hepatitis A_Datos_Básicos_2026 | total=4 | preguntas=[1] | fin_preguntas=p1 | instructivo_desde=p2
+340_Hepatitis_B_2026 | total=7 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+342_Enf_Huerfanas_2026 | total=6 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+345_ESI_Irag_2026 | total=6 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+346_Covid19_Datos_Básicos_2026 | total=4 | preguntas=[1] | fin_preguntas=p1 | instructivo_desde=p2
+348_Irag_inusitado_2026 | total=7 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+349_ETA_Colectivo_2026 | total=3 | preguntas=[1] | fin_preguntas=p1 | instructivo_desde=p2
+352_Infecciones_ISO_Invididual_2026 | total=6 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+354_CAB_2026 | total=2 | preguntas=[1] | fin_preguntas=p1 | instructivo_desde=p2
+356_Int_Suicidio_2026 | total=6 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+357_IAD_Individual_2026 | total=7 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+359_IAD_Colectivo_2026 | total=3 | preguntas=[1] | fin_preguntas=p1 | instructivo_desde=p2
+362_Infecciones ISO_Colectivo_2026 | total=2 | preguntas=[1] | fin_preguntas=p1 | instructivo_desde=p2
+365_Intoxicaciones_2026 | total=7 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+420_430_440_Leishmaniasis_2026 | total=7 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+450_Lepra_2026 | total=6 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+452_Lesiones_Polvora_2026 | total=6 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+453_Lesiones_C_Externa_2026 | total=7 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+455_Leptospirosis_2026 | total=6 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+465_Malaria_2026 | total=8 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+535_Meningitis_2026 | total=7 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+549_MME_2026 | total=7 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+550_MM_2026 | total=8 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+560_MPNT_2026 | total=7 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+591_Mortalidad_menores_5_años_2026 | total=6 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+607_Ebola_2026 | total=6 | preguntas=[1, 2, 3] | fin_preguntas=p3 | instructivo_desde=p4
+610_PFA_2026 | total=7 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+620_Paratiditis Datos_Básicos_2026 | total=4 | preguntas=[1] | fin_preguntas=p1 | instructivo_desde=p2
+650_652_Rabia_Animal_2026 | total=6 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+670_Rabia_Humana_2026 | total=8 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+710_730_Sarampion_Rubeola_2026 | total=7 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+720_S_Rubeola_Congenita_2026 | total=7 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+739_MIS-C_2026 | total=6 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+740_750_Sifilis_2026 | total=7 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+760_Tetanos_Accidental_2026 | total=6 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+770_Tetanos_Neonatal_2026 | total=8 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+800_Tosferina_2026 | total=7 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+813_Tuberculosis_2026 | total=8 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+831_Varicela Datos_Básicos_2026 | total=4 | preguntas=[1] | fin_preguntas=p1 | instructivo_desde=p2
+850_VIH_Sida_2026 | total=7 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+875_Violencia_Genero_2026 | total=6 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+880_MonkeyPox_2026 | total=7 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+895_Zika_2026 | total=6 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+900_Evento_Sin_Establecer_2026 (1) | total=5 | preguntas=[1, 2] | fin_preguntas=p2 | instructivo_desde=p3
+957_Brotes_IAAS_2026 (1) | total=6 | preguntas=[1] | fin_preguntas=p1 | instructivo_desde=p2
+995_IRA_Colectiva_2026 | total=2 | preguntas=[1] | fin_preguntas=p1 | instructivo_desde=p2
+998_830_621_901_Y_Brotes_2026 | total=2 | preguntas=[1] | fin_preguntas=p1 | instructivo_desde=p2

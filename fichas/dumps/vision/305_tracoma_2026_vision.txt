@@ -1,0 +1,52 @@
+FICHA 305 — CEGUERA POR TRACOMA (INS 305), V:11/V:00 2026-08-06
+Páginas de preguntas: p1 (datos básicos), p2 (secciones 5-6 = catálogo). p3-p6 = instructivo.
+============================================================
+===== PÁGINA 2 (preguntas, lectura visual) =====
+
+5. DATOS ESPECÍFICOS
+5.1 Tiempo en la residencia actual — SELECT, OBLIG (block OBLIG = SI)
+    1. Menor de 5 años
+    2. Entre 5 y 15 años
+    3. 15 y más
+5.2 Historia de cirugía de triquiasis — SELECT sí/no, OBLIG (block = SI)
+    [texto impreso p2: "Historia de cirugía de triquiasis"; el instructivo la llama "Historia previa de triquiasis" — errata menor]
+    1. Sí
+    2. No
+5.3 ¿En cuál ojo? — SELECT, NO oblig, condicional (solo si 5.2 = Sí)
+    1. Derecho  2. Izquierdo  3. Ambos
+5.4 Párpado ojo derecho — SELECT, NO oblig, condicional (solo si 5.2 = Sí)
+    1. Párpado superior  2. Párpado inferior  3. Ambos
+5.5 Párpado ojo izquierdo — SELECT, NO oblig, condicional (solo si 5.2 = Sí)
+    1. Párpado superior  2. Párpado inferior  3. Ambos
+
+6. CUADRO CLÍNICO, EXAMEN OCULAR EXTERNO
+6.1 ¿Cicatrices en mucosa tarsal? — SELECT sí/no, OBLIG (block = SI)
+    1. Sí  2. No
+6.1.1 ¿En cuál ojo? — SELECT, NO oblig, condicional (solo si 6.1 = Sí)
+    1. Derecho  2. Izquierdo  3. Ambos
+6.2 Tabla: signos/síntomas por ojo (marque con X, diferenciando ojo) — OBLIG (block = SI)
+    Estructura: filas de signos × columnas [Ojo derecho | Ojo izquierdo]; valores 0-4.
+    EVIDENCIAS: 0 No hay evidencia | 1 De 1 a 5 pestañas | 2 De 6 a 10 | 3 De 11 a 20 | 4 Más de 20.
+    Filas:
+      - ¿Depilación párpado superior?
+      - ¿Depilación párpado inferior?
+      - ¿Pestañas en contacto con el globo ocular en párpado superior?
+      - ¿Pestañas en contacto con el globo ocular en párpado inferior?
+      - ¿Hay pestaña tocando la córnea?
+6.3 ¿Hay opacidad corneal? — SELECT, OBLIG (block = SI)
+    1. Derecho  2. Izquierdo  3. Ambos  4. No presenta
+6.4 ¿Engrosamiento del párpado? — SELECT, OBLIG (block = SI; decisión cerrada por recheck p6)
+    1. Derecho  2. Izquierdo  3. Ambos  4. No presenta
+6.5 ¿Pestañas mal posicionadas? — SELECT, OBLIG (block = SI)
+    1. Derecho  2. Izquierdo  3. Ambos  4. No presenta
+6.6 ¿Sensación de cuerpo extraño? — SELECT, OBLIG (block = SI)
+    1. Derecho  2. Izquierdo  3. Ambos  4. No presenta
+6.7 ¿Fotofobia? — SELECT, OBLIG (block = SI)
+    1. Derecho  2. Izquierdo  3. Ambos  4. No presenta
+6.8 Medida agudeza visual ojo derecho — OBLIG, formato "20/ __" (número, valores permitidos 20-200)
+6.9 Medida agudeza visual ojo izquierdo — OBLIG, formato "20/ __" (número, 20-200)
+
+===== MAPEO OBLIG POR FILA (confirmado con recheck visual p6, decisión cerrada) =====
+A/B/C (paciente+ID): SI. 5.1 SI, 5.2 SI, 5.3 NO, 5.4 NO, 5.5 NO,
+6.1 SI, 6.1.1 NO, 6.2 SI, 6.3 SI, 6.4 SI, 6.5 SI, 6.6 SI, 6.7 SI, 6.8 SI, 6.9 SI.
+Condicionales: 5.3/5.4/5.5 dependen de 5.2; 6.1.1 depende de 6.1 (show_if = '1').

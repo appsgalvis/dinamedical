@@ -1,0 +1,112 @@
+
+===== PAGINA 1 =====
+  140.5  236.4 - FOR-R02.4030-061 V:00 2026-08-06
+  175.3  242.8 B 1. INFORMACIÓN GENERAL
+  193.5   21.0 B 1.1 Código de la UPGD
+  193.5  269.0 B 1.2 Razón social  de la unidad primaria generadora del dato
+  222.5   25.0 - Departamento
+  222.5   83.0 - Municipio
+  223.2  159.1 - Código
+  223.3  219.4 - Sub– Índice
+  235.0   19.9 B 1.3 Fecha de la notificación (dd/mm/aaaa)
+  235.1  218.4 B 1.4 Mes de vigilancia
+  235.2  407.2 B 1.5 Año de vigilancia
+  254.0   77.0 - /
+  254.3  120.8 - /
+  281.0  257.5 B 2. CIRUGIA GENERAL
+  300.2  259.5 - Casos nuevos
+  300.5  328.8 - Número de procedimientos (denominador)
+  318.0  164.4 B 2.1 Colesistectomìa
+  342.2  181.2 B 2.2 Herniorrafìa
+  379.2  236.7 B 3. CIRUGIA CARDIOVASCULAR
+  399.2  328.8 - Número de procedimientos (denominador)
+  400.0  259.5 - Casos nuevos
+  417.2  111.7 B 3.1 Revascularización miocardica
+  450.1  248.7 B 4. ATENCIÓN DE PARTOS
+  470.4  258.1 - Casos nuevos
+  470.6  328.6 - Número de procedimientos (denominador)
+  488.8  172.1 B 4.1 Cesárea
+  514.4  144.2 B 4.3 Parto vía vaginal
+  545.7   18.2 B Correos: sivigila@ins.gov.co
+--- dibujos: 44 ---
+
+===== PAGINA 2 =====
+   59.2  165.1 B INSTRUCTIVO DILIGENCIAMIENTO FICHAS DE NOTIFICACIÓN DATOS COLECTIVOS
+   67.7  182.5 B INFECCIONES ASOCIADAS A PROCEDIMIENTOS MÉDICO-QUIRÚRGICOS
+   76.2  252.2 B CÓDIGO INS: Código INS 362
+   98.4  528.6 B OBL
+  102.2   95.1 B VARIABLE
+  102.2  212.1 B CATEGORÍAS Y DEFINICIÓN
+  102.2  385.4 B CRITERIOS SISTEMATIZACIÓN
+  107.0  531.3 B IG.
+  114.9  245.1 B 1. INFORMACIÓN GENERAL
+  128.4  172.9 - Ingrese el código de la UPGD que va a notificar que le
+  128.4  343.3 - Diligencie la variable, de lo contrario el sistema no permitirá
+  132.6   52.9 B 1.1. Código UPGD
+  133.1  532.5 B SI
+  136.6  172.9 - fue  asignado en el Sivigila
+  136.6  343.3 - continuar con el ingreso de la información.
+  155.3  343.3 - Diligencie la variable, de lo contrario el sistema no permitirá
+  159.4  172.9 - Ingrese el nombre de la UPGD que va a notificar
+  159.5   52.9 B 1.2. Razón social de la UPGD
+  160.0  532.5 B SI
+  163.5  343.3 - continuar con el ingreso de la información.
+  182.2  172.9 - Ingrese la fecha en la que se va a noitificar la
+  182.2  343.3 - Diligencie la variable, de lo contrario el sistema no permitirá
+  186.4   52.9 B 1.3. Fecha notificación
+  186.9  532.5 B SI
+  190.4  172.9 - información. Formato día-mes-año
+  190.4  343.3 - continuar con el ingreso de la información.
+  209.1  172.9 - Ingrese el mes que va a reportar. Ejm: enero, febrero,
+  209.1  343.3 - Diligencie la variable, de lo contrario el sistema no permitirá
+  213.3   52.9 B 1.4. Mes de vigilancia
+  213.8  532.5 B SI
+  217.2  172.9 - marzo, etc
+  217.2  343.3 - continuar con el ingreso de la información.
+  236.0  343.3 - Diligencie la variable, de lo contrario el sistema no permitirá
+  240.1  172.9 - Ingrese ela año que va a reportar. Ejm: 2018
+  240.2   52.9 B 1.5. Año de vigilancia
+  240.7  532.5 B SI
+  244.2  343.3 - continuar con el ingreso de la información.
+  258.1  254.8 B 2. CIRUGIA GENERAL
+  267.2   52.9 B 2.1 Colesistectomía
+  270.1  172.9 - Ingrese el número consolidado de procedimientos de
+  270.1  343.3 - Diligencie la variable, de lo contrario el sistema no permitirá
+  274.9  532.5 B SI
+  278.2  172.9 - colecistectomía vigilados durante el mes en la UPGD.
+  278.2  343.3 - continuar con el ingreso de la información.
+  290.0  172.9 - Ingrese el número consolidado de procedimientos de
+  291.1   52.9 B 2.2 Herniorrafìa
+  294.0  343.3 - Diligencie la variable, de lo contrario el sistema no permitirá
+  298.2  172.9 - herniorrafia con malla vigilados durante el mes en la
+  298.8  532.5 B SI
+  302.1  343.3 - continuar con el ingreso de la información.
+  306.3  172.9 - UPGD.
+  314.6  239.9 B 3. CIRUGIA CARDIOVASCULAR
+  323.7   52.9 B 3.1 Revascularización miocardica
+  329.5  172.9 - Ingrese el número consolidado de procedimientos de
+  333.6  343.3 - Diligencie la variable, de lo contrario el sistema no permitirá
+  337.6  172.9 - revascularización miocárdica vigilados durante el mes
+  338.2  532.5 B SI
+  341.7  343.3 - continuar con el ingreso de la información.
+  345.8  172.9 - en la UPGD.
+  361.0  248.1 B 4. ATENCIÓN DE PARTOS
+  370.2   52.9 B 4.1 Cesárea -I.S.O
+  375.8  172.9 - Ingrese el número consolidado de procedimientos de
+  375.8  343.3 - Diligencie la variable, de lo contrario el sistema no permitirá
+  380.6  532.5 B SI
+  384.0  172.9 - cesáreas vigilados durante el mes en la UPGD.
+  384.0  343.3 - continuar con el ingreso de la información.
+  399.6   52.9 B 4.2 Post Cesárea - Endometritis
+  405.2  172.9 - Ingrese el número consolidado de procedimientos de
+  405.2  343.3 - Diligencie la variable, de lo contrario el sistema no permitirá
+  410.0  532.5 B SI
+  413.4  172.9 - cesáreas vigilados durante el mes en la UPGD.
+  413.4  343.3 - continuar con el ingreso de la información.
+  429.0   52.9 B 4.3 Post parto - Endometritis
+  434.6  172.9 - Ingrese el número consolidado de partos vaginales
+  434.6  343.3 - Diligencie la variable, de lo contrario el sistema no permitirá
+  439.4  532.5 B SI
+  442.8  172.9 - vigilados durante el mes en la UPGD.
+  442.8  343.3 - continuar con el ingreso de la información.
+--- dibujos: 40 ---

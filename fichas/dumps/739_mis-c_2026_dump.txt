@@ -1,0 +1,866 @@
+
+===== PAGINA 1 =====
+  127.8  227.9 B FOR-R02.0000-001 V:11 2026-08-06
+  160.4  244.5 B 1. INFORMACIÓN GENERAL
+  176.5   21.3 B 1.1 Código de la UPGD *
+  176.5  269.4 B Razón social  de la unidad primaria generadora del dato *
+  205.5   25.3 - Departamento
+  205.5   83.3 - Municipio
+  206.2  159.5 - Código
+  206.3  219.7 - Sub– Índice
+  218.1  362.2 B 1.3 Fecha de la notificación (dd/mm/aaaa) *
+  218.7  295.0 - Código del evento
+  219.0   21.3 B 1.2 Nombre del evento *
+  233.1  399.5 - /
+  233.4  443.2 - /
+  250.7  229.3 B 2. IDENTIFICACIÓN DEL PACIENTE
+  269.0   21.0 B 2.1 Tipo de documento *
+  269.0  403.7 B 2.2 Número de identificación *
+  279.7  289.2 - o
+  279.7  320.1 - o
+  279.7  348.6 - o
+  279.7  377.5 - o
+  280.4   19.9 - o
+  280.4   46.9 - o
+  280.4   72.7 - o
+  280.4  102.2 - o
+  280.4  134.9 - o
+  280.4  167.5 - o
+  280.4  200.1 - o
+  280.4  229.7 - o
+  280.4  258.1 - o
+  284.2  297.7 - CD
+  284.2  328.6 - SC
+  284.2  357.1 - DE
+  284.3  386.0 - PT
+  285.0   28.4 - RC
+  285.0   55.4 - TI
+  285.0   81.2 - CC
+  285.0  110.7 - CE
+  285.0  143.4 - PA
+  285.0  176.0 - MS
+  285.0  208.6 - AS
+  285.0  238.2 - PE
+  285.0  266.6 - CN
+  299.9   40.1 B *RC : REGISTRO CIVIL | TI : TARJETA IDENTIDAD | CC : CÉDULA CIUDADANÍA | CE : CÉDULA EXTRANJERÍA |- PA : PASAPORTE | MS : MENOR SIN ID | AS : ADULTO SIN ID | PE : PERMISO ESPECIAL DE PERMANENCIA |
+  305.9   96.1 B CN : CERTIFICADO DE NACIDO VIVO | CD: CARNÉ DIPLOMÁTICO | SC : SALVOCONDUCTO | DE : DOCUMENTO EXTRANJERO | PT : PERMISO POR PROTECCION TEMPORAL
+  315.7   21.0 B 2.3  Nombres y apellidos del paciente *
+  315.7  466.0 B 2.4 Teléfono *
+  343.4  401.6 B 2.8  Nacionalidad *
+  343.6  240.0 B 2.7 Unidad de medida de la edad *
+  344.3   21.6 B 2.5 Fecha de nacimiento (dd/mm/aaaa)
+  344.3  186.8 B 2.6 Edad *
+  351.1  238.5 - o
+  351.1  288.1 - o
+  351.1  337.0 - o
+  354.8  247.0 - 1. Años
+  354.8  296.6 - 3. Días
+  354.8  345.5 - 5. Minutos
+  361.2   59.2 - /
+  361.5  102.9 - /
+  363.1  238.5 - o
+  363.1  288.1 - o
+  363.1  337.0 - o
+  366.8  247.0 - 2. Meses
+  366.8  296.6 - 4. Horas
+  366.8  345.5 - 0. No aplica
+  367.4  551.0 - Código
+  381.4   21.7 B 2.9  Sexo *
+  381.4  137.2 B 2.10 Identidad de género
+  381.4  372.5 B 2.11 Orientación sexual
+  386.8  443.4 - o
+  387.5  372.5 - o
+  389.6   21.0 - o
+  389.6  137.2 - o
+  389.8  183.3 - o
+  389.8  244.0 - o
+  389.9   71.7 - o
+  391.3  451.9 - 3.  Bisexual
+  391.3  496.1 B Cuál otra?
+  392.1  381.0 - 1.  Heterosexual
+  394.2   29.5 - M. Hombre
+  394.2  145.7 - 1. Hombre
+  394.3  191.8 - 3. Hombre trans
+  394.4  252.5 - 5. Otra
+  394.5   80.2 - I. Indeterminado
+  398.8  443.4 - o
+  399.5  372.5 - o
+  401.6   21.0 - o
+  401.6  137.2 - o
+  401.8  183.3 - o
+  403.3  451.9 - 4.  Otra
+  404.1  381.0 - 2.  Gay/Lesbiana
+  406.0  244.6 B Cuál otra?
+  406.2   29.5 - F. Mujer
+  406.2  145.7 - 2. Mujer
+  406.3  191.8 - 4. Mujer trans
+  418.8  213.1 B 2.13 Departamento y municipio de procedencia/ocurrencia del caso *
+  418.8  446.9 B 2.14 Área de procedencia/ocurrencia del caso *
+  419.1   21.0 B 2.12 País de procedencia/ocurrencia del caso *
+  425.7  446.2 - o
+  426.0  534.8 - o
+  430.3  454.7 - 1. Cabecera municipal
+  430.6  543.3 - 3. Rural disperso
+  437.7  446.2 - o
+  442.3  454.7 - 2. Centro poblado
+  445.9  176.4 - País
+  445.9  354.0 - Departamento
+  445.9  406.6 - Municipio
+  454.5  473.1 B 2.18 Vereda/zona procedencia/ocurrencia
+  454.8   18.8 B 2.15 Localidad de procedencia/ocurrencia del caso
+  454.8  171.2 B 2.16 Barrio de procedencia/ocurrencia del caso
+  454.8  312.3 B 2.17 Centro poblado procedencia/ocurrencia del caso
+  462.9  474.0 - Código
+  463.7  172.1 - Código
+  486.9   19.3 B 2.19 Ocupación del paciente *
+  488.1  210.3 B 2.20 Tipo de régimen en salud *
+  488.6  400.9 B 2.21 Nombre de la administradora de Planes de beneficios *
+  488.8   83.8 - Código
+  493.3   30.9 - Escriba el nombre de la
+  493.6  313.4 - o
+  494.3  209.2 - o
+  494.3  257.8 - o
+  498.1   26.3 - ocupación en la línea inferior
+  498.1  321.9 - N. No Asegurado
+  498.9  217.7 - P. Excepción
+  498.9  266.3 - C. Contributivo
+  506.3  209.2 - o
+  506.3  257.8 - o
+  506.3  313.7 - o
+  510.9  217.7 - E. Especial
+  510.9  266.3 - S. Subsidiado
+  510.9  322.2 - I. Indeterminado/ pendiente
+  516.5  531.5 - Código
+  526.5  152.7 - Grupo ètnico
+  526.7  552.0 B 2.23 Estrato
+  528.2   20.3 B 2.22 Pertenencia étnica * o
+  528.2  235.0 - o
+  528.2  296.0 - o
+  528.2  345.6 - o
+  528.2  405.8 - o
+  528.2  515.7 - o
+  532.8  111.7 - 1. Indígena
+  532.8  243.5 - 2. Rom, Gitano
+  532.8  304.5 - 3. Raizal
+  532.8  354.1 - 4. Palenquero
+  532.8  414.3 - 5. Negro, mulato afro colombiano
+  532.8  524.2 - 6. Otro
+  549.1   21.4 B 2.24 Seleccione los grupos poblacionales a los que pertenece el paciente *
+  559.4   20.3 - q
+  559.4  133.0 - q
+  559.5  227.2 - q
+  559.5  274.5 B Semanas de
+  559.5  313.7 - q
+  560.2  426.4 - q
+  560.2  501.8 - q
+  563.0  144.1 - Migrantes
+  563.1  238.3 - Gestantes
+  563.1  324.8 - Población infantil a cargo del ICBF
+  563.4   31.3 - Personas en condición de discapacidad
+  563.8  437.5 - Desmovilizados
+  563.8  513.0 - Víctimas de violencia armada
+  564.5  277.5 B gestación
+  569.4   20.3 - q
+  569.4  133.0 - q
+  569.5  227.2 - q
+  569.5  313.7 - q
+  570.2  426.4 - q
+  570.2  501.8 - q
+  573.0   31.4 - Desplazados
+  573.1  238.3 - Habitantes de la calle
+  573.1  324.8 - Madres comunitarias
+  573.4  142.4 - Personas privadas de la libertad
+  573.8  437.5 - Centros psiquiátricos
+  573.8  513.0 - Otros grupos poblacionales
+  593.2  264.7 B 3. NOTIFICACIÓN
+  610.1   19.9 B 3.1 Fuente
+  611.5  193.2 B 3.2 País, departamento y municipio de residencia del paciente *
+  615.3   19.2 - o
+  615.4  107.8 - o
+  615.6  498.6 - Departamento
+  615.6  549.4 - Municipio
+  615.7  461.3 - País
+  619.9   27.7 - 1. Notificación rutinaria
+  620.0  116.3 - 4. Búsqueda activa com.
+  624.9   19.2 - o
+  625.0  107.8 - o
+  629.5   27.7 - 2. Búsqueda activa Inst.
+  629.6  116.3 - 5. Investigaciones
+  634.4   18.8 - o
+  638.9   27.3 - 3. Vigilancia Intensificada
+  653.2   18.5 B 3.3  Dirección de residencia *
+  669.0  527.8 B 3.7 Hospitalizado *
+  669.5  385.9 B 3.6 Clasificación inicial de caso *
+  670.3   18.5 B 3.4  Fecha de consulta (dd/mm/aaaa)
+  670.3  193.5 B 3.5  Fecha de inicio de síntomas (dd/mm/aaaa)
+  677.1  365.4 - o
+  677.1  421.4 - o
+  681.6  373.9 - 1. Sospechoso
+  681.6  429.9 - 3. Conf. por laboratorio
+  686.7  365.4 - o
+  686.7  421.4 - o
+  687.2  561.9 - o
+  687.3  534.1 - o
+  691.2  373.9 - 2. Probable
+  691.2  429.9 - 4. Conf. Clínica
+  691.3   56.0 - /
+  691.6   99.7 - /
+  691.6  230.9 - /
+  691.7  570.4 - No
+  691.8  542.6 - Sí
+  691.9  274.6 - /
+  696.0  421.4 - o
+  700.6  429.9 - 5. Conf. nexo epidemiológico
+  713.1   18.5 B 3.8 Fecha de hospitalización (dd/mm/aaaa)
+  713.1  182.2 B 3.9 Condición final *
+  713.9  263.7 B 3.10 Fecha de defunción (dd/mm/aaaa)
+  714.7  426.7 B 3.11 Número certificado de defunción
+  721.9  182.6 - o
+  726.5  191.1 - 1. Vivo
+  731.5  182.6 - o
+  736.1  191.1 - 2. Muerto
+  739.0   56.0 - /
+  739.3   99.7 - /
+  739.3  301.1 - /
+  739.6  344.9 - /
+  741.1  182.6 - o
+  745.7  191.1 - 0. No sabe, no responde
+  760.8   18.5 B 3.12 Causa básica de muerte
+  761.3  236.8 B 3.13 Nombre del profesional que diligenció la ficha *
+  761.3  488.7 B 3.14  Teléfono del profesional *
+  790.5  152.6 B 4. ESPACIO EXCLUSIVO PARA USO DE LOS ENTES TERRITORIALES
+  809.6   18.5 B 4.1 Seguimiento y clasificación final del caso
+  812.0  398.7 B 4.2 Fecha de ajuste (dd/mm/aaaa)
+  817.8   18.1 - o
+  817.8   26.6 - 3. Conf. por laboratorio o
+  817.8  193.9 - o
+  819.0  267.6 - o
+  822.3   26.6 - 0. No aplica
+  822.3  106.0 - 4. Conf. Clínica
+  822.3  202.4 - 6. Descartado
+  823.6  276.1 - D. Descartado por error de digitación
+  827.4   18.1 - o
+  827.4   97.5 - o
+  827.4  193.9 - o
+  831.2  436.1 - /
+  831.4  479.9 - /
+  831.9  106.0 - 5. Conf. nexo epidemiológico
+  831.9  202.4 - 7. Otra actualización
+  854.7   15.6 B Correos: sivigila@ins.gov.co
+--- dibujos: 160 ---
+
+===== PAGINA 2 =====
+  117.1  237.9 - FOR-R02.4030-046 V:00 2026-08-06
+  223.1  246.1 B 10. DATOS CLINICOS MIS-C
+  245.3  385.3 B 10.2 Síntomas iniciales
+  246.0   24.6 B 10.1 Relación con COVID-19
+  253.6  470.3 B Fecha inicio de fiebre (dd-mm-aaaa)
+  261.6  385.5 - q Fiebre
+  264.4  284.9 - o 1. Sí o 2. No
+  268.5   24.4 B 10.1.1 RT-PCR SARS-CoV 2 positiva en las últimas 4 semanas
+  274.0  385.5 - q Diarrea
+  285.1  284.9 - o 1. Sí o 2. No
+  285.4  385.7 - q Dolor abdominal
+  288.4   24.4 B 10.1.2 Ac IgM/IgG SARS-CoV 2 positiva en las últimas 4 semanas
+  296.7  385.6 - q Náuseas / Vómito
+  306.2   24.4 B 10.1.3 Nexo epidemiológico con caso positivo COVID- 19 en las
+  306.4  284.9 - o 1. Sí o 2. No
+  308.1  385.7 - q Hipotensión
+  315.8   24.4 B últimas 4 semanas
+  318.9  425.0 B Cuales? __________________________________
+  319.4  385.7 - q Otros
+  340.4  213.7 B 11. HALLAZGOS DE LABORATORIO MIS-C
+  365.5   22.4 B 11.1  Presenta alguno de las siguientes alteraciones de laboratorio
+  384.2  338.0 B Valor Referencia
+  384.2  410.5 B Valor Resultado
+  398.8  161.0 - Fibrinógeno
+  398.8  408.0 B V  A  L  O  R
+  399.6  333.6 - 150 - 350 mg/dl
+  399.7  245.5 - O    1. Sí
+  399.7  284.6 - O   2. No
+  416.8  143.6 - Proteína C Reactiva
+  416.8  408.0 B V  A  L  O  R
+  417.5  334.2 - Menor 6 mg/dl
+  418.1  246.0 - O    1. Sí
+  418.1  285.1 - O   2. No
+  434.7  168.2 - Ferritina
+  434.7  408.0 B V  A  L  O  R
+  435.1  246.0 - O    1. Sí
+  435.1  285.1 - O   2. No
+  435.5  340.2 - 7 a 140 μg/L
+  452.6  165.2 - Dímero-D
+  452.6  408.0 B V  A  L  O  R
+  452.9  285.5 - O   2. No
+  453.0  246.4 - O    1. Sí
+  453.4  337.8 - > 3000 ng/ml
+  470.6  163.4 - Linfopenia
+  470.6  408.0 B V  A  L  O  R
+  471.3  337.8 - 5000 - 10.000
+  471.9  286.0 - O   2. No
+  472.0  246.9 - O    1. Sí
+  488.3  286.0 - O   2. No
+  488.4  246.9 - O    1. Sí
+  488.5  164.0 - Troponina
+  488.5  408.0 B V  A  L  O  R
+  489.3  357.0 - >0
+  506.9  217.0 B *Si selecciona ‘2 - No’ , el valor del resultado debe ser igual a 0
+  525.2   19.6 B Correo: sivigila@ins.gov.co
+--- dibujos: 62 ---
+
+===== PAGINA 3 =====
+   63.5  235.2 B INSTRUCTIVO DILIGENCIAMIENTO FICHAS DE NOTIFICACIÓN
+   69.6  287.4 B DATOS BÁSICOS
+   93.0   23.2 B Definición
+   99.1   23.2 B La ficha de notificación de Datos Básicos es un instrumento que permite obtener información prioritaria de las variables de tiempo, lugar y persona para la notificación de los diferentes eventos de interés en salud pública, con el fin de diferenciar
+  105.3   23.2 - claramente las características propias de las poblaciones que se ven asociadas a los eventos notificados (variables universales), los lugares y momentos específicos en los que se presentan.
+  117.5   23.2 B Consideraciones generales
+  123.6   23.2 - Para el diligenciamiento de la ficha de datos básicos, es importante tener en cuenta los aspectos que se numerarán a continuación, con el fin que la información allí consignada cumpla con los criterios de calidad y veracidad del dato:
+  129.7   23.2 B 1. Diligencie con letra imprenta, clara y legible; recuerde que la ficha de notificación es un DOCUMENTO MÉDICO LEGAL , por lo tanto es necesario que evite enmendaduras o tachones durante su diligenciamiento.
+  135.9   23.2 - 2. Utilice preferiblemente esfero de tinta negra para el diligenciamiento de la ficha de notificación.
+  142.0   23.2 - 3. Las variables que son obligatorias (identifíquelas por el asterisco que las acompaña) deben venir diligenciadas en la ficha.
+  148.1   23.2 B 4. Tenga en cuenta que dependiendo la variable puede o no tener múltiples opciones de respuesta. Por lo anterior, las variables cuyas categorías estén designadas con un (círculo) significa que esa variable tiene una ÚNICA opción de respuesta. Por
+  154.2   23.2 B el contrario las variables que están señaladas con un (cuadrado), significa que tiene MÚLTIPLES opciones de respuesta.
+  160.3   23.2 - 5. Escriba una letra o número por casilla.
+  166.5   23.2 - 6. Verifique que las variables Código de evento y nombre del evento, coincidan.
+  172.6   23.2 - 7. Verifique que las variables código de UPGD, número de identificación, tipo de documento y código del evento, estén diligenciadas correctamente, con el fin de evitar contratiempos en la notificación.
+  178.7   23.2 - 8. Recuerde que cuando el evento requiere datos complementarios es necesario diligenciar también la ficha de datos específicos "Cara B", la cual encontrará en la página web del INS, con el nombre del evento.
+  184.8   23.2 B Excepciones: en el evento Muerte perinatal y neonatal tardía, los datos básicos corresponden a los datos de la madre.
+  206.4  264.8 B 1. INFORMACIÓN GENERAL
+  215.1   51.7 B VARIABLE
+  215.1  204.8 B CATEGORÍAS Y DEFINICIÓN
+  215.1  417.7 B CRITERIOS SISTEMATIZACIÓN
+  215.2  546.8 B OBLIG
+  227.7  106.2 - Diligencie el código de habilitación del prestador.
+  233.8  106.2 - Tenga en cuenta:
+  239.9  106.2 B Departamento: se relaciona con el código del departamento al que pertenece la institución (código DIVIPOLA del
+  246.0  106.2 - DANE) y corresponde a los dos primeros dígitos.
+  252.1  106.2 B Municipio: los tres dígitos sumados a los anteriores identifican el municipio donde se encuentra ubicada la institución y
+  258.3  106.2 - corresponden al código DIVIPOLA del DANE.
+  264.4  106.2 B Código: el primer dígito de este grupo corresponde al número asignado cuando la institución se encuentra en el registro
+  270.5  106.2 - de habilitación de prestadores de salud (REPS). Tenga en cuenta que si la UPGD pertenece a la Policía Nacional el
+  270.5  371.4 - Registre el código de habilitación por el módulo de caracterización de
+  276.6  106.2 - dígito debe ser 7, si pertenece a fuerzas militares debe ser 8. Si son unidades informadoras que no tienen código de
+  276.6  371.4 - UPGD antes de iniciar la notificación.
+  279.7   23.2 B 1.1 Código de UPGD
+  279.9  552.4 B SI
+  282.7  106.2 - habilitación debe ser 9 incluidas las Unidades Especiales del ICBF y los Centros de Recuperación Nutricional. Los
+  282.7  371.4 - Recuerde clasificar la UPGD como
+  282.7  460.8 - Activa = Si, en el módulo
+  282.7  530.3 - de
+  288.9  106.2 - cuatro dígitos siguientes son asignados por el departamento-municipio cuando son unidades informadoras; de lo
+  288.9  371.4 - caracterización de UPGD.
+  295.0  106.2 - contrario son asignados por el REPS. Para las Unidades Especiales del ICBF utilice como complemento los 4 dígitos
+  301.1  106.2 - 9999 y los Centros de recuperación nutricional utilice como complemento los 4 dígitos 0000
+  307.2  106.2 B Sub-índice: identifica el número de sede al que pertenece la institución cuando la UPGD tiene más de una (la sede
+  313.3  106.2 - principal siempre es 01). Cuando terminan en 80, se relacionan con UPGD que pertenecen al ejército nacional; 81, a la
+  319.5  106.2 - Armada; 82, a la fuerza aérea; 83, hospital militar; 55 EAPB, 99, identifican los establecimientos penitenciarios y
+  325.6  106.2 - carcelarios; 76, identifican a las Unidades Especiales del ICBE; y 85, a los Centros de Recuperación Nutricional.
+  345.0  371.4 - * Tener en cuenta que el nombre y el código del evento deben coincidir
+  348.0   23.2 B 1.2 Nombre del evento
+  348.0  106.2 - Nombre del evento y código de acuerdo al listado de clasificación establecido por el Instituto Nacional de Salud.
+  348.3  552.4 B SI
+  351.1  371.4 - para evitar confusiones durante la sistematización.
+  360.1  106.2 - Fecha en la que se está informando el evento al siguiente nivel por cualquier mecanismo, en especial para los eventos
+  360.1  371.4 - * La fecha de notificación debe ser mayor o igual a la fecha de inicio de
+  363.1   23.2 B 1.3 Fecha de notificación
+  363.4  552.4 B SI
+  366.3  106.2 - de notificación inmediata. Formato día-mes-año
+  366.3  371.4 - síntomas y a la fecha de consulta.
+  375.0  256.6 B 2. IDENTIFICACIÓN DEL PACIENTE
+  386.2  106.2 - Se relaciona con el tipo de documento de identidad que tiene el paciente que está siendo notificado. Diligencie una sola
+  392.3  106.2 - opción en esta variable.
+  398.4  106.2 - Tenga en cuenta que si el paciente es menor de edad y no tiene identificación debera ingresarlo como "MS" y el número
+  401.4   23.2 B 2.1 Tipo de documento
+  401.4  371.4 B * El tipo de documento debe ser consistente con la edad del paciente.
+  401.7  552.4 B SI
+  404.5  106.2 - de identificación debera seguir las indicaciones del apartado 2.2.
+  410.7  106.2 - En caso que el paciente sea mayor de edad y no tiene identificación debera ingresarlo como "AS" y el número de
+  416.8  106.2 - identificación debera seguir las indicaciones del apartado 2.2.
+  427.0  106.2 - El estándar de longitud de caracteres del número de identificación acorde al tipo de identificación, se define en el
+  433.1  106.2 - "Diccionario de elemento de datos el estándar" lenguaje común de intercambio de información (MinTIC), de la siguiente
+  439.2  106.2 - manera:
+  451.5  106.2 - RC: entre 8 ó 10 ú 11 dígitos
+  457.6  106.2 - TI: 10 y 11 dígitos
+  463.7  106.2 - CC: entre 8 y 17 dígitos
+  469.8  106.2 - CE: menor a 11 dígitos
+  475.9  106.2 - PA: menor a 19 dígitos
+  482.1  106.2 - MS: para este último ingrese el documento de la madre con el consecutivo respectivo al número de nacimiento.
+  488.2  106.2 - AS:  para mayores de 18 años utilice el código del Departamento + código de Municipio y el consecutivo definido por el
+  494.3  106.2 - Entidad Territorial o UPGD. Tenga en cuenta que en el módulo de captura en línea el sistema asignará un número
+  497.4  371.4 - Diligencie la variable, de lo contrario el sistema no permitirá continuar con
+  500.4   23.2 B 2.2 Número de identificación
+  500.4  106.2 - cuando seleccione este tipo de documento.
+  500.7  552.4 B SI
+  503.5  371.4 - el ingreso de la información.
+  506.5  106.2 - PE: menor a 18 dígitos
+  512.7  106.2 - CN:  menor de 20 dígitos
+  518.8  106.2 - CD: 14 digitos
+  524.9  106.2 - SC: 12 digitos
+  531.0  106.2 - DE: 19 digitos
+  537.1  106.2 - PT: 10 digitos
+  555.5  106.2 - En adopción de la Circular Externa 000029 del 16 de agosto de 2017 expedida por el Ministerio de Salud y Protección
+  561.6  106.2 - Social, se incluye validación para la identificación de extranjeros de acuerdo al estándar internacional ISO 3166-1 para
+  567.7  106.2 - los siguientes tipo de documento: en CE , PA, AS, MS, CD, SC, DE y PT de esta manera se aumenta la longitud de
+  573.9  106.2 - captura en 3 dígitos más para cada uno.
+  585.5   23.2 B 2.3
+  585.5   35.5 B Nombres
+  585.5   62.4 B y
+  585.5   70.7 B apellidos
+  585.5   97.3 B del
+  585.5  371.4 - * El primer nombre y primer apellido son obligatorios para el sistema, de lo
+  588.6  106.2 - Corresponde a los nombres y apellidos del paciente textual al documento de identificación.
+  588.7  552.4 B SI
+  591.6   23.2 B paciente
+  591.6  371.4 - contrario no le permitirá continuar con la sistematización de la información.
+  608.5  106.2 - Corresponde al número telefónico (fijo o celular) donde pueda ubicarse al paciente. Es necesario anteceder el número
+  614.7  106.2 - indicativo del departamento o distrito, ejemplo, para marcar a Bogotá, (1) 2302162.
+  614.7  371.4 - * Si no es posible obtener el número telefónico, diligencie esta variable
+  620.8   23.2 B 2.4 Teléfono
+  620.8  371.4 - "SIN INFORMACIÓN". De lo contrario se tomará arbitrariamente durante la
+  620.9  552.4 B SI
+  626.9  106.2 - Tenga en cuenta que el diligenciamiento correcto de esta variable permitira contactar al paciente en caso de ser
+  626.9  371.4 - sistematización de la ficha.
+  633.0  106.2 - requerido.
+  648.5  106.2 - Para el evento de mortalidad perinatal y neonatal tardía los datos en la ficha de datos básicos corresponden a los de la
+  651.6  371.4 - El ingreso de la fecha de nacimiento permitirá el cálculo de la semana
+  654.6   23.2 B 2.5 Fecha de nacimiento
+  654.6  106.2 - mama.
+  654.9  550.9 B NO
+  657.7  371.4 - epidemiológica para Sífilis congénita y Síndrome de rubeola congénita.
+  660.7  106.2 - Formato día-mes-año.
+  672.9   23.2 B 2.6 Edad
+  672.9  106.2 - Reporte la edad cumplida. Si se desconoce indague por la fecha de nacimiento.
+  672.9  371.4 - El sistema calcula la edad si se tiene la fecha de nacimiento.
+  673.0  552.4 B SI
+  686.3  371.4 - * En los casos donde el tipo de identificación sea CC, TI o CE se toma la
+  692.4  371.4 - unidad de medida 1.
+  698.5  371.4 - * Tenga
+  698.5  394.9 - en cuenta que la variable debe coincidir con el tipo de
+  704.7   23.2 B 2.7 Unidad de medida de la edad
+  704.7  106.2 - Cantidad estandarizada en la que se mide el tiempo que ha vivido una persona desde el nacimiento.
+  704.7  371.4 - identificación del paciente, de lo contrario el sistema no permitirá continuar
+  704.9  552.4 B SI
+  710.8  371.4 - con el ingreso de la información.
+  716.9  371.4 - La unidad de medida 0="no aplica" solo puede ser utilizada para el evento
+  723.0  371.4 - 215 defectos congénitos, cuando el diagnóstico se realiza prenatal
+  736.9  371.4 - Seleccione el país correspondiente a la nacionalidad según la lista
+  740.1   23.2 B 2.8 Nacionalidad
+  740.1  106.2 - Corresponde al estado o nación que pertenece una persona según su documento de identificación.
+  740.2  552.4 B SI
+  743.1  371.4 - establecida.
+--- dibujos: 32 ---
+
+===== PAGINA 4 =====
+   57.5  106.2 B Se relaciona con el sexo biológico del paciente relacionado con la notificación.
+   63.6  106.2 B M = Hombre
+   66.7  371.4 - * Tener en cuenta que al sistematizar la información se digita la variable
+   69.7  106.2 B F = Mujer
+   72.9   23.2 B 2.9 Sexo
+   72.9  371.4 - TAL CUAL aparece en la ficha de notificación, debido a que no existe una
+   73.0  552.4 B SI
+   75.9  106.2 B I = Indetermiando
+   79.0  371.4 - regla de validacion que permita validarla  con el nombre del paciente.
+   82.0  106.2 - Los eventos Mortalidad Perinatal y Bajo Peso al Nacer capturan datos de la madre.
+   88.1  106.2 - El sexo I=Indeterminado aplica únicamente para Defectos Congénitos.
+   95.2  106.2 B Las siguientes definiciones fueron tomadas de la “Guía para la inclusión del enfoque diferencial e intersectorial”
+  101.3  106.2 B del Departamento Administrativo Nacional de Estadísticas – DANE.
+  113.5  106.2 B Identidad de género: hace referencia a la vivencia individual y personal del género. Es independiente del sexo asignado
+  119.7  106.2 - al momento del nacimiento. Incluye la vivencia personal del cuerpo, que puede o no involucrar transformaciones
+  125.8  106.2 - corporales escogidas libremente. Incluye también otras expresiones de género, tales como la forma de vestir, el modo
+  131.9  106.2 - de hablar y la expresión corporal.
+  144.1  106.2 - Seleccione las una de las siguientes categorías:
+  150.1  371.4 - * Tener en cuenta que al sistematizar la información se digita la variable
+  150.3  106.2 B 1. Hombre
+  156.3   23.2 B 2.10 Identidad de género
+  156.3  371.4 - TAL CUAL aparece en la ficha de notificación, debido a que no existe una
+  156.4  106.2 B 2. Mujer
+  156.5  550.9 B NO
+  162.4  371.4 - regla de validacion que permita validarla  con otras variables.
+  162.5  106.2 B 3. Hombre trans: el termino trans engloba a todas aquellas personas que se identifican con un género diferente al
+  168.6  106.2 - asignado al nacer o que expresan su identidad de género de manera no normativa. Para esta categoría puede
+  174.7  106.2 - entenderse como persona de sexo mujer asignado al nacer que ha hecho la transición a hombre
+  180.9  106.2 B 4. Mujer trans: el termino trans engloba a todas aquellas personas que se identifican con un género diferente al
+  187.0  106.2 - asignado al nacer o que expresan su identidad de género de manera no normativa. Para esta categoría puede
+  193.1  106.2 - entenderse como persona de sexo hombre asignado al nacer que ha hecho la transición a mujer
+  199.2  106.2 B 5. Otra: categoría que permite diligenciar otras identidades de generó que no se encuentran listadas
+  205.3  106.2 - Si selecciona la opción "Otra" diligencie en el campo ¿Cuál otra? la identidad de género que no corresponde a las
+  211.5  106.2 - categorías predefinidas
+  221.2  106.2 B L as siguientes definiciones fueron tomadas de la “Guía para la inclusión del enfoque diferencial e intersectorial”
+  227.3  106.2 B del Departamento Administrativo Nacional de Estadísticas – DANE.
+  239.5  106.2 B Orientación sexual: se trata de la atracción sexual, afectiva y erótica que una persona siente hacia otras de su mismo
+  245.7  106.2 - género, del género opuesto, de ambos o que no sienten atracción por ninguno de los géneros. También hace referencia
+  251.8  106.2 - a la capacidad de mantener relaciones afectivas y sexuales con esas personas. Por lo tanto, se habla de mujeres
+  257.9  106.2 - lesbianas, de hombres gay y de personas heterosexuales, homosexuales, bisexuales o asexuales.
+  267.0  371.4 - * Tener en cuenta que al sistematizar la información se digita la variable
+  270.1  106.2 - Seleccione las una de las siguientes categorías:
+  273.1   23.2 B 2.11 Orientación sexual
+  273.1  371.4 - TAL CUAL aparece en la ficha de notificación, debido a que no existe una
+  273.3  550.9 B NO
+  276.3  106.2 B 1. Heterosexual : hace referencia a las personas que se sienten atraídas afectiva y eróticamente hacia personas del
+  279.3  371.4 - regla de validacion que permita validarla  con otras variables.
+  282.4  106.2 - sexo opuesto
+  288.5  106.2 B 2. Gay/Lesbiana: hace referencia a personas que se sienten atraídas afectiva y eróticamente hacia personas del mismo
+  294.6  106.2 - sexo. Popularmente se emplean los términos: gay para el hombre y lesbiana para la mujer
+  300.7  106.2 B 3. Bisexual: hace referencia a personas que se sienten atraídas afectiva y eróticamente hacia personas de varios sexos
+  306.9  106.2 B 4. Otra: categoría que permite diligenciar otras orientaciones sexuales que no se encuentran listadas
+  313.0  106.2 - Si selecciona la opción “Otra” diligencie en el campo ¿Cuál otra? la orientación sexual que no corresponde a las
+  319.1  106.2 - categorías predefinidas
+  332.3  106.2 - Indage al caso o familiar del mismo, respecto al país donde ocurrió la exposición al evento de interés en salud pública a
+  338.4  106.2 - notificar.
+  338.4  371.4 - * Tener en cuenta el diligenciamiento correcto de esta variable en la ficha,
+  344.5   23.2 B 2.12 País de ocurrencia del caso
+  344.5  106.2 - Tenga en cuenta que la ocurrencia o procedencia corresponde al lugar geográfico donde posiblemente el paciente
+  344.5  371.4 - debido a que su ausencia se tomaría por defecto en el sistema como "país
+  344.7  552.4 B SI
+  350.7  106.2 - adquirio o al cual se atribuye la exposición al agente o factor de riesgo que ocasiono el evento. En los eventos
+  350.7  371.4 - donde ocurre el caso : Colombia"
+  356.8  106.2 - transmisibles se deberan considerar los tiempos de incubación de la enfermedad.
+  366.5  106.2 - Ingrese el nombre del departamento y municipio de donde proviene/ocurre el caso.
+  369.5  371.4 - Revisar que el Municipio coincida con el Departamento.
+  372.6   23.2 B 2.13 Departamento y municipio de
+  372.6  106.2 - Tenga en cuenta que la ocurrencia o procedencia corresponde al lugar geográfico donde posiblemente el paciente
+  375.6  371.4 - Recuerde que pueden haber coincidencias en el nombre del Municipio en
+  375.9  552.4 B SI
+  378.7   23.2 B procedencia/ocurrencia
+  378.7  106.2 - adquirio o al cual se atribuye la exposición al agente o factor de riesgo que ocasiono el evento. En los eventos
+  381.7  371.4 - diferentes Departamentos.
+  384.9  106.2 - transmisibles se deberan considerar los tiempos de incubación de la enfermedad.
+  399.1  106.2 B 1. Cabecera Municipal: es el área geográfica que está definida por un perímetro urbano, cuyos límites se establecen
+  405.3  106.2 - por acuerdos del Concejo Municipal. Corresponde al lugar en donde se ubica la sede administrativa de un municipio.
+  411.4  106.2 B 2. Centro Poblado: Se define como una concentración de mínimo veinte (20) viviendas contiguas, vecinas o adosadas
+  414.4  371.4 - * Variable de única selección. No se puede ingresar al sistema más de una
+  417.5   23.2 B 2.14 Área de ocurrencia del caso
+  417.5  106.2 - entre sí, ubicada en el área rural de un municipio o de un Corregimiento Departamental.
+  417.6  552.4 B SI
+  420.5  371.4 - categoría.
+  423.6  106.2 B 3. Rural Diperso: es el área que se caracteriza por la disposición dispersa de viviendas y explotaciones agropecuarias.
+  429.7  106.2 - No cuenta con un trazado o nomenclatura de calles, carreteras, avenidas y demás.
+  435.7  106.2 - Nota: tenga en cuenta los criterios para definir la ocurrencia de un evento descritos en el numeral 2.10.
+  452.3  106.2 - Ingrese el nombre de la localidad donde ocurrió el caso.
+  458.4  106.2 - Tenga en cuenta que esta variable aplica para los distritos como Bogotá o los municipios como Medellín, entre otros; los
+  458.4  371.4 - * Depende de la categoría seleccionada en la variable 2.11 "cabecera
+  461.4   23.2 B 2.15 Localidad de ocurrencia
+  461.7  552.4 B SI
+  464.5  106.2 - cuales están sectorizados internamente según el departamento de planeación municipal.
+  464.5  371.4 - municipal"
+  470.5  106.2 - Nota: tenga en cuenta los criterios para definir la ocurrencia de un evento descritos en el numeral 2.10.
+  484.3  371.4 - * Depende de la categoría seleccionada en la variable 2.11 "cabecera
+  487.3   23.2 B 2.16 Barrio de ocurrencia del caso Ingrese el nombre del barrio donde ocurrió el caso.
+  490.5  371.4 - municipal". La codificación depende de la tabla de barrios definidos por la
+  490.6  552.4 B SI
+  493.3  106.2 - Nota: tenga en cuenta los criterios para definir la ocurrencia de un evento descritos en el numeral 2.10.
+  496.6  371.4 - entidad territorial.
+  512.2   23.2 B 2.17
+  512.2   37.8 B Cabecera
+  512.2   65.2 B municipal/centro
+  512.2  106.2 - Nombre del área de ocurrencia del caso seleccionado en la variable 2.11
+  515.3  371.4 - * Depende de la categoría seleccionada en la variable 2.11
+  515.4  552.4 B SI
+  518.2  106.2 - Nota: tenga en cuenta los criterios para definir la ocurrencia de un evento descritos en el numeral 2.10.
+  518.3   23.2 B poblado/rural disperso
+  532.5  106.2 - Ingrese el nombre de la vereda o zona donde ocurrió el caso.
+  535.5   23.2 B 2.18 Vereda/zona
+  535.5  371.4 - * Depende de la categoría seleccionada en la variable 2.11 "rural disperso"
+  535.7  552.4 B SI
+  538.5  106.2 - Nota: tenga en cuenta los criterios para definir la ocurrencia de un evento descritos en el numeral 2.10.
+  549.4  371.4 - * La codificación de la ocupación está a partir de la Clasificación
+  552.5   23.2 B 2.19 Ocupación del paciente
+  552.5  106.2 - Describa claramente la ocupación principal de paciente (en el caso que aplique).
+  552.6  552.4 B SI
+  555.5  371.4 - Internacional Uniforme de Ocupaciones (CIUO 88)
+  572.2  106.2 - Se relaciona con el régimen de afiliación al sistema general de seguridad social en salud, en el que se encuentra el
+  578.3  106.2 - caso que está siendo notificado o su acudiente.
+  584.4  106.2 - Variable de única respuesta.
+  590.5  106.2 B P= Excepción : régimen de seguridad social de los afiliados al Fondo Nacional de prestaciones Sociales del magisterio,
+  596.7  106.2 - de servidores públicos de Ecopetrol así como los servidores públicos de universidades públicas
+  602.8  106.2 B C= Contributivo: sistema de salud mediante el cual todas las personas vinculadas a través de contrato de trabajo, los
+  608.9  106.2 - servidores públicos, los pensionados y jubilados y los trabajadores independientes con capacidad de pago, hacen un
+  611.9  371.4 - * Para la sistematización de la información, se toma una sola categoría de
+  615.0   23.2 B 2.20 Tipo de régimen en salud
+  615.0  106.2 - aporte mensual (cotización) al sistema de salud.
+  615.1  552.4 B SI
+  618.0  371.4 - respuesta.
+  621.1  106.2 B E= Especial: regímenes de seguridad social de los afiliados a la Policía Nacional, Fuerzas Militares, Armada, Fuerza
+  627.3  106.2 - Aérea.
+  633.4  106.2 B S= Subsidiado: El Régimen Subsidiado es el mecanismo mediante el cual la población más pobre, sin capacidad de
+  639.5  106.2 - pago, tiene acceso a los servicios de salud a través de un subsidio que ofrece el Estado.
+  645.6  106.2 B N= No asegurado
+  651.7  106.2 B I= Indeterminado/ pendiente: esta opción debe ser utilizada exclusivamente para ajuste por las EAPB, cuando el caso
+  657.9  106.2 - no corresponde a esta y requiere verificación en el nivel nacional
+  674.4  106.2 - Ingrese el nombre de la Empresa Aseguradora de Planes de Beneficios a la que se encuentra afiliado el paciente.
+  680.5  106.2 - Recuerde que se consideran como tales, las Entidades Promotoras de Salud del Régimen Contributivo y del Régimen
+  680.5  371.4 - * Para la sistematización de la información se tiene en cuenta el nombre
+  683.7   23.2 B 2.21 Nombre de la administradora
+  686.7  106.2 - Subsidiado, Entidades Adaptadas y Empresas de Medicina Prepagada; sin embargo, para la estadística de vigilancia en
+  686.7  371.4 - de la administradora que debe coincidir con la categoría seleccionada en
+  686.9  552.4 B SI
+  689.8   23.2 B de salud
+  692.8  106.2 - salud pública nacional prima la EAPB primaria (Plan Obligatorio de Salud), por lo cual deberá almacenar esta en el
+  692.8  371.4 - la variable 2.18
+  698.9  106.2 - campo.
+--- dibujos: 25 ---
+
+===== PAGINA 5 =====
+   56.8  106.2 - "La pertenencia étnica se define como patrimonio cultural compartido por un grupo de personas", las definiciones para
+   62.9  106.2 - cada uno de los grupos étnicos son*:
+   69.0  106.2 - Indígena : persona de ascendencia amerindia que comparten sentimientos de identificación con su p asado aborigen,
+   75.3  106.2 - manteniendo rasgos y valores propios de su cultura tradicional, así como formas de organización y control social
+   81.4  106.2 - propios. Si diligencia esta opción deberá elegir el grupo étnico al que pertenece.
+   87.5  106.2 - Rom, Gitano: Son comunidades que tienen una identidad étnica y cultural propia; se caracterizan por una tradición
+   93.7  106.2 - nómada, y tienen su propio idioma que es el romanés.
+   93.9  371.4 - * Para la sistematización de la información se tiene en cuenta la categoría
+   99.9  106.2 - Raizal: Población ubicada en el Archipiélago de San Andrés, Providencia y Santa Catalina, con raíces culturales afro-
+  100.0  371.4 - única diligenciada en la variable.
+  106.1   23.2 B 2.22 Pertenencia étnica
+  106.1  106.2 - anglo-antillanas, cuyos integrantes tienen rasgos socioculturales y lingüísticos claramente diferenciados del resto de la
+  106.2  552.4 B SI
+  112.2  106.2 - población afrocolombiana.
+  112.2  371.4 - Variable con categoría única de respuesta.
+  118.3  106.2 - Palenquero: Población hubicada en el municipio de  San Basilio de Palenque, departamento de Bolívar, donde se habla
+  124.6  106.2 - el palenquero, lenguaje criollo.
+  130.7  106.2 - Negro o afrocolombiano: persona de ascendencia afrocolombiana que poseen una cultura propia, y tienen sus propias
+  136.9  106.2 - tradiciones y costumbre d entro de la relación campo-poblado.
+  149.2  106.2 - Tenga en cuenta que esta variable se diligencia con base a lo que el paciente manifiesta, mas no a la percepción de
+  155.3  106.2 - quien está diligenciando la ficha.
+  164.8  106.2 - Estrao socio-económico donde esta ubicada la vivienda del paciente, estos son:
+  167.8   23.2 B 2.23 Estrato
+  167.8  371.4 - Variable con categoría única de respuesta.
+  168.0  552.4 B SI
+  170.9  106.2 - 1. Bajo-bajo, 2. Bajo, 3. Medio-bajo, 4. Medio, 5. Medio-alto o 6. Alto
+  184.8  106.2 - La variable tiene múltiples opciones de respuesta que se pueden diligenciar dependiendo de lo referido por el paciente o
+  190.9  106.2 - de lo observado por quien esté diligenciando la ficha de notificación, a continuación se definen algunas pobalciones
+  197.1  106.2 - relevantes para tener mayor claridad:
+  209.3  106.2 - Migrante : persona que se desplaza o se ha desplazado a través de una frontera internacional o dentro de un país, fuera
+  215.5  106.2 - de su lugar habitual de residencia independientemente de: 1) su situación jurídica; 2) el carácter voluntario o involuntario
+  221.7  106.2 - del desplazamiento; 3) las causas del desplazamiento; o 4) la duración de su estancia (OIM).
+  224.8   23.2 B 2.24
+  224.8   40.2 B Seleccione
+  224.8   73.3 B los
+  224.8   87.7 B grupos
+  224.8  371.4 - * Para la sistematización de la información se hace necesario marcar la/s
+  227.8  106.2 - Desmovilizado: Aquel que por decisión individual abandone voluntariamente sus actividades como miembro de
+  230.9   23.2 B poblacionales a los que pertenece
+  230.9  371.4 - categorías de respuesta necesarias según corresponda. Si no pertenece a
+  231.0  552.4 B SI
+  234.0  106.2 - organizaciones armadas al margen de la ley, esto es grupos guerrilleros y de autodefensa, y se entregue a las
+  237.0   23.2 B el paciente
+  237.0  371.4 - algún grupo se toma como "otros grupos poblacionales"
+  240.1  106.2 - autoridades de la República (Decreto 128 de 2003).
+  246.3  106.2 - Desplazados : Personas o grupos de personas que han sido forzadas u obligadas a abandonar sus hogares o lugares
+  252.5  106.2 - de residencia habitual, en particular como resultado de o para evitar los efectos del conflicto armado, situaciones de
+  258.6  106.2 - violencia generalizada, violaciones de derechos humanos o desastres naturales o causados por el hombre, y que no
+  264.7  106.2 - han cruzado fronteras reconocidas internacionalmente” (Naciones Unidas, documento E/CN.4/1992/23).
+  277.0  106.2 - Si no pertenece a algún grupo poblacional, se sugiere señalar la opción "otros grupos poblacionales".
+  291.3  277.2 B 3. NOTIFICACIÓN
+  300.7  106.2 - Corresponde a la fuente de la notificación lo cual influye en el análisis de datos y en las acciones de vigilancia y control,
+  306.9   23.2 B 3.1 Fuente
+  306.9  106.2 - las posibles fuentes son: 1. notificación rutinaria, 2. Búsqueda Activa Institucional (en registros administrativos), 3.
+  313.0  106.2 - Vigilancia intensificada,  4. Búsqueda Activa Comunitaria y 5. Investigaciones
+  324.5  106.2 - Nombre del departamento y municipio donde reside el paciente al momento de la notificación.
+  327.6   23.2 B 3.2
+  327.6   39.2 B País,
+  327.6   59.9 B departamento
+  327.6  101.6 B y
+  330.6  106.2 - Nota: Para definir residencia acogemos el concepto de la Ley 1607 de 2012 que establece que una persona es
+  333.7   23.2 B municipio
+  333.7   53.2 B de
+  333.7   66.0 B residencia
+  333.7   97.3 B del
+  334.0  552.4 B SI
+  336.7  106.2 - residente de algun lugar geográfico si "permanece continua o discontinuamente en el país por más de ciento ochenta y
+  339.9   23.2 B paciente
+  342.9  106.2 - tres (183) días calendario incluyendo dias de entrada y salida.
+  356.8  106.2 - Dirección donde se encuentra ubicada la residencia del paciente al momento de la notificación acorde a los parámetros
+  359.9   23.2 B 3.3 Dirección de residencia
+  360.0  552.4 B SI
+  362.9  106.2 - establecidos en el numeral 3.2
+  375.5  371.4 - * Para sistematizar la información tenga en cuenta que la fecha de
+  381.6  371.4 - consulta NO puede ser mayor a la fecha de notificación. Si esto sucede se
+  384.6   23.2 B 3.4 Fecha de consulta
+  384.6  106.2 - Formato día/mes/año. Se diligencia la fecha en la que consultó el paciente por el evento notificado.
+  384.9  552.4 B SI
+  387.7  371.4 - tomará como error en el sistema y no se podrá continuar con la digitación
+  393.9  371.4 - de la ficha de notificación.
+  405.1  371.4 - * Para sistematizar la información tenga en cuenta que la fecha de inicio
+  411.3  106.2 - Formato día/mes/año. Se diligencia la fecha del primer día en que el paciente inició síntomas del evento acorde a la
+  411.3  371.4 - de síntomas NO debe ser superior a la fecha de consulta y a la fecha de
+  414.4   23.2 B 3.5 Fecha de inicio de síntomas
+  414.5  552.4 B SI
+  417.4  106.2 - definición de caso.
+  417.4  371.4 - notificación. Si esto sucede se tomará como un error en el sistema y no se
+  423.5  371.4 - podrá continuar con la digitación de la ficha de notificación.
+  435.7  106.2 - En la notificación inicial, seleccione únicamente una categoría de la variable.
+  441.9  106.2 - Cada evento tiene una clasificación de caso específica, la cual es acorde a lo descrito en el protocolo.
+  445.0  371.4 - *Para la sistematización, los valores permitidos en esta variable dependen
+  448.0   23.2 B 3.6 Clasificación inicial del caso
+  448.0  106.2 - Es importante que aquellos eventos que ingresan probables y sospechosos, sean ingresados con esa clasificación ya
+  448.2  552.4 B SI
+  451.1  371.4 - del evento que se va a notificar.
+  454.1  106.2 - que se entendera que son detectados de forma oportuna, de lo contrario, es decir, si ingresan confirmados,
+  460.2  106.2 - corresponden a una falla en la pronta identificación del evento.
+  471.6  106.2 - Marque con una X la opción según corresponda.
+  471.6  371.4 - * Ingrese la información solicitada, de lo contrario el sistema no permitirá
+  474.7   23.2 B 3.7 Hospitalizado
+  474.9  552.4 B SI
+  477.7  106.2 - Hospitalización debida al evento que se está notificando.
+  477.7  371.4 - continuar con el ingreso.
+  491.3  106.2 - Formato día/mes/año. Se diligencia la fecha en la que el paciente fue hospitalizado como consecuencia del evento que
+  491.3  371.4 - * Tenga en cuenta que para la sistematización la fecha de hospitalización
+  494.3   23.2 B 3.8 Fecha de hospitalización
+  494.5  552.4 B SI
+  497.4  106.2 - se está notificando.
+  497.4  371.4 - no puede ser inferior a la fecha de consulta, ni a la fecha de notificación.
+  507.4  106.2 - Variable de única selección.
+  513.5  106.2 - 0 = Solo aplica cuando se capte el caso por BAI y se desconoce el dato, o para defectos congénitos cuando la unidad
+  519.6  106.2 - de medida es "0"
+  519.6  371.4 - * Tenga en cuenta que para la sistematización de la información se debe
+  525.7   23.2 B 3.9 Condición final
+  525.7  106.2 - 1 = Vivo
+  525.7  371.4 - diligenciar la condición final del paciente al momento de la notificación, la
+  525.9  552.4 B SI
+  531.9  106.2 - 2 = Muerto
+  531.9  371.4 - cual se derive del evento que se está notificando.
+  538.0  106.2 - Tenga en cuenta que es importante establecer si la muerte fue debida al evento de interés en salud pública para
+  544.1  106.2 - diligenciar esta variable.
+  552.9  106.2 - Formato día/mes/año. Se diligencia la fecha en la que el paciente fallece como consecuencia del evento que se esta
+  556.0   23.2 B 3.10 Fecha de defunción
+  556.0  371.4 - * Se diligencia dependiendo de la respuesta de la variable 3.8 "2 = Muerto".
+  556.1  552.4 B SI
+  559.0  106.2 - notificando. Se debe diligenciar si en la variable "3.8 Condición final" es 2 = Muerto"
+  573.6  371.4 - * Se diligencia dependiendo de la respuesta de la variable 3.8 "2 = Muerto".
+  576.7   23.2 B 3.11
+  576.7   37.0 B Número
+  576.7   59.6 B de
+  576.7   69.6 B certificado
+  576.7   98.6 B de
+  576.7  106.2 - Número consecutivo que aparece en la parte superior derecha del certificado de defunción diligenciado si la "3.8
+  579.7  371.4 - Debe estar diligenciado el registro, de lo contrario el sistema no permitirá
+  580.0  552.4 B SI
+  582.9   23.2 B defunción
+  582.9  106.2 - Condición final" es 2 = Muerto"
+  585.9  371.4 - contiuar con la sistematización de la ficha.
+  600.7   23.2 B 3.12 Causa básica de muerte
+  600.7  106.2 - Diagnóstico CIE X, que ocasionó la muerte del caso y que esta relacionado con el evento de interés en salud pública.
+  600.7  371.4 - * Se diligencia una vez la respuesta de la variable 3.8 sea "2 = Muerto"
+  601.0  552.4 B SI
+  613.0  371.4 - * Para la sistematización de la información debe diligenciar los datos
+  616.0   23.2 B 3.13 Nombre de profesional que
+  619.1  106.2 - Nombre de la persona que diligenció la ficha de notificación en la UPGD o UI
+  619.1  371.4 - solicitados, de lo contrario el sistema no permitirá el ingreso de la ficha de
+  619.2  552.4 B SI
+  622.1   23.2 B diligencia la ficha
+  625.2  371.4 - notificación.
+  634.9  371.4 - * Para la sistematización de la información debe diligenciar los datos
+  637.9  106.2 - Número telefónico de contacto de la persona que realiza la notificación, preferiblemente el número celular para poder
+  641.1   23.2 B 3.14 Teléfono
+  641.1  371.4 - solicitados, de lo contrario el sistema no permitirá el ingreso de la ficha de
+  641.2  552.4 B SI
+  644.1  106.2 - contactarlo en caso de ser requerido.
+  647.2  371.4 - notificación.
+  657.9  216.8 B 4. ESPACIO EXCLUSIVO PARA USO DE LOS ENTES TERRITORIALES
+  670.6  106.2 - Estos son los valores que se relacionan para definir la clasificación final del caso, posterior de obtener resultados de
+  676.7  106.2 - laboratorio o análisis del caso.
+  682.8  106.2 - Corresponde a la clasificación definitiva del caso.
+  688.9  106.2 - 0 = No aplica (es el valor por defecto del sistema si el caso es nuevo o no ha sido ajustado)
+  695.1  106.2 - 3 = Confirmado por laboratorio
+  701.2  106.2 - 4 = Confirmado por clínica
+  707.3  106.2 - 5 = Confirmado por nexo epidemiológico
+  713.4   23.2 B 4.1
+  713.4   34.2 B Seguimiento
+  713.4   67.9 B y
+  713.4   74.9 B clasificación
+  713.4  106.2 - 6= Descartado: puede ser por criterio epidemiológico, por laboratorio, porque no cumple la condición del caso, etc.
+  713.4  371.4 - Los tipos de ajuste permitos y los tiempos para el ajuste de casos, se
+  716.7  552.4 B SI
+  719.5   23.2 B final del caso
+  719.5  106.2 - 7 = Otra actualización: quiere decir que se puede modificar cualquier campo excepto código de evento, Upgd, numero
+  719.5  371.4 - encuentran definidos en los protocolos de vigilancia en salud pública.
+  725.7  106.2 - de id, fecha de notificación. Esto, después de haber notificado el caso.
+  731.8  106.2 - D = Error de digitación por las siguientes razones:
+  737.9  107.6 - - el evento notificado es errado, por ejemplo, se digitaron los datos
+  737.9  258.2 - para el evento parotiditis y realmente se trataba de
+  744.0  106.2 - un caso de varicela.
+  750.1  106.2 - - cuando al menos una de las variables de la llave primaria (código de evento, año, semana epidemiológica, código de
+  756.3  106.2 - prestador, código sub-índice del prestador, tipo de identificación y número de identificación) fueron mal digitadas, ya que
+  762.4  106.2 - es posible modificarlas una vez hayan sido notificadas (generación del archivo plano).
+  777.4   23.2 B 4.2 Fecha de ajuste
+  777.4  106.2 - Fomato día/mes/año; corresponde a la fecha en la que se ajustó la clasificación inicial del caso.
+  777.5  552.4 B SI
+--- dibujos: 47 ---
+
+===== PAGINA 6 =====
+   59.1  156.0 B INSTRUCTIVO DILIGENCIAMIENTO FICHAS DE NOTIFICACIÓN DATOS COMPLEMENTARIOS
+   67.6  268.6 B MIS-C (Cód INS: 739)
+   93.0   96.9 B VARIABLE
+   93.0  210.1 B CATEGORÍAS Y DEFINICIÓN
+   93.0  378.9 B CRITERIOS SISTEMATIZACIÓN
+   93.5  526.3 B OBLIG
+  110.7  335.1 - * El tipo de documento debe ser coincidente con la edad del
+  118.8  335.1 - paciente.
+  122.8   52.3 B A. Nombres y apellidos del paciente
+  122.9  176.4 - Es necesario diligenciar estos datos en la ficha de
+  127.0  335.1 - * Para el evento el número de identificación debe ser e de la
+  131.1  176.4 - complementarios, los cuales debe coincidir con la
+  131.3   52.3 B B. Tipo de ID
+  131.4  532.8 B SI
+  135.2  335.1 - madre.
+  139.2  176.4 - información registrada en la ficha de datos básicos.
+  139.8   52.3 B C. Número de identificación
+  143.3  335.1 - * El tipo y número de documento debe coincidir con la
+  151.5  335.1 - información ingresada en la ficha de datos básicos.
+  170.3  257.5 B 10. DATOS CLÍNICOS MIS-C
+  215.3   52.3 B 10.1.1 RT-PCR SAR-CoV 2 positiva en
+  215.3  176.4 - Marque con una X la opción según corresponda 1:
+  215.3  335.1 - Diligencie la variable, de lo contrario el sistema no permitirá
+  219.8  532.8 B SI
+  223.5  176.4 - SI   2:NO
+  223.5  335.1 - continuar con el ingreso de la información.
+  223.8   52.3 B las últimas 4 semanas
+  293.7   52.3 B 10.1.2 Ac IgM/IgG
+  293.7  115.8 B para SAR-CoV 2
+  293.7  176.4 - Marque con una X la opción según corresponda 1:
+  293.7  335.1 - Diligencie la variable, de lo contrario el sistema no permitirá
+  298.2  532.8 B SI
+  301.9  176.4 - SI   2:NO
+  301.9  335.1 - continuar con el ingreso de la información.
+  302.2   52.3 B positiva en las últimas 4 semanas
+  367.9   52.3 B 10.1.3 Nexo epidemiológico con caso
+  372.1  176.4 - Marque con una X la opción según corresponda 1:
+  372.1  335.1 - Diligencie la variable, de lo contrario el sistema no permitirá
+  376.4   52.3 B positivo COVID-19 en las últimas 4
+  376.5  532.8 B SI
+  380.2  176.4 - SI   2:NO
+  380.2  335.1 - continuar con el ingreso de la información.
+  384.9   52.3 B semanas.
+  424.9   52.3 B 10.2 Síntomas iniciales
+  433.4   52.3 B * Fiebre          Fecha de inicio de
+  441.9   52.3 B fiebre________
+  446.0  184.0 - Marque con una X la opción según corresponda
+  450.5   52.3 B * Diarrea
+  454.5  176.7 B Debe marcar al menos uno de estos sintomas en
+  454.5  340.6 - Depende de la respuesta en la variable 6.12, opción 1 = Si.
+  454.9  532.8 B SI
+  459.0   52.3 B * Dolor abdominal
+  463.1  234.2 B este numeral
+  467.5   52.3 B * Náuseas y vómito
+  476.0   52.3 B * Hipotensión
+  484.5   52.3 B * Otros          Cuales? _________
+  503.5  234.5 B 11. HALLAZGOS DE LABORATORIO MIS-C
+  535.2   52.3 B 11.1 ¿Presenta alteración en alguno
+  543.7   52.3 B de los siguientes parametros?
+  552.7  181.3 - Diligenciar numericamente el valor obtenido en la
+  560.7   52.3 B Fibrinógeno: __________mg/dl
+  560.9  185.5 - prueba de labotario realizada. Recordar que el
+  560.9  339.0 - Un valor de cero "0" en el resultado indica que no se realizò
+  569.0  176.5 - numero cero "0" indica que este no se realizó. Tener
+  569.0  409.0 - esta prueba.
+  569.3   52.3 B Proteína C Reactiva: __________mg/dl
+  569.4  532.8 B SI
+  577.2  185.4 - en cuenta en el pie de pagina de esta ficha los
+  577.2  354.9 - Un valor igual o mayor 1 indica valor de resultado
+  577.8   52.3 B Ferritina: __________μg/L
+  585.4  199.5 - valores de referencia de cada prueba
+  586.3   52.3 B Dímero-D: __________ng/ml
+  594.8   52.3 B Linfopenia: __________
+  603.4   52.3 B Troponina: ___________
+--- dibujos: 30 ---

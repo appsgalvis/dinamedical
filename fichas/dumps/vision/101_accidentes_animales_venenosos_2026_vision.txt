@@ -1,0 +1,54 @@
+VOLCADOS DE VISIÓN — 101 Accidentes por Animales Venenosos (Cód INS 101, FOR-R02.4030-006 V:00 2026-08-06)
+Páginas de preguntas (visión): p1-p2. Índice: total=14, preguntas=[1,2], fin_preguntas=p2, instructivo desde p3.
+Fuente OBLIG: tablas del instructivo p6 (sección 5), p7 (sección 6), p8 (sección 7) — lectura visual de excepción.
+
+===== PAGINA 1 (instrucciones generales) =====
+Definición de caso. Secciones 1-4 (datos básicos) viven en ficha_datos_basicos; el catálogo seed secciones 5+.
+
+===== PAGINA 2 (preguntas) =====
+Sección 5. DATOS DEL ACCIDENTE
+5.1 Fecha del accidente — date — OBLIG SI
+5.2 Dirección del lugar donde ocurrió el accidente — text — OBLIG NO (excepción: se permite "No aplica")
+5.3 Actividad que realizaba al momento del accidente — select (círculo única) — OBLIG SI.
+  Opciones impresas tal cual (errata: falta opción 4): 1 Recreación, 2 Actividad Agrícola, 3 Oficios domésticos,
+  5 Recolección de desechos, 6 Actividad acuática, 8 Caminar por senderos abiertos o trocha, 7 Otro ¿Cuál otro?
+5.4 Tipo de atención inicial — select (círculo única) — OBLIG SI.
+  Opciones (errata instructivo: salta el 8): 1 Incisión, 2 Punción, 3 Sangría, 4 Torniquete,
+  5 Inmovilización del enfermo, 6 Inmovilización del miembro, 7 Otro ¿cuál?, 9 Succión mecánica
+5.5 Localización de la agresión — select (círculo única) — OBLIG SI.
+  Opciones (errata: falta opción 8): 1 Cabeza (cara), 2 Miembros superiores, 3 Miembros inferiores,
+  4 Tórax anterior, 5 Abdomen, 6 Espalda, 7 Cuello, 9 Genitales, 10 Glúteos, 11 Dedos de pie, 12 Dedos de mano
+5.6 ¿Hay evidencia/huella de la agresión? — select Sí/No (1 Si, 2 No) — OBLIG SI
+5.7 ¿La persona vio al animal agresor? — select Sí/No (1 Si, 2 No) — OBLIG SI
+5.8 ¿El animal fue capturado? — select Sí/No (1 Si, 2 No) — OBLIG SI
+5.9 Agente agresor — select (círculo única) — OBLIG SI.
+  Opciones: 1 Escorpión, 2 Phoneutria (araña platanera), 3 Loxosceles (araña violín),
+  4 Latrodectus (araña viuda), 7 Oruga/Lonomia
+
+Sección 6. CUADRO CLÍNICO (marque con una X; selección individual = multiselect)
+6.1 Manifestaciones locales — multiselect — OBLIG SI.
+  Opciones: 1 Edema, 2 Dolor, 3 Flictenas, 4 Parestesias/hipoestesias, 5 Equimosis, 6 Otra ¿cuál?
+6.2 Manifestaciones sistémicas — multiselect — OBLIG SI.
+  Opciones: 1 Náuseas, 2 Hemorragias, 3 Vómitos, 4 Diarrea, 5 Dolor abdominal, 6 Otra ¿cuál?
+6.3 Complicaciones locales — multiselect — OBLIG SI.
+  Opciones: 1 Celulitis, 2 Absceso, 3 Necrosis, 4 Hipoperfusión, 5 Síndrome compartimental, 6 Otra ¿cuál?
+6.4 Complicaciones sistémicas — multiselect — OBLIG SI.
+  Opciones: 1 Neurológica, 2 Respiratoria, 3 Cardiovascular, 4 Hematológica, 5 Otra ¿cuál?
+6.5 Gravedad del accidente — select (círculo única) — OBLIG SI.
+  Opciones: 1 Leve, 2 Moderado, 3 Grave
+
+Sección 7. ATENCIÓN HOSPITALARIA
+7.1 ¿Empleó suero? — select Sí/No (1 Si, 2 No) — OBLIG SI
+7.2 Tipo de suero — select (círculo única) — OBLIG NO, depende de 7.1.
+  Opciones: 1 Antiofídico, 2 Antialacrón, 3 Antiescorpión, 4 Antiaramídi? (anti-arácnido, impreso como 'Antiaramídi'), 5 Otro ¿cuál?
+7.3 Registro INVIMA — number/text — OBLIG NO, depende de 7.1
+7.4 Tiempo transcurrido entre el accidente y el inicio de tratamiento — hrs+min (formato horas:min) — OBLIG NO, depende de 7.1
+7.5 Reacciones a la aplicación del suero — select — OBLIG NO, depende de 7.1.
+  Opciones: 1 Si, 2 No, 3 Geneneralizada? (impreso 'Generalizada'), 4 local
+7.6 Dosis de suero (ampollas) — number — OBLIG NO, depende de 7.1
+7.7 Tiempo de administración de antiveneno — hrs+min — OBLIG NO, depende de 7.1
+7.8 ¿Remitido a otra institución? — select Sí/No — OBLIG SI
+
+REGLAS (show_if, padre_ref = 101_empleo_suero, valor 1):
+- 7.2, 7.3, 7.4, 7.5, 7.6, 7.7 se habilitan con 7.1 = Si ⇒ show_if='1'.
+- Criterios de sistematización de 5.x (p6): cada opción marcada genera subregistro con descripción; no codificables como show_if.

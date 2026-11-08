@@ -1,0 +1,364 @@
+===== PAGINA 1 =====
+1. INFORMACIÓN GENERAL
+1.3 Código de la UNM
+Municipio
+Código
+Departamento
+Sub índice
+1.1 Evento
+Código 
+4. CARACTERIZACIÒN
+5. INFORMACIÓN COMPLEMENTARIA
+5.2  Distribución de signos y síntomas (número de casos)
+Ninguna
+Vómito
+Diarrea
+Fiebre
+Anorexía
+Deshidratación
+Cianosis
+Parestesias
+Bradicardia relativa
+Mialgias
+Ictericia
+Sialorrea
+Nauseas
+Acolia
+Miosis
+Mareo
+Coluria
+Otros
+Dolor abdominal
+Estreñimiento
+Lesiones 
+maculopapulares
+Cefalea
+Artralgías
+¿Cuál otros?
+5.3  Lugar de consumo implicado
+5.4  Agentes identificados
+Correo: sivigila@ins.gov.co
+o 1. Hogar
+o 2. Establecimiento educativo
+o 3. Establecimiento militar
+o 4. Restaurante
+Grupo edad
+Tasa de ataque
+Enfermos       Expuestos
+Sexo
+Hombres    Mujeres
+Condicion  final
+Vivos   Muertos
+<1
+1-4 años
+5-9 años
+10-19 años
+20-49 años
+50-74 años
+>=75 años
+o 5. Casino
+o 6. Establecimiento penitenciario
+o 8. Hotel
+o 10. Hogar geriátrico
+2. FUENTE DE TRANSMISIÒN
+o 1. Agua
+o 2.  Alimentos
+o 5. Otro  diferente de agua y alimento
+o 6. Desconocido
+5.1  Fecha del primer caso (dd/mm/aaaa)
+Alimentos implicados
+1
+2
+3
+4
+5
+Alimentos implicados
+6
+7
+8
+9
+10
+o 3. Persona a persona
+o 4. Contaminación medio ambiental
+AGENTES 77.OTRO, 78. PENDIENTE, 79. NO DETECTADO
+1-Coliformes fecales, 2-Coliformes totales, 3-Bacillus cereus,4-Bacillus anthracis, 5-Staphylococcus aureus,6-Streptococcus sp, 7-Clostridium perfringens, 8-Aeromonas 
+hydrophila, 9-Campylobacter jejuni,, 10 Vibrio Cholerae 11–Escherichia coli,12– Shigella sp, 13-Salmonella spp, 14-Salmonella Typhi, 15-Salmonella Paratyphi, 16-
+Clostridiumbotulinum17-Vibrio sp, 18-Vibrio parahaemolyticus, 19-Brucella abortus, 20-Mycobacterium bovis, 21-Listeria monocytogenes, 22-Proteus sp, 24-Norovirus, 25-
+Rotavirus, 26-Parvovirus, 27-Astrovirus, 28-Adenovirus, 29-Hepatitis A, 30-Hepatitis E, 32-Ascaris lumbricoides, 33-Complejo Entamoeba histolytica/dispar, 34-Fasciola hepática, 
+35-Taenia saginata, 36-Cyclospora, 37-Giardia duodenalis, 38-Taenia solium, 39-Trichinella spiralis, 40-Balantidium coli, 41-Cryptosporidium, 42-Isospora belli,43-Trichuris 
+trichiura, 44-Uncinarias, 45-Enterobius vermicularis, 46-Strongyloides stercolaris, 47-Hymenolepis nana, 48-Hymenolepis diminuta, 49-Dipylidium caninum, 50-Entamoeba 
+hartamanni, 51-Entamoeba coli , 52-Endolimax nana , 53-Iodamoeba butschlii 54-Chilomastix mesnili , 55-Trichomonas hominis , 56-Antimonio, 57-Cadmio, 58-Cobre, 59-
+Fluoruro,60-Plomo, 61-Estaño 62-Zinc, 63-Nitritos o Nitratos, 64-Cloruros, 65-Hidroxido de sodio, 66-Organofosforados, 67-Carbamatos, 68-Acido okadaico, 69-Saxitoxina, 70-
+Alcaloides, 71-Hidrocarburo clorado, 72-Mercurio, 73 Fostato de triortocresilo, 74- Glutamatomonosodico, 75-Micotinato sódico, 85- T-Cruzi, 86-Toxinas de algas marinas
+1.4 Fecha de Notificación (dd/mm/aaaa)
+1.5 Semana 
+epidemiológica
+1.6 Año
+Departamento
+1.7 Departamento/Municipio de procedencia
+Municipio
+1.2 Razón social
+2.1 Estado
+o 1. Abierto
+o 2. Cerrado con identificación del agente
+o 3. Cerrado sin identificación del agente
+3. MODO DE TRANSMISION
+3.1 Oral
+o 1. Sì
+o 2. No
+3.2 Oral fecal
+o 1. Sì
+o 2. No
+3.3 Cruzada
+o 1. Sì
+o 2. No
+Tasa de ataque
+ Enfermos     Expuestos
+Tasa de ataque
+   Enfermos    Expuestos
+Escalofrios
+Agente 2
+Agente 3
+Agente 4
+Agente 5
+ 
+Agente 1
+o 11. Venta ambulante
+o 12. Institución de salud
+o 13. Panadería/Pastelería
+5.3.2 Dirección 
+o 9. Otros
+Cuales?
+5.3.1 Nombre del lugar del consumo implicado 
+FOR-R02.4030-058 V:00 2026-08-06
+
+===== PAGINA 2 =====
+OBLIG.
+SI
+SI
+NO
+NO
+NO
+NO
+NO
+INSTRUCTIVO DILIGENCIAMIENTO FICHAS DE NOTIFICACIÓN DATOS COMPLEMENTARIOS
+Ficha de datos colectivos
+Enfermedades transmitidas por alimentos (ETA) y Cólera) Código INS 349
+VARIABLE
+CATEGORÍAS Y DEFINICIÓN
+CRITERIOS SISTEMATIZACIÓN
+1. INFORMACIÓN GENERAL 
+1.1 Evento 
+Diligencie el código del evento correspondiente. 
+Diligencie
+la
+información,
+de
+lo
+contrario el sistema no permitirá
+continuar con el ingreso de los
+datos. 
+SI
+1.2 Razón social 
+Anote el nombre o la razón social de la Unidad Primaria Generadora del Dato que está
+haciendo la notificación. 
+1.3 Código de la UPGD
+Diligencie el código de la UPGD en el orden en que aparecen las casillas de la variable.
+Dilligencie el código de habilitación del prestador. 
+Tenga en cuenta:
+Departamento: se relaciona con el código del departamento al que pertenece la institución
+(código DANE). 
+Municipio: los tres dígitos sumados a los anteriores, identifican el Municipio donde se
+enuentra ubicada la institución. 
+Código: el primer dígito de este grupo, corresponde al número asignado cuando la institución
+se encuentra en el registro de habilitación de prestadores de salud (REPS). Tenga en cuenta
+que si la UPGD pertenece a la Policía Nacional el dígito debe ser 7. Si pertenece a fuerzas
+militares debe ser 8. Si son unidades informadoras que no tienen código de habilitación debe
+ser 9. Los cuatro dígitos siguientes son asignados por el departamento-municipio cuando son
+unidades informadoras; de lo contrario son asignados por el  REPS.
+Sub-índice: identifica el número de sede al que pertence la institución cuando la UPGD tiene
+más de una. Cuando terminan en 80, se relacionan con UPGD que pertencen al ejército
+nacional; 81, a la Armada; 82, a la fuerza aérea; 83, hospital militar; y 99, identifican los
+establecimientos penitenciarios y carcelarios. 
+1.4 Fecha de Notificación 
+Formato día-mes-año (dd/mm/aaaa)
+Ingrese la fecha en la que se notifica el evento al siguiente nivel por cualquier medio. 
+1.5 Semana epidemiológica
+Diligencie la semana correspondiente a la ocurrencia del brote. 
+1.6 Año
+Diligencie el año correspondiente a la semana epidemiológica ingresada
+1.7 Departamento que notifica
+Diligencie el nombre del departamento que está realizando la notificación. 
+2. FUENTE DE TRANSMISIÓN
+Seleccione el mecanismo por medio del cual se presentó la transmisión del evento que está notificando, teniendo en cuenta:
+1. Agua: Si la fuente común de contagio fue esta, selecciónela.
+2. Alimentos: Indague si la fuente común de transmisión fueron alimentos consumidos.
+3. Persona a paersona: Indague acerca de contacto directo entre las personas involucradas en el evento, aclarando el momento y tipo
+de contacto.
+4. Contaminación medio ambiental: Verifique si el mecanismo de transmisión fue medio ambiental
+5. Otro diferente a agua y alimento: de no ser la fuente común de transmisión los mencionados, indague acerca de cuál pudo ser la
+posible fuente.
+6. Desconocido: Cuando definitivamente la fuente no es conocida o mencionada por alguno de los casos. 
+Diligencie
+la
+información,
+de
+lo
+contraro el sistema no le permitirá
+continuar con el ingreso de los
+datos. 
+2.1 Estado
+Teniendo en cuenta el estado del evento notificado, seleccione la opción según corresponda
+aclarando que el brote se mantendrá abierto hasta tanto se cuente con los soportes e
+informes correspondientes  para su culminación. 
+Diligencie
+la
+información,
+de
+lo
+contraro el sistema no le permitirá
+continuar con el ingreso de los
+datos. 
+3. MODO DE TRANSMISIÓN
+3.1 a 3.3
+Defina el modo de transmisión entre los casos y el caso o fuente inicial y seleccione la poción
+según corresponda. Tenga en cuenta que debe diligenciar las categorías de las tres variables. 
+Variable dicotómica que permite
+valores 1: Si  2 :No
+4. CARACTERIZACIÓN
+Tasa de ataque
+Ingrese el número de casos enfermos asociados al brote según grupo de edad al que
+pertenecen. 
+Así mismo, ingrese el número de personas expuestas al brote según los grupos de edad
+definidos.
+Tenga en cuenta que para calcular la tasa de ataque es necesario definir las dos variables
+(enfermos y expuestos) al momeento de ocurrir el brote. 
+Tenga
+en
+cuenta
+que
+van
+a
+presentarse grupos de edad donde
+no
+hubo
+casos.
+Siendo
+así
+diligencie con el valor 0 (cero) los
+espacios que no tuvieron casos. 
+Sexo
+Ingrese el número de casos asociados al brote según sexo. Es necesario que defina el sexo
+de los enfermos definidos en la variable anterior. El total de esta variable debe coincidir con
+el valor ingresado anteriormente en dicho criterio.
+Diligencie
+la
+información,
+de
+lo
+contraro el sistema no le permitirá
+continuar con el ingreso de los
+datos. 
+Condición final
+Ingrese el número de casos asociados al brote sea vivos o muertos. Tenga en cuenta que
+estos se relacionan con los enfermos mencionados anteriormente y que el total debe coincidir
+con los diligenciados allí y con los establecidos en la variable "sexo" 
+Diligencie
+la
+información,
+de
+lo
+contraro el sistema no le permitirá
+continuar con el ingreso de los
+datos. 
+5. INFORMACIÓN COMPLEMENTARIA
+5.1 Fecha del primer caso
+Formato día-mes-año (dd/mm/aaaa)
+Ingrese la fecha en la que se notifica el evento al siguiente nivel por cualquier medio. 
+Diligencie
+la
+información,
+de
+lo
+contrario el sistema no permitirá
+continuar con el ingreso de los
+datos. 
+Alimentos implicados
+Encontrará un total de 10 espacios donde podrá relacionar el o los alimentos que se
+relacionan con el brote de ETA a notificar.
+Diligencie
+la
+información,
+de
+lo
+contrario el sistema no permitirá
+continuar con el ingreso de los
+datos.
+
+===== PAGINA 3 =====
+OBLIG.
+INSTRUCTIVO DILIGENCIAMIENTO FICHAS DE NOTIFICACIÓN DATOS COMPLEMENTARIOS
+Ficha de datos colectivos
+Enfermedades transmitidas por alimentos (ETA) y Cólera) Código INS 349
+VARIABLE
+CATEGORÍAS Y DEFINICIÓN
+CRITERIOS SISTEMATIZACIÓN
+NO
+NO
+SI
+SI
+NO
+Tasa de ataque
+Diligencie el número de expuestos y el número de enfermos (quienes presentaron el evento),
+según el o los alimentos implicados en el brote.  
+Variable
+que
+permite
+valores
+numéricos tanto para el numerador
+como el denominador.
+5.2
+Distribución
+de
+signos
+y
+síntomas (número de casos)
+Encontrará una serie de signos y síntomas que se relacionan con la presencia del evento en
+los casos, es necesario que en la casilla de cada uno ingrese el número de personas que
+presentaron dichos hallazgos clínicos relacionados con el brote que está notificando. Si los
+pacientes presentan signos y síntomas diferentes al listado, estos deben nombrarsen.
+Diligencie
+la
+información,
+de
+lo
+contrario el sistema no permitirá
+continuar con el ingreso de los
+datos. 
+5.3 Lugar de consumo implicado
+Seleccione con una X el lugar donde se dio el consumo del o los alimentos relacionados con
+el brote que está notificando. 
+Diligencie
+la
+información,
+de
+lo
+contrario el sistema no permitirá
+continuar con el ingreso de los
+datos. 
+5.3.1 Dirección
+Escriba la diressión o localización del lugar donde se dio el consumo del o los alimentos
+relacionados con el brote que está notificando. 
+Diligencie
+la
+información,
+de
+lo
+contrario el sistema no permitirá
+continuar con el ingreso de los
+datos. 
+5.4 Agentes identificados
+Teniendo en cuenta el listado de agentes que se encuentra en la parte inferior de la ficha,
+ingrese el número correspondiente al agente que se identificó una vez se realizó el cultivo de
+las muestras obtenidas durante el estudio del brote.
+

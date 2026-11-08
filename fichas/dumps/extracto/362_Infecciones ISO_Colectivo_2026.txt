@@ -1,0 +1,110 @@
+===== PAGINA 1 =====
+2.1 Colesistectomìa
+2.2 Herniorrafìa
+2. CIRUGIA GENERAL
+Casos nuevos
+Número de procedimientos (denominador)
+Correos: sivigila@ins.gov.co
+3.1 Revascularización miocardica
+3. CIRUGIA CARDIOVASCULAR
+Casos nuevos
+4.1 Cesárea
+4. ATENCIÓN DE PARTOS
+Casos nuevos
+4.3 Parto vía vaginal
+Número de procedimientos (denominador)
+Número de procedimientos (denominador)
+1. INFORMACIÓN GENERAL
+1.1 Código de la UPGD
+Departamento
+Municipio
+Código
+Sub– Índice
+1.2 Razón social  de la unidad primaria generadora del dato
+1.3 Fecha de la notificación (dd/mm/aaaa)
+/
+/
+1.4 Mes de vigilancia
+1.5 Año de vigilancia
+FOR-R02.4030-061 V:00 2026-08-06
+
+===== PAGINA 2 =====
+OBL
+IG.
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+4.2 Post Cesárea - Endometritis
+Ingrese el número consolidado de procedimientos de 
+cesáreas vigilados durante el mes en la UPGD.
+Diligencie la variable, de lo contrario el sistema no permitirá
+continuar con el ingreso de la información. 
+4.3 Post parto - Endometritis
+Ingrese el número consolidado de partos vaginales 
+vigilados durante el mes en la UPGD.
+Diligencie la variable, de lo contrario el sistema no permitirá
+continuar con el ingreso de la información. 
+3. CIRUGIA CARDIOVASCULAR
+3.1 Revascularización miocardica
+Ingrese el número consolidado de procedimientos de 
+revascularización miocárdica vigilados durante el mes 
+en la UPGD.
+Diligencie la variable, de lo contrario el sistema no permitirá
+continuar con el ingreso de la información. 
+4. ATENCIÓN DE PARTOS
+4.1 Cesárea -I.S.O
+Ingrese el número consolidado de procedimientos de 
+cesáreas vigilados durante el mes en la UPGD.
+Diligencie la variable, de lo contrario el sistema no permitirá
+continuar con el ingreso de la información. 
+2. CIRUGIA GENERAL
+2.1 Colesistectomía
+Ingrese el número consolidado de procedimientos de 
+colecistectomía vigilados durante el mes en la UPGD.
+Diligencie la variable, de lo contrario el sistema no permitirá
+continuar con el ingreso de la información. 
+2.2 Herniorrafìa
+Ingrese el número consolidado de procedimientos de 
+herniorrafia con malla vigilados durante el mes en la 
+UPGD.
+Diligencie la variable, de lo contrario el sistema no permitirá
+continuar con el ingreso de la información. 
+1.4. Mes de vigilancia
+Ingrese el mes que va a reportar. Ejm: enero, febrero, 
+marzo, etc
+Diligencie la variable, de lo contrario el sistema no permitirá
+continuar con el ingreso de la información. 
+1.5. Año de vigilancia
+Ingrese ela año que va a reportar. Ejm: 2018
+Diligencie la variable, de lo contrario el sistema no permitirá
+continuar con el ingreso de la información. 
+1.2. Razón social de la UPGD
+Ingrese el nombre de la UPGD que va a notificar 
+Diligencie la variable, de lo contrario el sistema no permitirá
+continuar con el ingreso de la información. 
+1.3. Fecha notificación
+Ingrese la fecha en la que se va a noitificar la 
+información. Formato día-mes-año
+Diligencie la variable, de lo contrario el sistema no permitirá
+continuar con el ingreso de la información. 
+INSTRUCTIVO DILIGENCIAMIENTO FICHAS DE NOTIFICACIÓN DATOS COLECTIVOS
+INFECCIONES ASOCIADAS A PROCEDIMIENTOS MÉDICO-QUIRÚRGICOS
+CÓDIGO INS: Código INS 362
+VARIABLE
+CATEGORÍAS Y DEFINICIÓN
+CRITERIOS SISTEMATIZACIÓN
+1. INFORMACIÓN GENERAL 
+1.1. Código UPGD
+Ingrese el código de la UPGD que va a notificar que le 
+fue  asignado en el Sivigila 
+Diligencie la variable, de lo contrario el sistema no permitirá
+continuar con el ingreso de la información.
+

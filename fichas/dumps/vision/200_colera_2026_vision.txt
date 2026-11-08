@@ -1,0 +1,44 @@
+VOLCADOS DE VISIÓN — 200 Cólera (Cód INS 200, FOR-R02.4030-011 V:00 2026-08-06)
+Páginas de preguntas (visión): p1-p2. Índice: total=6, preguntas=[1,2], fin_preguntas=p2, instructivo desde p3.
+Fuente OBLIG: tabla visual p6 (lectura de excepción).
+
+===== PAGINA 2 (preguntas) =====
+Definición de caso: párrafo (p1). Secciones 5-7.
+
+Sección 5. DATOS DE DESPLAZAMIENTO Y CONTACTOS
+5.1 Desplazamiento últimos cinco días — select (círculo única) — OBLIG SI
+  Opciones: 1. Sí, 2. No
+  Nota (forma impresa): si Sí, se diligencian bloques de viaje con País / Departamento ó estado / Municipio +
+  Fecha de desplazamiento (dd/mm/aaaa) + Fecha de llegada (dd/mm/aaaa) — hasta 6 bloques en la ficha.
+  En el catálogo no son campos codificables (bloque repetible); se documenta aquí.
+5.2 ¿Ha estado en contacto con personas que presenten los mismos signos y síntomas? — select (círculo única) — OBLIG SI
+  Opciones: 1. Sí, 2. No
+5.2.1 ¿Con quién? — text — OBLIG NO, show_if: se habilita/obligatoria solo si 5.2 = 1 ("Sí").
+  padre_ref = 200_contacto_sintomaticos
+
+Sección 6. ASOCIACIÓN CON BROTE
+6.1 ¿Caso asociado a un brote? — select (círculo única) — OBLIG SI
+  Opciones: 1. Sí, 2. No
+6.2 Caso captado por — select (círculo única) — OBLIG SI
+  Opciones (impreso tal cual): 1. UPGD, 2. Busqueda activa institucional, 3. Vig. Intensificada, 4. Busqueda activa comunitaria
+
+Sección 7. LABORATORIO
+7.1 Agente identificado — select (círculo única) — OBLIG NO
+  Opciones (impreso p2 tal cual, por código SICRO/INS):
+  10. Vibrio cholerae
+  17. Vibrio spp
+  80. Vibrio cholerae O1 toxigénico
+  81. Vibrio cholerae O1 no toxigénico
+  82. Vibrio cholerae no O1, no O139 toxigénico
+  83. Vibrio cholerae no O1, no O139 no toxigénico
+  84. Vibrio cholerae O139
+  78. Pendiente
+  79. No detectado
+  77. Otro
+  Errata: el instructivo (p6) muestra subnumeros "1, 2, 78, 79, 77" y menciona opción 85 como "Otras" en el sistema;
+  la forma impresa usa la lista de códigos anterior. Prioridad: forma impresa.
+
+===== PAGINA 6 (instructivo, mapping visual) =====
+Bloque datos básicos (A/B/C): OBLIG SI.
+Orden natural p6: 5.1 SI, 5.2 SI, 5.2.1 NO, 6.1 SI, 6.2 SI, 7.1 NO. ✓ coincide con bloque de valores del extracto.
+Criterios de sistematización: campos con círculos = única opción de respuesta.

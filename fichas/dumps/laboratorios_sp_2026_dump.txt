@@ -1,0 +1,627 @@
+
+===== PAGINA 1 =====
+  135.6  222.3 - FOR-R02.0000-046 V:10 2026-08-06
+  172.9   28.0 B 1.1 Código de la UPGD
+  174.1  302.9 B 1.2 Razón social e la UPGD
+  204.3   24.8 - Departamento
+  204.3   88.5 - Municipio
+  204.3  171.6 - Código
+  204.3  245.3 - Sub índice
+  215.9  240.7 - Código evento
+  218.9   26.7 B 1.3 Nombre del evento
+  219.0  304.1 B 1.4 Año
+  219.9  444.8 B 1.5 Semana epidemiológica
+  248.3   28.5 B 1.6 Tipo de ID*
+  248.3  103.2 B 1.7  Número de identificación
+  248.3  221.6 B 1.8 Nombres y apellidos del paciente
+  286.0   48.3 B *RC : REGISTRO CIVIL | TI : TARJETA IDENTIDAD | CC : CÉDULA CIUDADANÍA | CE : CÉDULA EXTRANJERÍA |- PA : PASAPORTE | MS : MENOR SIN ID | AS : ADULTO SIN ID | PE : PERMISO ESPECIAL DE PERMANENCIA |
+  292.0  104.3 B CN : CERTIFICADO DE NACIDO VIVO | CD: CARNÉ DIPLOMÁTICO | SC : SALVOCONDUCTO | DE : DOCUMENTO EXTRANJERO | PT : PERMISO POR PROTECCION TEMPORAL
+  310.3  221.6 B 1.10  Fecha de la recepción en el laboratorio (dd/mm/aaaa)
+  310.6  450.9 B 1.11 Muestra
+  310.9  503.4 B 1.12 Prueba
+  310.9  551.1 B 1.13 Agente
+  312.1   31.7 B 1.9  Fecha de toma (dd/mm/aaaa)
+  346.4  178.3 B 1.15 Fecha de resultado (dd/
+  347.2   28.1 B 1.14  Resultado
+  347.8  456.7 B 1.16 Valor
+  354.8  178.3 B mm/aaaa)
+  372.8   46.2 - Muestra
+  373.4  482.4 B COD
+  373.4  522.1 B NOMBRE DEL AGENTE
+  373.5  371.2 B COD
+  373.5  403.5 B NOMBRE DEL AGENTE
+  373.8  238.2 B COD
+  373.8  277.9 B NOMBRE DE LA PRUEBA
+  373.9  115.2 B COD
+  373.9  154.7 B NOMBRE DE LA PRUEBA
+  383.2  240.5 - A3
+  383.2  252.3 - NEUTRALIZACIÓN
+  383.9   24.8 - 1. Sangre total
+  383.9  119.1 - 2
+  383.9  133.3 - IgM
+  385.1  485.7 - 71
+  385.1  502.2 - Rickettsia
+  385.8  375.3 - 0
+  385.8  386.9 - No aplica
+  392.5  240.5 - A4
+  392.5  252.3 - CARGA VIRAL
+  393.8  119.1 - 3
+  393.8  133.3 - IgG
+  394.9   24.8 - 2. Orina
+  396.0  485.7 - 72
+  396.0  502.2 - Chikungunya
+  397.2  375.3 - 1
+  397.2  386.9 - Sarampion
+  401.8  240.5 - A5
+  401.8  252.3 - RECUENTO CD3-CD4
+  403.7  119.1 - 4
+  403.7  133.3 - PCR
+  406.0   33.2 - Hisopado – aspirado
+  406.8  485.7 - 73
+  406.8  502.2 - Iodamoeba Butschlii
+  408.5  375.3 - 2
+  408.5  386.9 - Rubeola
+  411.2   24.8 - 3.
+  411.2  240.5 - A8
+  411.2  252.3 - INOCULACIÓN EN RATÓN
+  413.7  119.1 - 5
+  413.7  133.3 - AISLAMIENTO
+  417.1   33.2 - nasofaríngeo
+  417.7  485.7 - 74
+  417.7  502.2 - Isospora Belli
+  419.9  375.3 - 3
+  419.9  386.9 - Dengue
+  420.5  240.5 - A9
+  420.5  252.3 - SEROTIPIFICACIÓN
+  423.6  119.1 - 7
+  423.6  133.3 - DESCONOCIDA
+  428.2   24.8 - 4. Tejido
+  428.5  485.7 - 75
+  428.5  502.2 - Listeria Monocytogenes
+  429.9  240.5 - B0
+  429.9  252.3 - PERFIL DE SUSCEPTIBILIDAD
+  431.3  375.3 - 4
+  431.3  386.9 - Citomegalovirus
+  433.5  117.7 - 10
+  433.5  133.3 - TGO
+  439.2   24.8 - 5. Frotis
+  439.2  240.5 - B1
+  439.2  252.3 - PRUEBAS BIOQUÍMICAS
+  439.4  485.7 - 76
+  439.4  502.2 - Bocavirus
+  442.6  375.3 - 5
+  442.6  386.9 - Toxoplasma
+  443.4  117.7 - 11
+  443.4  133.3 - TGP
+  448.6  240.5 - B2
+  448.6  252.3 - PRUEBA RÁPIDA
+  450.3   24.8 - 6. Lcr
+  450.3  485.7 - 77
+  450.3  502.2 - Coronavirus
+  453.4  117.7 - 12
+  453.4  133.3 - BILIRRUBINA TOTAL
+  454.0  375.3 - 6
+  454.0  386.9 - Sifilis
+  457.9  240.5 - B3
+  457.9  252.3 - TPHA
+  461.1  485.7 - 78
+  461.1  502.2 - Metaneumovirus
+  461.4   24.8 - 7. Heces
+  463.3  117.7 - 13
+  463.3  133.3 - BILIRRUBINA DIRECTA
+  465.4  375.3 - 7
+  465.4  386.9 - Herpes virus
+  467.3  240.5 - B4
+  467.3  252.3 - TPPA
+  472.0  485.7 - 79
+  472.0  502.2 - Rinovirus
+  472.4   24.8 - 8. Aspirado
+  473.2  117.7 - 14
+  473.2  133.3 - BILIRRUBINA INDIRECTA
+  476.6  240.5 - B5
+  476.6  252.3 - PRUEBAS GENOTÍPICAS
+  476.7  375.3 - 8
+  476.7  386.9 - Otro
+  482.8  485.7 - 80
+  482.8  502.2 - Proteus sp
+  483.2  117.7 - 15
+  483.2  133.3 - HEMATOCRITO
+  483.5   24.8 - 9. Lavado
+  486.0  240.5 - B6
+  486.0  252.3 - MICROAGLUTINACIÓN
+  488.1  375.3 - 9
+  488.1  386.9 - Desconocido
+  493.1  117.7 - 16
+  493.1  133.3 - HEMOGLOBINA
+  493.7  485.7 - 81
+  493.7  502.2 - Streptococcus sp
+  494.6   21.2 - 10. Esputo
+  495.3  240.5 - B7
+  495.3  252.3 - COPROSCOPICO
+  499.5  374.1 - 10
+  499.5  386.9 - Fiebre amarilla
+  503.0  117.7 - 17
+  503.0  133.3 - PLAQUETAS
+  504.5  485.7 - 82
+  504.5  502.2 - Plomo
+  504.7  240.5 - B8
+  504.7  252.3 - ANTI - VHA
+  505.6   21.2 - 11. Otros líquidos estériles
+  510.8  374.1 - 11
+  510.8  386.9 - Hepatitis a
+  513.0  117.7 - 18
+  513.0  133.3 - LEUCOCITOS
+  514.0  240.5 - C0
+  514.0  252.3 - COLORACIÓN GIEMSA
+  515.4  485.7 - 83
+  515.4  502.2 - Bordetella holmesii
+  516.7   21.2 - 12. Saliva
+  522.2  374.1 - 12
+  522.2  386.9 - Hepatitis b
+  522.9  117.7 - 19
+  522.9  133.3 - UREA
+  523.3  240.5 - C1
+  523.3  252.3 - CARIOTIPO
+  526.2  485.7 - 84
+  526.2  502.2 - Virus respiratorio
+  527.8   21.2 - 13. Suero
+  532.7  240.5 - C2
+  532.7  252.3 - TSH
+  532.8  117.7 - 20
+  532.8  133.3 - CREATININA
+  533.6  374.1 - 13
+  533.6  386.9 - Leptospira
+  537.1  485.7 - 85
+  537.1  502.2 - Acinetobacter woffi
+  538.8   21.2 - 14. Orofaringeo
+  542.0  240.5 - C3
+  542.0  252.3 - T3
+  542.7  117.7 - 21
+  542.7  133.3 - GLUCOSA
+  545.0  374.1 - 14
+  545.0  386.9 - Leishmania
+  547.9  485.7 - 86
+  547.9  502.2 - Bacillus fragilis
+  549.9   21.2 - 15. Alimentos
+  551.4  240.5 - C4
+  551.4  252.3 - T4
+  552.7  117.7 - 24
+  552.7  133.3 - ALBUMINURIA
+  556.3  374.1 - 15
+  556.3  386.9 - Polio
+  558.8  485.7 - 87
+  558.8  502.2 - Bacteroides fragilis
+  560.7  240.5 - C5
+  560.7  252.3 - CITOGENÉTICA
+  561.0   21.2 - 16. Superficies
+  562.6  117.7 - 25
+  562.6  133.3 - GOTA GRUESA
+  567.7  374.1 - 16
+  567.7  386.9 - Adenovirus
+  569.6  485.7 - 88
+  569.6  502.2 - C. perfringens
+  570.1  240.5 - C6
+  570.1  252.3 - BASCILOSCOPIA
+  572.1   21.2 - 17. Agua
+  572.5  117.7 - 26
+  572.5  133.3 - HBsAg
+  579.1  374.1 - 17
+  579.1  386.9 - Influenza sp
+  579.4  240.5 - C7
+  579.4  252.3 - RT/PCR
+  580.5  485.7 - 89
+  580.5  502.2 - Candida albicans
+  582.5  117.7 - 27
+  582.5  133.3 - BUN
+  583.1   21.2 - 18. Vomito
+  588.8  240.5 - D6
+  588.8  252.3 - COLINESTERASA
+  590.4  374.1 - 18
+  590.4  386.9 - Sincitial respiratorio
+  591.3  485.7 - 90
+  591.3  502.2 - Candida albicans
+  592.4  117.7 - 28
+  592.4  133.3 - FIBRINOGENO
+  594.2   21.2 - 19. Medula ósea
+  598.1  240.5 - C8
+  598.1  252.3 - COLORIMETRÍA
+  601.8  374.1 - 19
+  601.8  386.9 - Parainfluenza sp
+  602.2  485.7 - 91
+  602.2  502.2 - Citrobacter freundi
+  602.3  117.7 - 30
+  602.3  133.3 - PATOLOGIA
+  605.3   21.2 - 20. Líquido sinovial
+  607.5  240.5 - C9
+  607.5  252.3 - ELECTROFORESIS
+  612.2  117.7 - 31
+  612.2  133.3 - INMUNOHISTOQUIMICA
+  613.0  485.7 - 92
+  613.0  502.2 - Clostridium
+  613.2  374.1 - 20
+  613.2  386.9 - Encefalitis equinas
+  616.3   21.2 - 21. Linfa
+  616.8  240.5 - D0
+  616.8  252.3 - INMUNOENSAYO
+  622.2  117.7 - 41
+  622.2  133.3 - RPR
+  623.9  485.7 - 93
+  623.9  502.2 - E. coli
+  624.5  374.1 - 21
+  624.5  386.9 - Corynebacterium difteriae
+  626.1  240.5 - D1
+  626.1  252.3 - POTENCIOMETRICA
+  627.4   21.2 - 22. Lavado bronquial
+  632.1  117.7 - 42
+  632.1  133.3 - VDRL
+  634.7  485.7 - 94
+  634.7  502.2 - Enterobacter (no especificado)
+  635.5  240.5 - D2
+  635.5  252.3 - CROMATOGRAFIA LIQUIDA
+  635.9  374.1 - 22
+  635.9  386.9 - Haemophilus influenzae
+  638.5   21.2 - 31. Moco
+  642.0  117.7 - 43
+  642.0  133.3 - FTA-ABS
+  644.8  240.5 - D3
+  644.8  252.3 - CROMATOGRAFIA GASES
+  645.6  485.7 - 95
+  645.6  502.2 - Enterobacter aglomerans
+  647.3  374.1 - 23
+  647.3  386.9 - Neiseria meningitidis
+  649.5   21.2 - 32. Secreciones
+  652.0  117.7 - 44
+  652.0  133.3 - MHA-TP
+  654.2  240.5 - D4
+  654.2  252.3 - RESONANCIA NUCLEAR MAGNETICA
+  656.5  485.7 - 96
+  656.5  502.2 - Enterobacter cloacae
+  658.6  374.1 - 24
+  658.6  386.9 - Streptococus pneumoniae
+  660.6   21.2 - 33. Placenta
+  661.9  117.7 - 45
+  661.9  133.3 - FLUORESCENCIA
+  663.5  240.5 - D5
+  663.5  252.3 - ESPECTROSCOPIA
+  667.3  485.7 - 97
+  667.3  502.2 - Enterobacter sakasaki
+  670.0  374.1 - 25
+  670.0  386.9 - Bordetella pertussis
+  671.7   21.2 - 34. CorUmbi
+  671.7  252.3 - ESPECTOFOTOMETRIA DE ABSORCION
+  671.8  117.7 - 46
+  671.8  133.3 - INHIB. HEMAGLUTINACIÓN
+  674.8  240.5 - D7
+  678.2  485.7 - 98
+  678.2  502.2 - Enterobacter sp
+  678.3  252.3 - ATOMICA
+  681.4  374.1 - 26
+  681.4  386.9 - Bordetella parapertussis
+  681.8  117.7 - 50
+  681.8  133.3 - AntiVHD
+  686.1  240.5 - D8
+  686.1  252.3 - ESPECTOFOTOMETRIA DE MASAS
+  689.0  485.7 - 1A
+  689.0  502.2 - Enterococcus
+  691.7  117.7 - 51
+  691.7  133.3 - Anti-HBc IgM
+  692.7  374.1 - 30
+  692.7  386.9 - Plasmodium vivax
+  695.5  240.5 - D9
+  695.5  252.3 - ESPECTOFOTOMETRIA UV/Vis
+  696.0   45.4 - Resultado
+  699.9  485.7 - 1B
+  699.9  502.2 - Enterococcus spp
+  701.6  117.7 - 55
+  701.6  133.3 - CULTIVO
+  704.1  374.1 - 31
+  704.1  386.9 - Plasmodium falciparum
+  704.8  240.5 - E0
+  704.8  252.3 - ELISA NS1
+  707.6   12.8 - 1. Positivo
+  710.7  485.7 - 1C
+  710.7  502.2 - Klebsiella ozaenae
+  711.6  117.7 - 56
+  711.6  133.3 - TOXIGENICIDAD
+  714.2  240.5 - E1
+  714.2  252.3 - AISLAMIENTO VIRAL
+  715.5  374.1 - 32
+  715.5  386.9 - Plasmodium malarie
+  719.2   12.8 - 2. Negativo
+  721.5  117.7 - 57
+  721.5  133.3 - COLORACION DE GRAM
+  721.6  485.3 - 1D
+  721.6  502.2 - Klebsiella pneumoniae
+  723.5  240.5 - E3
+  723.5  252.3 - IFD
+  726.9  374.1 - 40
+  726.9  386.9 - Influenza A
+  730.8   12.8 - 3. No procesado
+  731.4  117.7 - 58
+  731.4  133.3 - ANTIGENEMIA
+  732.4  485.7 - 1E
+  732.4  502.2 - L. dumoffii
+  732.8  240.5 - E4
+  732.8  252.3 - PRUEBAS RAPIDAS
+  738.2  374.1 - 41
+  738.2  386.9 - Influenza B
+  741.3  117.7 - 60
+  741.3  133.3 - ESTUDIO DIRECTO
+  742.2  240.5 - E5
+  742.2  252.3 - COLORACIÓN AZUL DE METILENO
+  742.4   12.8 - 4. Inadeduado
+  743.3  486.0 - 1F
+  743.3  502.2 - Proteus mirabilis
+  749.6  374.1 - 42
+  749.6  386.9 - Parainfluenza 1
+  751.3  117.7 - 63
+  751.3  133.3 - TITULO IFI
+  751.5  240.5 - E6
+  751.5  252.3 - ALBUMINA (HIPOPROTEINEMIA)
+  754.0   12.8 - 5. Dudoso
+  754.1  485.3 - 1G
+  754.1  502.2 - Proteus vulgaris
+  760.9  240.5 - E7
+  760.9  252.3 - ANTIBIOGRAMA
+  761.0  374.1 - 43
+  761.0  386.9 - Parainfluenza 2
+  761.2  117.7 - 64
+  761.2  133.3 - ASPIRADO BAZO
+  765.0  485.3 - 1H
+  765.0  502.2 - Pseudomona aeruginosa
+  765.6   12.8 - 6. Valor registrado
+  770.2  240.5 - E9
+  770.2  252.3 - INMUNOFLUORECENCIA
+  771.1  117.7 - 65
+  771.1  133.3 - ASPIRADO MEDULA
+  772.3  374.1 - 44
+  772.3  386.9 - Parainfluenza 3
+  775.8  486.4 - 1I
+  775.8  502.2 - Pseudomonas multivorans
+  777.2   12.8 - 7. Compatible
+  778.4  252.3 - DEMOSTRACIÓN DE TREPONEMA POR
+  781.1  117.7 - 66
+  781.1  133.3 - PRUEBA DE MONTENEGRO
+  781.5  240.9 - F0
+  783.7  374.1 - 45
+  783.7  386.9 - Hepatitis delta
+  785.0  252.3 - CAMPO OSCURO
+  786.7  486.4 - 1J
+  786.7  502.2 - R. bronchialis
+  788.8   12.8 - 9. Desconocido
+  791.0  117.7 - 70
+  791.0  133.3 - RECUENTO PARASITARIO
+  792.8  240.9 - F1
+  792.8  252.3 - COLORACIÓN
+  795.1  374.1 - 46
+  795.1  386.9 - Hepatitis c
+  797.5  485.7 - 1K
+  797.5  502.2 - R. orizae
+  800.4   12.8 - 10. Reactivo
+  800.9  117.7 - 71
+  800.9  133.3 - WESTERN  BLOT
+  802.2  240.9 - F2
+  802.2  252.3 - ANTICUERPOS IgM
+  806.4  374.1 - 47
+  806.4  386.9 - Micobacterium leprae
+  808.4  486.0 - 1L
+  808.4  502.2 - Staphylococcus coagulasa negativo
+  810.8  117.7 - 72
+  810.8  133.3 - ANTICUERPOS  ANTI HIV
+  811.5  240.9 - F3
+  811.5  252.3 - DETERMINACION  DE ANTIGENO
+  812.0   12.8 - 11. No reactivo
+  817.8  374.1 - 48
+  817.8  386.9 - Virus de parotiditis
+  819.2  484.6 - 1M
+  819.2  502.2 - Staphylococcus epidermidis
+  820.8  117.7 - 73
+  820.8  133.3 - ELISA
+  820.8  240.9 - F4
+  820.8  252.3 - ELISA IgG
+  823.6   12.8 - 12. Contaminada con hongos
+  829.2  374.1 - 49
+  829.2  386.9 - Micobacterium tuberculosis
+  830.1  485.3 - 1N
+  830.1  502.2 - Streptococcus beta hemiolitico
+  830.2  240.9 - F5
+  830.2  252.3 - ELISA IgM
+  830.7  117.7 - 74
+  830.7  133.3 - ADENOSINA DEAMINASA
+  835.2   12.8 - 13.Muestra escasa de células
+  839.5  240.9 - F6
+  839.5  252.3 - IFI IgG
+  840.5  374.1 - 50
+  840.5  386.9 - Plasmodium ovale
+  840.6  117.7 - 75
+  840.6  133.3 - CAMPO OSCURO
+  840.9  485.3 - 1O
+  840.9  502.2 - Streptococcus grupo d
+  846.7   12.8 - 14. Borderline
+  848.9  240.9 - F7
+  848.9  252.3 - IFI  IgM
+  850.6  117.7 - 76
+  850.6  133.3 - IFI
+  851.8  485.7 - 1P
+  851.8  502.2 - Streptococcus spp
+  851.9  374.1 - 51
+  851.9  386.9 - Virus de la rabia
+  858.2  240.9 - F8
+  858.2  252.3 - ROSA DE BENGALA
+  858.3   12.8 - 15. No compatible
+  860.5  117.7 - 77
+  860.5  133.3 - MERCURIO
+  862.7  502.2 - Coronavirus causante del síndrome
+  863.3  374.1 - 52
+  863.3  386.9 - Vibrio cholerae
+  867.6  240.9 - F9
+  867.6  252.3 - ECOGRAFÍA OBSTÉTRICA
+  870.4  117.7 - 78
+  870.4  133.3 - ANTICUERPOS TOTALES
+  873.5  485.3 - 1Q
+  873.5  502.2 - respiratorio de Oriente Medio (MERS-
+  874.6  374.1 - 53
+  874.6  386.9 - Vih
+  876.9  240.5 - G0
+  876.9  252.3 - UROCULTIVO
+  880.3  117.7 - 79
+  880.3  133.3 - COLORACIÓN ZIEHL NEELSEN
+  884.4  502.2 - CoV)
+  886.0  374.1 - 54
+  886.0  386.9 - Chagas
+  886.3  240.5 - G1
+  886.3  252.3 - CULTIVO DE LÍQUIDO PLEURAL
+  890.3  117.7 - 91
+  890.3  133.3 - COPROCULTIVO
+  895.2  485.7 - 1R
+  895.2  502.2 - Coronavirus subtipo 229e
+  895.6  240.5 - G2
+  895.6  252.3 - LAVADO BRONCOALVEOLAR
+  897.4  374.1 - 55
+  897.4  386.9 - Parvovirus
+  900.2  117.7 - 92
+  900.2  133.3 - HEMOCULTIVO
+  905.0  240.5 - G3
+  905.0  252.3 - BIOPSIA
+  906.1  486.0 - 1S
+  906.1  502.2 - Coronavirus subtipo HKU1
+  908.8  374.1 - 56
+  908.8  386.9 - Enterovirus
+  910.1  117.7 - 81
+  910.1  133.3 - ALBUMINA
+  914.3  240.5 - G4
+  914.3  252.3 - CULTIVO DEL PARENQUIMA PULMONAR
+  916.9  485.7 - 1T
+  916.9  502.2 - Coronavirus subtipo NL63
+  920.1  117.7 - 82
+  920.1  133.3 - GASES ARTERIALES
+  920.1  374.1 - 57
+  920.1  386.9 - Influenza a h1 estacional
+  925.6  240.5 - G5
+  925.6  252.3 - CULTIVO DE SECRESIONES RESPIRATORIAS
+  927.8  485.3 - 1U
+  927.8  502.2 - Coronavirus subtipo OC43
+  930.0  117.7 - 84
+  930.0  133.3 - TIEMPO DE PROTROMBINA
+  931.5  374.1 - 58
+  931.5  386.9 - Influenza a h3 estacional
+  935.7  252.3 - TEST DE MICRO INMUNOFLUORESCENCIA
+  938.6  485.7 - 1V
+  938.6  502.2 - Influenza A(H3N2)
+  938.8  240.5 - G6
+  939.9  117.7 - 85
+  939.9  133.3 - TIEMPO PARCIAL DE TROMBOPLASTINA
+  942.3  252.3 - PARA CHLAMYDIA
+  942.9  374.1 - 59
+  942.9  386.9 - Influenza A(H1N1) pdm09
+  949.5  484.6 - 1W
+  949.5  502.2 - Parainfluenza tipo 4
+  949.9  117.7 - 86
+  949.9  133.3 - RADIOGRAFIA
+  950.1  240.5 - G7
+  950.1  252.3 - MICROINMUNOFLUORESCENCIA
+  954.2  374.1 - 60
+  954.2  386.9 - Staphylococcus aureus
+  959.5  240.5 - G8
+  959.5  252.3 - RADIOINMUNOANÁLISIS
+  959.8  117.7 - 87
+  959.8  133.3 - ELECTROCARDIOGRAMA
+  960.3  485.7 - 1X
+  960.3  502.2 - Treponema pallidum
+  965.6  374.1 - 61
+  965.6  386.9 - Mycoplasma pneumoniae
+  968.8  240.5 - G9
+  968.8  252.3 - INMUNOFLUORESCENCIA (IFA) INDIRECTA
+  969.7  117.7 - 88
+  969.7  133.3 - ECOGRAF¡A ABDOMINAL
+  971.2  485.7 - 1Y
+  971.2  502.2 - Brucella
+  977.0  374.1 - 62
+  977.0  386.9 - Chlamydia pneumoniae
+  978.2  240.5 - H0
+  978.2  252.3 - HISOPADO- ASPIRADO / NASOFARINGEO
+  979.7  117.7 - 89
+  979.7  133.3 - ECOCARDIOGRAMA
+  982.0  486.0 - 1Z
+  982.0  502.2 - Zika
+  986.4  252.3 - LAVADO BRONCO ALVEOLAR  (LBA)
+  988.3  374.1 - 63
+  988.3  386.9 - Legionella pneumophila
+  989.5  240.5 - H1
+  989.6  117.7 - 90
+  989.6  133.3 - TOMOGRAFÍA AXIAL COMPUTARIZADA
+  992.9  485.7 - 2A
+  992.9  502.2 - HANTAVIRUS
+  993.0  252.3 - PROTEGIDO
+  999.5  117.7 - 93
+  999.5  133.3 - Anti-HBc Totales
+  999.7  374.1 - 64
+  999.7  386.9 - Influenza a no subtipificable
+ 1000.8  240.5 - H2
+ 1000.8  252.3 - CEPILLADO PROTEGIDO
+ 1003.7  485.7 - 2B
+ 1003.7  502.2 - Hepatitis e
+ 1009.4  117.7 - 94
+ 1009.4  133.3 - Anti-HBs***
+ 1010.1  240.5 - H3
+ 1010.1  252.3 - FROTIS
+ 1011.1  374.1 - 99
+ 1011.1  386.9 - Virus respiratorios 101 a 178 etas
+ 1014.6  485.7 - 2C
+ 1014.6  502.2 - MAYARO
+ 1019.4  117.7 - 95
+ 1019.4  133.3 - Anti VHC
+ 1019.5  240.5 - H4
+ 1019.5  252.3 - FIJACION DEL COMPLEMENTO FC
+ 1022.4  374.1 - 65
+ 1022.4  386.9 - Salmonella typhi
+ 1025.4  485.3 - 2D
+ 1025.4  502.2 - Streptococcus agalactiae
+ 1028.8  240.5 - H5
+ 1028.8  252.3 - FPA
+ 1029.3  117.7 - 96
+ 1029.3  133.3 - LINFOCITOS
+ 1033.8  374.1 - 66
+ 1033.8  386.9 - Salmonella paratyphi
+ 1036.3  485.7 - 2E
+ 1036.3  502.2 - Streptococcus pyogenes
+ 1038.1  240.5 - H6
+ 1038.1  252.3 - INMUNOBLOT
+ 1039.2  117.7 - 98
+ 1039.2  133.3 - HBS AG
+ 1045.2  374.1 - 67
+ 1045.2  386.9 - Rotavirus
+ 1047.1  486.0 - 2F
+ 1047.1  502.2 - Otro Corynebacterium
+ 1047.5  240.5 - H7
+ 1047.5  252.3 - PCR TOXINA DIFTÉRICA
+ 1049.2  117.7 - 99
+ 1049.2  133.3 - HBE AG
+ 1056.5  374.1 - 68
+ 1056.5  386.9 - Bordetella spp
+ 1056.8  240.5 - H8
+ 1056.8  252.3 - PRUEBA DE ELEK
+ 1058.0  485.3 - 2G
+ 1058.0  502.2 - Virus ébola
+ 1059.1  117.3 - A0
+ 1059.1  133.3 - ANTI-HBE
+ 1066.2  241.7 - I0
+ 1066.2  252.3 - PRUEBA RÁPIDA NS1
+ 1067.9  374.1 - 69
+ 1067.9  386.9 - Yersinia
+ 1068.9  485.3 - 2H
+ 1068.9  502.2 - SARS-CoV-2
+ 1069.0  117.3 - A1
+ 1069.0  133.3 - CROMATOGRAFÍA
+ 1074.4  252.3 - NIVELES DE GLIFOSATO Y ÁCIDO METIL
+ 1077.5  241.7 - I1
+ 1078.4  485.7 - 2J
+ 1078.4  502.2 - Monkypox
+ 1078.8  502.9 - Virus Mpox
+ 1079.0  117.3 - A2
+ 1079.0  133.3 - ABSORCIÓN ATÓMICA
+ 1079.3  374.1 - 70
+ 1079.3  386.9 - Paramyxovirus
+ 1079.4   11.1 B Correo: sivigila@ins.gov.co
+ 1081.0  252.3 - FOSFÓNICO (AMPA)
+--- dibujos: 1187 ---

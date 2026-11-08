@@ -1,0 +1,676 @@
+===== PAGINA 1 =====
+1. INFORMACIÓN GENERAL
+2. DESCRIPCIÓN DEL BROTE
+1.1 Código de la UPGD de ocurrencia del brote
+Departamento
+Municipio
+Código
+Sub– Índice
+1.2 Razón social de la UPGD de ocurrencia del brote
+1.3 Fecha de Notificación (dd/mm/aaaa)
+1.6 Departamento/ Municipio  que 
+notifica
+Departamento
+Municipio
+1.5 Año
+1.4 Semana 
+epidemiológica
+2.1 Tipo de microorganismo
+2.2 Microorganismo
+2.3 Perfil de resistencia
+TABLA DE REFERENCIA DE 
+MICROORGANISMOS
+TABLA DE REFERENCIA DE PERFILES
+3. ANTECEDENETES DEL BROTE
+3.1 Fecha de inicio del brote (dd/mm/aaaa)
+3.2 Fecha de identificación del brote (dd/mm/aaaa)
+3.3 Fecha del último caso (dd/mm/aaaa)
+3.5 Estado del brote
+o 1. Abierto o 2. Cerrado 
+3.6 Fecha de cierre del brote (dd/mm/aaaa)
+q Aumento inusitado de casos.
+3.7 Brote 
+configurado 
+por
+q Nuevo aislamiento del microorganismo en la IPS.
+q Cambio de perfil de resistencia de un microorganismo. 
+3.8 Brote presentado en
+o 1. Pacientes o 2. Trabajadores de la salud 
+o 3. Ambos 
+3.8.1 Número de 
+pacientes
+3.8.2 Número de 
+trabajadores
+4. TIPO DE INFECCIÓN
+4.1 Brote asociado a
+4.1.1 ¿Cuál otro?
+4.2 Hipótesis de contagio
+4.2.1 ¿Cuál otro?
+5.  CARACTERIZACIÓN DEL BROTE
+5.1 Número total de infectados
+5.2 Número total de expuestos
+5.4 Número de muertes atribuidas
+5.3 Número de muertes asociadas
+5.5 Casos colonizados
+Correo: sivigila@ins.gov.co
+q Infecciones asociadas a dispositivos - 
+IAD
+q Infecciones asociadas a procedimientos 
+médico-quirúrgicos – IAPMQ
+q Medicamentos o insumos
+5.9 Servicio de atención 
+donde se presenta el brote
+Infectados
+Expuestos
+q UCI Intensiva Adultos
+q UCI Intensiva Pediátrica
+q UCI Intensiva Neonatal
+q UCI Intermedia Adultos
+q UCI Intermedia Pediátrica
+q UCI Intermedia Neonatal
+q UCI básica Neonatal
+q Hospitalización Adultos
+q Sala de Maternidad
+q Hospitalización Pediátrica
+q Otros
+5.10 Tipos de infección
+Cantidad
+5.10.1 LISTADO DE TIPOS DE INFECCIÓN
+o 1. Bacteriano
+o 2. Fúngico
+o 3. Viral
+o 4. Parásito
+3.4 Días transcurridos
+2.2.1 ¿Cuál otro microorganismo?
+2.4 Gen KPC o 1. Si o 2. No 
+2.5 Gen NDM o 1. Si o 2. No 
+2.6 Gen VIM o 1. Si o 2. No 
+2.7 Gen IMP o 1. Si o 2. No 
+2.8 Gen OXA48 o 1. Si o 2. No 
+2.9 Gen no determinado o 1. Si o 2. No 
+2.10 Gen en estudio
+o 1. Si o 2. No 
+2.11 Otro gen
+o 1. Si o 2. No 2.11.1 ¿Cuál otro gen?
+q Fallas en higiene de manos 
+q Fallas en procesos de limpieza y desinfección de áreas o 
+superficies 
+q Asociación a medicamentos, soluciones o desinfectantes 
+posiblemente contaminados 
+q Fallas en procesos de aislamiento y cohortización de pacientes
+q Posible contaminación de agua
+q Enfermedad Transmitida por 
+Alimentos
+q Uso inadecuado de EPP 
+q Otro
+5.6 Mortalidad
+5.7 Letalidad
+5.8 Tasa de ataque
+q Enfermedades gastrointestinales
+q Infección respiratoria aguda – 
+IRA 
+q Otros
+Infectados
+Expuestos
+LISTADO DE SERVICIOS (HAGA 
+CLIC PARA SELECCIONARLOS)
+5.9.1 Número total de infectados otros servicios
+5.9.2 Número total de expuestos otros servicios
+5.9.3 Tasa de ataque
+5.9.4 Número de infecciones
+5.10.2 LISTADO DE TIPOS DE INFECCIÓN
+5.10.3 LISTADO DE TIPOS DE INFECCIÓN
+5.10.4 LISTADO DE TIPOS DE INFECCIÓN
+5.7.5 LISTADO DE TIPOS DE INFECCIÓN
+5.7.6.1 ¿Cuál otro?
+q 5.7.6. Otro tipo
+5.11 Número de muestras
+5.12 Tipos de muestras
+Cantidad
+5.12.1 LISTADO DE TIPOS 
+DE MUESTRAS
+5.12.2 LISTADO DE TIPOS DE 
+MUESTRAS
+5.12.3 LISTADO DE TIPOS DE 
+MUESTRAS
+5.12.4 LISTADO DE TIPOS DE 
+MUESTRAS
+5.12.5 LISTADO DE TIPOS DE 
+MUESTRAS
+Infectados
+5.12.1 Menores a 1 año
+5.12. Grupos de edad
+5.12.2 1 a 5 años
+5.12.3 6-11 años
+5.12.4 12-17 años
+5.12.5 18-28 años
+5.12.6 29-59 años
+5.12.7. >=60 años
+5.13. Número total de hombres
+5.14 Número de mujeres
+7. DILIGENCIAMIENTO
+6. DATOS DE LABORATORIO
+6.1 Fecha envío
+7.1. Nombre del profesional que diligenció la ficha
+7.2. Teléfono
+FOR-R02.4030-064 V:00 2026-08-06
+
+===== PAGINA 2 =====
+INSTRUCTIVO DILIGENCIAMIENTO FICHAS DE NOTIFICACIÓN DATOS COLECTIVOS 
+BROTES DE INFECCIONES ASOCIADAS A LA ATENCIÓN EN SALUD 
+CÓDIGO INS: Código INS 957 
+ 
+ 
+ 
+ 
+VARIABLE 
+ 
+CATEGORÍAS Y DEFINICIÓN 
+ 
+CRITERIOS SISTEMATIZACIÓN 
+OB 
+LIG. 
+1. Información General 
+1.1. Código UPGD 
+Ingrese el código de la UPGD que va a notificar que le fue asignado en el Sivigila 
+Diligencie la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información. SI 
+1.2. Razón social de la UPGD 
+Ingrese el nombre de la UPGD que va a notificar 
+Diligencie la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información. SI 
+1.3. Fecha notificación 
+Ingrese la fecha en que se realiza la notificación, en formato día-mes-año (dd-mm-
+aaaa) 
+Diligencie la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información. SI 
+1.4. Semana  
+Semana epidemiológica según calendario vigente (1–53). El sistema la calcula 
+automáticamente a partir de la fecha de notificación. 
+Cálculo automático. 
+SI 
+1.5 Año  
+Año extraído de la fecha de notificación. 
+Cálculo automático. 
+SI 
+1.6 País 
+Esta variable se calcula automáticamente en la ficha de notificación, ejemplo:  
+170 Colombia (COL) 
+Variable diligenciada automáticamente.  
+SI 
+1.7 Departamento  
+Ingrese código o pulse TAB para consultar. Tomar los primeros 2 dígitos del código de la 
+UPGD que corresponden al código DANE del departamento. 
+Diligencie la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información. 
+SI 
+1.8 Municipio ocurrencia  
+Tomar los primeros 5 dígitos del código de la UPGD que corresponden al código Divipola 
+según fuente DANE.    
+Diligencie la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información. 
+SI 
+1.9 Ajuste 
+Para el registro inicial (Sitrep inicial), la fecha de ajuste se encuentra inhabilitada. Se 
+encuentran disponibles ajustes: 7- Otro ajuste y ajuste 6- Descarte por error de digitación. 
+Se diligencia al ingresar la información del Sitrep de seguimiento.  
+Diligencie la variable, cuando aplique.  
+NO 
+1.10 Fecha de ajuste 
+Fecha guardada en el sistema de la última actualización, al guardar se toma del sistema 
+Diligencie la variable, cuando aplique.  
+NO 
+2. Descripción del brote 
+ 
+2.1. Tipo de 
+microorganismo  
+Seleccione el tipo de microorganismo, ejemplo: 1= Bacteriano, 2= Fúngico, 3= Viral, 
+4= Parásito. 
+Diligencie la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información. SI 
+2.2. Microorganismo 
+Seleccione el microorganismo asociado al brote de acuerdo con la tabla de 
+referencia. Si el agente causal no se encuentra en el listado, seleccione la opción 
+"Otro" y registre manualmente el nombre del microorganismo, indicando el género y 
+la especie. 
+Diligencie la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información. SI 
+2.3. Perfil de resistencia 
+Seleccione el grupo de la resistencia antimicrobiana identificada según tabla de 
+referencia. 
+Diligencie la variable, cuando aplique. 
+NO 
+2.4. Gen KPC 
+Seleccione si se identificó un gen de resistencia asociado al microorganismo. Registre 
+"1" para Sí y "2" para No. 
+Diligencie la variable, cuando aplique.  
+NO 
+2.5. Gen NDM 
+Seleccione si se identificó un gen de resistencia asociado al microorganismo. Registre 
+"1" para Sí y "2" para No. 
+Diligencie la variable, cuando aplique.  
+NO 
+2.6. Gen VIM 
+Seleccione si se identificó un gen de resistencia asociado al microorganismo. Registre 
+"1" para Sí y "2" para No. 
+Diligencie la variable, cuando aplique.  
+NO 
+2.7. Gen IMP 
+Seleccione si se identificó un gen de resistencia asociado al microorganismo. Registre 
+"1" para Sí y "2" para No. 
+Diligencie la variable, cuando aplique.  
+NO 
+2.8. Gen OXA48 
+ 
+Seleccione si se identificó un gen de resistencia asociado al microorganismo. Registre 
+"1" para Sí y "2" para No. 
+Diligencie la variable, cuando aplique.  
+NO 
+2.9. Gen no determinado 
+Seleccione si se identificó un gen de resistencia asociado al microorganismo. Registre 
+"1" para Sí y "2" para No. 
+Diligencie la variable, cuando aplique.  
+NO 
+2.10. Gen en estudio 
+ 
+Seleccione si se identificó un gen de resistencia asociado al microorganismo. Registre 
+"1" para Sí y "2" para No. 
+Diligencie la variable, cuando aplique.  
+NO 
+2.11. Otro gen 
+Si el gen de resistencia identificado no se encuentra en el listado, seleccione la opción 
+"Otro" y registre manualmente el nombre del gen en el campo correspondiente. 
+Diligencie la variable, cuando aplique.  
+NO
+
+===== PAGINA 3 =====
+INSTRUCTIVO DILIGENCIAMIENTO FICHAS DE NOTIFICACIÓN DATOS COLECTIVOS 
+BROTES DE INFECCIONES ASOCIADAS A LA ATENCIÓN EN SALUD 
+CÓDIGO INS: Código INS 957 
+ 
+ 
+3. Fechas de ocurrencia del brote 
+3.1. Fecha inicio 
+Fecha inicio del brote (dd/mm/aaaa). Corresponde al inicio de síntomas del primer 
+caso identificado. La fecha de inicio de síntomas del caso índice (o caso primario en caso 
+de ser detectado) determina la fecha de inicio del brote.  
+ 
+Diligencie la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información. SI 
+3.2. Fecha identificación 
+Fecha identificación del brote (dd/mm/aaaa). Se sugiere registrar esta variable 
+evaluando dos aspectos: 
+Información relacionada a pacientes o personal de salud: la fecha exacta en la que se 
+sospechó del brote. Ejemplos: fecha de inicio de síntomas, fecha de toma de muestra, 
+fecha de resultado de cultivo.  
+Información relacionada a comportamiento inusual: aumento en el número de casos 
+en un servicio (p ej. UCI, Hospitalización, entre otros) relacionados a IAD, IAPMQ, 
+enfermedades transmisibles, enfermedades transmitidas por alimentos, aumento en el 
+uso o consumo de antibióticos.  
+Diligencie la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información. SI 
+3.3. Fecha último caso 
+Fecha del último caso (dd/mm/aaaa). Diligencie la variable, de acuerdo con, la fecha 
+de inicio de síntomas del último caso identificado. 
+Diligencie la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información. SI 
+ 
+ 
+3.4. Días transcurridos  
+ 
+Número de días entre la fecha del último caso y la fecha actual (para fichas abiertas). 
+Para fichas cerradas, corresponde a los días entre el último caso y la fecha de cierre. 
+Cálculo automático 
+ 
+ 
+ 
+NO 
+ 
+ 
+3.5. Estado del brote 
+Se debe seleccionar estado actual del brote, ejemplo: abierto, cerrado. Debe ser 
+superior a la fecha del último caso 
+Diligencie la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información. 
+SI 
+ 
+3.6. Fecha cierre 
+Fecha de cierre del brote (dd/mm/aaaa). Diligencie la variable cuando sea seleccionado 
+estado del brote: cerrado. La fecha debe ser superior a la fecha de último caso.  
+ 
+Diligencie la variable, cuando aplique.  
+NO 
+ 
+3.7. Brote configurado por 
+Aumento de IAAS, asociadas o no a la identificación de microorganismos, en casos que 
+cumplen criterios epidemiológicos de tiempo, lugar y persona.  
+Nuevo aislamiento. Seleccione este criterio si el brote se configura por: Primer 
+aislamiento del microorganismo en la UPGD.  
+Cambio de perfil de resistencia de un microorganismo a los antimicrobianos. Seleccione 
+este criterio si el brote se configura en un determinado microorganismo, detectado en 
+la institución de salud. 
+Seleccione la opción que corresponda, de acuerdo con 
+la configuración del brote y el criterio de notificación. 
+SI 
+ 
+3.8. Presentado en  
+Brote presentado en: 
+Seleccione la variable que aplique, ejemplo: 1=Pacientes, 2=Trabajadores, 3=Ambos.  
+Se debe digitar el número de casos desagregado por grupo seleccionado.  
+Si selecciona la variable 1=Pacientes solo se habilitará 
+el campo siguiente # pacientes 
+Si selecciona la variable 2=Trabajadores solo se 
+habilitará el campo siguiente # trabajadores 
+Si selecciona la variable 3=Ambos se habilitarán los dos 
+campos siguientes # pacientes y # trabajadores  
+Seleccione y diligencie las variables, de lo contrario el 
+sistema no permitirá continuar con el ingreso de la 
+información. 
+SI 
+4. Tipo de infección 
+4.1. Brote asociado a 
+Seleccione la variable que aplique, ejemplo: IAD, IAMPQ, Medicamentos o Insumos, 
+Enfermedad Gastrointestinal, Enfermedad por IRA, otro cuando aplique (permite digitar 
+manual).  
+Puede seleccionar varias variables a la vez. 
+Seleccione la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información. 
+SI 
+4.2. Hipótesis contag. 
+Seleccione la variable que aplique, ejemplo: 1=Fallas en higiene de manos, 2=Fallas en 
+procesos de limpieza y desinfección de áreas o superficies, 3=Asociación a 
+medicamentos, soluciones o desinfectantes posiblemente contaminados, 4=Fallas en 
+procesos de aislamiento y cohortización de paciente, 5=Posible contaminación de agua, 
+6=Enfermedad Transmitida por Alimentos, 7=Uso inadecuado de EPP, 8=Otra cuando 
+aplique (permite digitar manual).  En otra amplíe la hipótesis seleccionada.  
+Si la hipótesis de contagio no se encuentra dentro de la 
+lista desplegable o se sospeche de más de una 
+hipótesis diligencie el campo 8=Otra para habilitar el 
+campo siguiente Otra 
+Seleccione la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información. 
+SI 
+4.3. Otra 
+Este campo se habilitará si se selecciona la variable 8=Otra dentro de la lista 
+desplegable de la variable anterior Hipótesis contag. Amplíe la hipótesis seleccionada. 
+Si la hipótesis de contagio no se encuentra dentro de la 
+lista desplegable o se sospeche de más de una 
+hipótesis diligencie el campo 8=Otra para habilitar el 
+campo siguiente Otra 
+Seleccione la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información. 
+SI 
+5. Caracterización del brote
+
+===== PAGINA 4 =====
+INSTRUCTIVO DILIGENCIAMIENTO FICHAS DE NOTIFICACIÓN DATOS COLECTIVOS 
+BROTES DE INFECCIONES ASOCIADAS A LA ATENCIÓN EN SALUD 
+CÓDIGO INS: Código INS 957 
+ 
+ 
+5.1. Total infectados 
+Número total de infectados. Número total de casos, (uno o más) con signos y síntomas 
+que cumplen los criterios clínicos y epidemiológicos, pueden ser confirmados por clínica 
+o por laboratorio, con inicio durante su estancia hospitalaria.  
+Cálculo automático, a partir de los datos numéricos 
+registrados en # pacientes y # trabajadores.  
+SI 
+5.2. Total expuestos 
+ 
+Número total de expuestos. Número total de pacientes, personal de salud, familiares, que 
+han compartido el mismo espacio físico con un caso durante el período del brote (es 
+importante considerar los períodos de incubación y de transmisibilidad de cada agente 
+etiológico). Se cuentan desde el inicio del brote hasta la fecha de inicio de síntomas del 
+último caso relacionado al brote. 
+Diligencie la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información. 
+SI 
+5.3. # Muertes asoc.  
+Número de muertes asociadas. Muerte asociada: todo caso de muerte ocurrida durante el 
+periodo de brote en una institución prestadora de servicios de salud (IPS), en un paciente 
+con infección adquirida durante la atención y vinculada epidemiológicamente al brote en 
+investigación, que haya contribuido de manera directa o indirecta al desenlace fatal. Estas 
+muertes deberán clasificarse como atribuibles o no atribuibles al brote.  
+Diligencie la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información. 
+SI 
+5.4. # Muert. Atribuibles  
+Número de muertes atribuibles. Muerte atribuible: todo caso de muerte que se presente 
+durante el periodo del brote en una IPS, en un paciente con infección asociada a la 
+atención en salud (IAAS) causante del brote, establecida como causa de muerte, con 
+cualquiera de las siguientes condiciones:  
+- Sin tratamiento instaurado para el microorganismo aislado/diagnóstico clínico al 
+momento de la muerte.  
+- Con tratamiento instaurado sin modulación del proceso infeccioso en el momento de la 
+muerte.  
+Diligencie la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información. 
+SI 
+5.5. # casos coloniz. 
+Casos colonizados. Colonizado: caso sin signos y síntomas pero que cumple los 
+criterios epidemiológicos, confirmado por laboratorio, con inicio durante la 
+hospitalización. Es importante considerar que un paciente colonizado por un 
+microorganismo puede actuar como fuente de transmisión, posiblemente habiéndose 
+colonizado dentro de la institución de salud y en cualquier momento podría evolucionar a 
+una infección activa.  
+Diligencie la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información. 
+SI 
+5.6. Mortalidad 
+ 
+Este indicador se calcula automáticamente con los datos consignados en la variable # 
+Muertes asoc. (numerador) y la variable Total infectados (denominador). Multiplicado 
+por 100.  
+Esta variable no se diligencia. Se calcula 
+automáticamente. 
+NO 
+5.7. Letalidad 
+Este indicador se calcula automáticamente con los datos consignados en la variable # 
+Muert. Atribuibles (numerador) y la variable Total infectados (denominador). 
+Multiplicado por 100.  
+Esta variable no se diligencia. Se calcula 
+automáticamente. 
+NO 
+5.8. Tasa de ataque  
+ 
+Este indicador se calcula automáticamente con los datos consignados en la variable Total 
+infectados (numerador) y la variable Total expuestos (denominador). Multiplicado por 
+100.  
+Esta variable no se diligencia. Se calcula 
+automáticamente. 
+NO 
+5.9. Servicios donde ocurrió el 
+brote 
+Servicios de atención donde se presenta el brote. Seleccione la variable que aplique, 
+ejemplo: UCI Intensiva Adultos, UCI Intensiva Pediátrica, UCI Intensiva Neonatal, UCI 
+Intermedia Adultos, UCI Intermedia Pediátrica, UCI Intermedia Neonatal, UCI básica 
+neonatal, Hospitalización Adultos, Sala de Maternidad, Hospitalización Pediátrica, Otros 
+servicios cuando aplique.  
+Se debe digitar manualmente el número de infectados y expuestos desagregado por 
+servicio para obtener de manera automática la tasa de ataque individualizada por tipo de 
+servicio relacionado a la situación del brote. 
+La sumatoria de los Infectados debe coincidir con el 
+número registrado en la variable Total infectados 
+La sumatoria de los Expuestos debe coincidir con el 
+número registrado en la variable Total expuestos 
+Si los valores no coinciden el sistema no permitirá 
+realizar el registro exitoso. 
+La variable Tasa no se diligencia se calcula 
+automáticamente. 
+SI 
+5.10. Otros servicios 
+Al seleccionar Otro servicio, le permitirá seleccionar de la lista desplegable un servicio 
+que no se encuentra en el listado anterior.  
+La sumatoria de los Infectados debe coincidir con el 
+número registrado en la variable Total infectados 
+La sumatoria de los Expuestos debe coincidir con el 
+número registrado en la variable Total expuestos 
+Si los valores no coinciden el sistema no permitirá 
+realizar el registro exitoso. 
+La variable Tasa no se diligencia se calcula 
+automáticamente. 
+SI
+
+===== PAGINA 5 =====
+INSTRUCTIVO DILIGENCIAMIENTO FICHAS DE NOTIFICACIÓN DATOS COLECTIVOS 
+BROTES DE INFECCIONES ASOCIADAS A LA ATENCIÓN EN SALUD 
+CÓDIGO INS: Código INS 957 
+ 
+ 
+5.11. # infecciones  
+Inicialmente se debe registrar el número total de infecciones que se identificaron en el 
+servicio o en los servicios involucrados. Se permite un máximo número de 5 registros.  
+Al diligenciar esta variable se activarán el número de 
+campos que seleccione en la variable siguiente Tipos 
+de infección. Se debe tener identificado el número 
+total de infecciones asociadas al brote. 
+Diligencie la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información. 
+SI 
+5.12. Tipos de infección 
+Se activarán los campos que se digiten en la variable anterior # infecciones. El tipo de 
+infección ejemplo ITS- AC: si es único tipo de infección se deberá seleccionar 1 en # 
+infecciones y describir la cantidad de infectados en la variable posterior.  
+Este campo solo se activará si diligencia la variable 
+anterior # infecciones: permite máximo 5 campos. 
+Cuando se trate de 2 o más tipos de infecciones, 
+ejemplo: ITS- AC, ISTU- AC, IAMPQ, debe 
+corresponder al número inicial diligenciado en el campo 
+anterior # infecciones de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información 
+SI 
+5.13. Cantidad 
+Registrar el número de pacientes que tienen el tipo de infección seleccionado en el 
+campo anterior Tipos de infección 
+Diligencie la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información. 
+SI 
+5.14. # muestras  
+Digite el número de muestras cuando aplique.  
+Al diligenciar esta variable se activarán el número de 
+campos que seleccione en la variable siguiente: 
+Tipos de muestra; permite máximo 5 campos. 
+Diligencie la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información, 
+para los brotes confirmados por clínica debe 
+diligenciarse el número 0. 
+SI 
+5.15. Tipos de muestra  
+Se activarán los campos que se seleccionen en la variable anterior # muestras. 
+(Permite máximo 5 campos). Se deberá registrar el tipo de muestra y el número total 
+de pacientes, personal de salud o familiares.  
+Diligencie la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información 
+SI 
+5.16. Cantidad 
+Registrar el número de muestras por tipo de infección seleccionado en el campo anterior 
+Tipos de muestra 
+Diligencie la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información 
+SI 
+5.17. Grupos de Edad (Grupo etario) 
+Menores a 1 año 
+Digite el número de infecciones y expuestos por grupo de edad 
+ 
+Diligencie la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información. 
+Si no existen casos para este grupo de edad, registre el 
+valor cero (0). 
+La sumatoria de los Infectados debe coincidir con el 
+número registrado en la variable Total infectados 
+SI 
+1 a 5 años 
+Digite el número de infecciones y expuestos por grupo de edad 
+Diligencie la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información. 
+Si no existen casos para este grupo de edad, registre el 
+valor cero (0). 
+SI 
+6-11 años 
+Digite el número de infecciones y expuestos por grupo de edad 
+Diligencie la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información. 
+Si no existen casos para este grupo de edad, registre el 
+valor cero (0). 
+La sumatoria de los Infectados debe coincidir con el 
+número registrado en la variable Total infectados 
+SI 
+12-17 años 
+Digite el número de infecciones y expuestos por grupo de edad 
+Diligencie la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información. 
+Si no existen casos para este grupo de edad, registre el 
+valor cero (0). 
+La sumatoria de los Infectados debe coincidir con el 
+número registrado en la variable Total infectados 
+SI 
+18-28 años 
+Digite el número de infecciones y expuestos por grupo de edad 
+Diligencie la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información. 
+Si no existen casos para este grupo de edad, registre el 
+valor cero (0). 
+La sumatoria de los Infectados debe coincidir con el 
+número registrado en la variable Total infectados 
+SI 
+29-59 años 
+Digite el número de infecciones y expuestos por grupo de edad 
+Diligencie la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información. 
+Si no existen casos para este grupo de edad, registre el 
+valor cero (0). 
+La sumatoria de los Infectados debe coincidir con el 
+número registrado en la variable Total infectados 
+SI 
+>=60 años 
+Digite el número de infecciones y expuestos por grupo de edad 
+Diligencie la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información. 
+Si no existen casos para este grupo de edad, registre el 
+valor cero (0). 
+La sumatoria de los Infectados debe coincidir con el 
+SI
+
+===== PAGINA 6 =====
+INSTRUCTIVO DILIGENCIAMIENTO FICHAS DE NOTIFICACIÓN DATOS COLECTIVOS 
+BROTES DE INFECCIONES ASOCIADAS A LA ATENCIÓN EN SALUD 
+CÓDIGO INS: Código INS 957 
+ 
+ 
+número registrado en la variable Total infectados 
+5.18. Sexo 
+Total hombres  
+Digite el número total de hombres infectados 
+La sumatoria de la variable Total hombres con la 
+variable Total mujeres debe coincidir con el número 
+registrado en la variable Total infectados 
+Diligencie la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información. 
+SI 
+Total mujeres 
+Digite el número total de mujeres infectados 
+La sumatoria de la variable Total hombres con la 
+variable Total mujeres debe coincidir con el número 
+registrado en la variable Total infectados 
+Diligencie la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información. 
+SI 
+6. Datos de laboratorio 
+6.1. Fecha envío  
+Diligencie la fecha de envío de los aislamientos al laboratorio de salud pública 
+departamental.  
+Diligencie la variable, cuando aplique. 
+NO 
+7. Diligenciamiento 
+7.1. Nombre del profesional que 
+diligenció la ficha 
+Registre el nombre del responsable del diligenciamiento de la ficha de notificación.  
+Diligencie la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información. 
+SI 
+7.2. Teléfono 
+Registre el teléfono del responsable del diligenciamiento de la ficha de notificación.  
+Diligencie la variable, de lo contrario el sistema no 
+permitirá continuar con el ingreso de la información. 
+SI
+

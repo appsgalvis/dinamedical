@@ -1,0 +1,32 @@
+FICHA 217 – CHIKUNGUNYA (Código INS 217)
+Ficha de notificación individual – Datos complementarios: FOR-R02.4030-015 V:00 2026-08-06
+Índice: slug=217_Chikungunya_2026 total=6 preguntas=[1,2] fin_preguntas=p2 instructivo_desde=p3
+P1 = datos básicos universales (secciones 1-4, NO catalogables; ya existen en ficha_datos_basicos).
+OBLIG: bloque del instructivo (p6) contiene solo A/B/C (Relación con datos básicos, SI SI SI);
+para las variables de catálogo se aplican los criterios textuales de cada entrada.
+
+===== PAGINA 2 (página de preguntas) =====
+RELACIÓN CON DATOS BÁSICOS: nombres/tipo ID/número -> referencia, NO se cataloga.
+
+5. DATOS COMPLEMENTARIOS
+5.1 Síntomas — marque con una X las que se presenten — MULTIPLE (cuadrado/X) => multiselect.
+    OBLIG=1 (criterio textual del instructivo: "Diligencie la variable, de lo contrario el
+    sistema no permitirá continuar con el ingreso de la información").
+    Opciones impresas (p2, verbatim): Fiebre, Artralgia, Cefalea, Rash o brote, Vómito y diarrea.
+    Nota: p2 imprime "Sintomas" y los términos sin tildes/espacios; se conservan verbatim.
+
+6. EN CASO DE MORTALIDAD POR CHIKUNGUNYA
+6.1 Muestras (marque con una X las muestras tomadas) — MULTIPLE => multiselect.
+    OBLIG=0 (entrada del instructivo NO contiene la frase "de lo contrario el sistema no
+    permitirá continuar").
+    Opciones impresas (p2, verbatim): Piel, Higado, Bazo, Pulmón, Médula, Riñón, Cerebro, Miocardio.
+    Regla del instructivo: debe ser consistente con Condición final = 2 Muerto (dependencia de
+    datos básicos) => NO codificable como show_if (cross-catalog); se documenta.
+    Nota del instructivo: describe "variable dicotómica 1 Sí / 2 No por muestra", pero la ficha
+    impresa usa checkboxes X; se codifica como multiselect (la ficha impresa es la fuente para el
+    catálogo; el grupo es una selección de muestras tomadas).
+
+NOTAS / DECISIONES:
+- Solo dos variables catalogables (5.1, 6.1); el resto de la ficha son datos básicos.
+- show_if: ninguna regla codificable en catálogo (6.1 depende de condición final de datos básicos).
+- Slug propuesto: 217_sintomas (multiselect), 217_muestras (multiselect).

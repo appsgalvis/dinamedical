@@ -1,0 +1,67 @@
+FICHA 115 — Cáncer en menores de 18 años (Cód INS 115, FOR-R02.4030-009 V:00 2026-08-06)
+Páginas de preguntas (visión): p1-p2. Instructivo (OCR/texto): p3-p6 -> dumps/extracto/115_CA_Menores_18_2026.txt
+
+===== PAGINA 1 (formulario, secciones 1-4: datos básicos compartidos) =====
+Secciones 1 (Información general), 2 (Identificación del paciente), 3 (Notificación),
+4 (Entes territoriales). Ya viven en ficha_datos_basicos; no se catalogan aquí.
+
+===== PAGINA 2 (formulario, secciones 5-6 — página de preguntas) =====
+Encabezado: "Ficha de notificación individual – Datos complementarios", Cod INS 115.
+Nota: p2 es la única página propia de la ficha; el resto (p1) es la Cara A de datos básicos.
+
+5. TIPO DE CÁNCER
+   "marque con una X el grupo que corresponda según la presunción diagnóstica"
+   5.1 Tipo de cáncer — (círculo) SELECCIÓN ÚNICA, 14 opciones en orden impreso:
+       1 Leucemia linfoide aguda
+       2 Leucemia mieloide aguda
+       3 Otras leucemias
+       4 Linfomas y neoplasias reticuloendoteliales
+       5 Tumores del sistema nervioso central
+       6 Neuroblastoma y otros tumores de células nerviosas periféricas
+       7 Retinoblastoma
+       8 Tumores renales
+       9 Tumores hepáticos
+       10 Tumores óseos malignos
+       11 Sarcomas de tejidos blandos y extra óseos
+       12 Tumores germinales trofoblásticos y otros gonadales
+       13 Tumores epiteliales malignos y melanoma
+       14 Otras neoplasias malignas no especificadas
+   5.2 Fecha de inicio de tratamiento (dd/mm/aaaa) — texto fecha
+   5.3 ¿Consulta actual por segunda neoplasia?  (círculo, única): 1. Sí / 2. No
+   5.4 ¿Consulta actual por recaída?            (círculo, única): 1. Sí / 2. No
+   5.5 Fecha de diagnóstico inicial (dd/mm/aaaa) — texto fecha
+       (el instructivo la numera como 5.4 de nuevo; el IMPRESO dice 5.5)
+
+6. DATOS DE LABORATORIO – MÉTODOS DIAGNÓSTICOS
+   6.1 Criterio de diagnóstico probable — (círculo, única), 5 opciones:
+       1 Extendido de sangre periférica
+       2 Radiología diagnóstica
+       3 Gammagrafía
+       4 Marcadores tumorales
+       5 Clínica sin otra ayuda diagnóstica
+       6.1.1 Fecha de toma (dd/mm/aaaa) — fecha
+       6.1.2 Fecha de resultado (dd/mm/aaaa) — fecha
+   6.2 Criterio de confirmación del diagnóstico — (círculo, única), 7 opciones.
+       IMPORTANTE: la numeración impresa SALTA del 5 al 7 (no hay opción "6");
+       errata del instructivo. Transcribir valores tal como imprime (1-5,7,8):
+       1 Mielograma
+       2 Histopatología o citología de fluido corporal
+       3 Inmunotipificación
+       4 Criterio médico especializado
+       5 Certificado de defunción
+       7 Citogenética
+       8 Radiología diagnóstica
+       6.2.1 Fecha de toma (dd/mm/aaaa) — fecha
+       6.2.2 Fecha de resultado (dd/mm/aaaa) — fecha
+
+===== OBLIG (confirmado con visión en p6, columna OBLIG del instructivo) =====
+5.1 SI, 5.2 SI, 5.3 SI, 5.4 SI, 5.5 NO
+6.1 SI, 6.1.1 NO, 6.1.2 NO, 6.2 SI, 6.2.1 NO, 6.2.2 NO
+
+===== Reglas condicionales (instructivo p6, texto) =====
+- 5.5 (fecha de diagnóstico inicial): "Depende de la respuesta en la variable 5.3, opción 1 = Si"
+  -> show_if='1', padre_ref=5.3 segunda neoplasia.
+- 5.2: "Deberá ser igual o posterior a la fecha de diagnóstico inicial" (validación de rango, no show_if).
+- 6.1 "deberá ser consistente con el tipo de caso inicial 'probable'" y 6.2 con
+  "confirmado" -> dependen del clasificador (variable 3.6/4.1), NO codificable como show_if.
+- 6.1.2/6.2.2: fecha resultado >= fecha toma (validación de rango).

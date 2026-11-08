@@ -1,0 +1,127 @@
+===== PAGINA 1 =====
+1.3 Fecha de Notificación (dd/mm/aaaa)
+2. CONSULTA SEMANA A ARCHIVOS RIPS
+Servicio / Código CIE - 10
+GRUPOS DE EDAD
+HOSPITALIZACION
+Total hospitalizaciones por IRAG
+(J00-J22)
+Todas las causas de hospitalización
+UNIDAD DE
+CUIDADOS
+INTENSIVOS
+Todas las causas de hospitalización 
+en UCI
+MORBILIDAD
+POR IRA
+Total consultas externas y urgencias
+3. DATOS DEL NOTIFICADOR
+Nombre de la persona responsable
+Cargo
+Teléfono
+Correo electrónico
+Correo: sivigila@ins.gov.co
+1.2 Razón social de la UPGD que notifica
+1.1 Código de la UPGD
+Municipio
+Código
+Departamento
+Sub índice
+1.6 Departamento/ Municipio  que notifica
+Departamento
+Municipio
+1.4 Semana epidemiológica
+1.5 Año
+Total UCI por IRAG (J00-J22)
+Total IRA consulta externa y urgencias
+(J00-J22)
+1. INFORMACIÓN GENERAL
+< 1
+1
+2 a 4
+5 a 19
+20 a 39
+40 a 59
+>=60
+FOR-R02.4030-062 V:00 2026-08-06
+
+===== PAGINA 2 =====
+OBLIG.
+SI
+SI
+SI
+SI
+SI
+SI
+IINSTRUCTIVO DILIGENCIAMIENTO FICHAS DE NOTIFICACIÓN DATOS COMPLEMENTARIOS VIGILANCIA CENTINELA ESI-IRAG MORBILIDAD POR IRA
+ (Cód INS: 995)
+Para el diligenciemiento de esta ficha tenga en cuenta que es posible notificar varios brotes para la misma semana de la misma UPGD, de diferentes barrios, sectores o localidades.
+VARIABLE
+CATEGORÍAS Y DEFINICIÓN
+CRITERIOS SISTEMATIZACIÓN
+1. INFORMACIÓN GENERAL 
+1.1 Código de la UPGD
+Recuerde ingresar los códigos correspondientes con el departamento, municipio, código de la IPS
+asignado y el sub índice. 
+Diligencie la información, de lo contrario el sistema no le
+permitirá continuar con el ingreso de los datos. 
+1.2 Razón social de la UPGD que notifica
+Diligenciar el nombre o razón social de la Unidad Primaria Genenradora del Dato que está haciendo
+la notificación del brote. 
+Diligencie la información, de lo contrario el sistema no le
+permitirá continuar con el ingreso de los datos. 
+1.3 Fecha de notificación
+Formato día-mes-año
+Formato año-mes-día. Teniendo en cuenta que el evento es de
+notificación coectiva, la fecha de notificación que debe diligenciar 
+1.4-1.5 Semana epidemiológica y año al
+que corresponde a notificación
+Escriba la semana coorrespondiente a la noificacion que está realizando, así como el año de
+notificación
+La
+información
+se
+relaciona
+con
+la
+fecha
+en
+la
+que
+se
+identificaron los casos
+1.6 Departamento o Distrito/Municipio 
+que notifica
+Diligenciar el nombre del departamento que está haciendo la notificación del brote. 
+Diligencie la información, de lo contrario el sistema no le
+permitirá continuar con el ingreso de los datos. 
+2. CONSULTA SEMANA A ARCHIVOS RIPS
+Hospitalización
+Total de hospitalizaciones por IRAG, según código CIE 10  (J00-J22, U071-U072)
+Cada uno de los datos solicitados, debe estar consignados según 
+grupo de edad así: 
+Para menores de 1 año. 
+Para niños de un año. 
+Para nios entre 2 a 4 años. 
+Para niños entre 5 a 9 años. 
+Para personas entre 20 a 39 años. 
+Para personas entre 40 a 59 años. 
+Para personas con edad igual o mayor de 60 años.
+SI
+Todas las hospitalizaciones por todas las causas
+Unidad de cuidados intensivos
+Total de las hospitalizaciones en UCI por IRAG, según código CIE 10 (J00-J22, U071-U072)
+SI
+Todas las hospitalizaciones en UCI por todas las cuasas
+Morbilidad por IRA
+Total IRA por consulta externa y urgencias según código CIE 10 (J00-J22, U071-U072)
+SI
+Total consulta externa y urgencias po todas las cuasas (incluye IRA)
+3. DATOS DEL NOTIFICADOR
+Nombre de la persona responsable Cargo 
+Teléfono 
+Correo electrónico
+Diligencie claramente, los datos relacionados con la persona que realiza la notificación del evento.
+Diligencie la información solicita, de lo contrario el sistema no
+permitirá continuar con el ingreso de la información.
+

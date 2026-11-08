@@ -1,0 +1,66 @@
+FICHA 230 – DIFTERIA (Cod: INS 230)
+Ficha de notificación individual – Datos complementarios: FOR-R02.4030-016 V:00 2026-08-06
+Índice: slug=230_Difteria_2026 total=6 preguntas=[1,2] fin_preguntas=p2 instructivo_desde=p3
+P1 = datos básicos universales (secciones 1-4, NO catalogables; ya existen en ficha_datos_basicos).
+OBLIG: el bloque OBLIG de la p3 del instructivo corresponde SOLO a las entradas de datos básicos
+(1.1-2.8); p3 no cubre entradas de catálogo de la ficha -> se usan los criterios textuales de cada
+entrada del catálogo (p6, fuente fiable).
+
+===== PAGINA 2 (página de preguntas) =====
+Definición clínica (no catalogable): "paciente que presenta una enfermedad aguda de las amígdalas,
+faringe, nariz, y se caracteriza por una o varias placas grisáceas adherentes confluentes e invasoras,
+con una zona inflamatoria circundante de color rojo mate, dolor de garganta, aumento de volumen del
+cuello, fiebre, cefalea y grado variable de compromiso del estado general. La enfermedad puede
+afectar otras localizaciones como mucosas y piel."
+
+5. ANTECEDENTES
+5.1 ¿Contacto de un caso confirmado? — círculo: 1. Sí, 2. No, 3. Desconocido. OBLIG (criterio textual:
+    "de lo contrario el sistema no permitirá continuar con el ingreso de la información").
+5.2 ¿Tiene carné de vacunación? — círculo: 1. Sí, 2. No. OBLIG.
+5.3 Dosis aplicadas de vacuna antidiftérica — círculo: 0. Ninguna, 1. Una, 2. Dos, 3. Tres o más,
+    4. Primer Refuerzo, 5. Segundo Refuerzo. OBLIG.
+5.4 Tipo de vacuna — círculo: 1. DPT, 2. Pentavalente, 3. Otra, 4. TD. OBLIG.
+5.4.1 ¿Cuál otra? — texto. NO OBLIG; solo si 5.4 = Otra (3) => show_if='1' padre=230_tipo_vacuna.
+     Nota: el criterio textual de 5.4.1 no dice "obligatorio"; la dependencia es la del catálogo.
+5.5 Fecha de última dosis — date. NO OBLIG, siempre visible.
+
+6. DATOS CLÍNICOS
+6.1 Fiebre — círculo. OBLIG (criterio grupal de la página: cada variable se diligencia si
+    corresponde; la página dice Diligencie la variable, de lo contrario el sistema no
+    permitirá continuar -> aplicado a las entradas del grupo 6.1-6.7). Valores: 1. Sí, 2. No,
+    3. Desconocido.
+6.2 Amigdalitis — círculo: 1. Sí, 2. No, 3. Desconocido. OBLIG.
+6.3 Faringitis — círculo: 1. Sí, 2. No, 3. Desconocido. OBLIG.
+6.4 Laringitis — círculo: 1. Sí, 2. No, 3. Desconocido. OBLIG.
+6.5 Presencia de membranas — círculo: 1. Sí, 2. No, 3. Desconocido. OBLIG.
+6.6 Complicaciones — círculo: 1. Sí, 2. No, 3. Desconocido. OBLIG.
+6.7 Tipo de complicación — círculo: 1. Neurológica, 2. Renal, 3. Cardíaca, 4. Traquetomía,
+    5. Otro. OBLIG; solo si 6.6 = Sí (1) => show_if='1' padre=230_complicaciones.
+    Nota OBLIG de 6.6: el criterio del grupo se lee como obligatorio por entrada.
+
+7. DATOS DE LABORATORIO (entrada del instructivo: la información se ingresa a través del módulo
+    de laboratorios de SIVIGILA; se catalogan las variables tal como las muestra la ficha)
+7.1 Fecha toma de examen — date. OBLIG (criterio textual: las variables son abiertas, se deben
+    diligenciar).
+7.2 Fecha de recepción — date. OBLIG.
+7.3 Muestra — texto abierto. OBLIG.
+7.4 Prueba — texto abierto. OBLIG.
+7.5 Agente — texto abierto. OBLIG.
+7.6 Resultado — texto abierto. OBLIG.
+7.7 Fecha de resultado — date. OBLIG.
+7.8 Valor — texto abierto. NO OBLIG (sin criterio de obligatoriedad en la entrada).
+
+NOTAS / DECISIONES:
+- Errata impresa en p2: "3. Tres ò mas dosis"; el label del catálogo se registra con acento
+  correcto ("Tres o más").
+- El valor 4. Traquetomía de 6.7 es errata impresa probable (traqueostomía); se mantiene verbatim.
+- La posición ambigua de "3. Desconocido" en la extracción de p2 (cerca de 5.3/5.4) se resuelve
+  con la lectura de visión p02: Desconocido SOLO pertenece a las filas de 5.1 y 6.1-6.6; las filas
+  de 5.3 (0-5) y 5.4 (1-4) no llevan Desconocido.
+- 6.7 show_if solo codificable con un valor concreto (=1 Sí); los valores 2/3 de 6.6 no activan
+  la pregunta (coherente con el catálogo).
+- Slugs para la migración:
+  230_contacto_confirmado, 230_carne, 230_dosis, 230_tipo_vacuna, 230_fecha_ultima_dosis,
+  230_fiebre, 230_amigdalitis, 230_faringitis, 230_laringitis, 230_membranas,
+  230_complicaciones, 230_tipo_complicacion, 230_fecha_toma, 230_fecha_recepcion,
+  230_muestra, 230_prueba, 230_agente, 230_resultado, 230_fecha_resultado, 230_valor.

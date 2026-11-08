@@ -1,0 +1,179 @@
+===== PAGINA 1 =====
+1. INFORMACIÓN GENERAL
+Correo: sivigila@ins.gov.co 
+2. GRAMOS CONSUMIDOS EN UNIDAD DE CUIDADO 
+INTENSIVO ADULTO
+1.2 Fecha de la notificación (dd/mm/aaaa)
+/
+/
+1.3 Mes a reportar
+1.4 Año 
+1.5 Tipo de servicio
+o 
+1. UCI Adulto
+o 
+2. Servicios de hospitalización Adultos
+o 
+3. Ambos
+2.1 Total camas en UCI-A
+2.2 Total días de ocupación de cama al 
+mes en UCI-A
+2.3 Total días de cama 
+disponible al mes en UCI-A
+2.4 Proporción de ocupación de 
+camas en UCI-A
+2.5 Ceftriaxona
+2.6 Ertapenem
+2.7 Meropenem
+2.8 Piperacilina/Tazobactam
+2.9 Vancomicina
+Gramos consumidos en el mes
+3. GRAMOS CONSUMIDOS EN EL SERVICIO DE HOSPITALIZACIÓN 
+ADULTO
+3.1 Total camas en Hospitalización-A
+3.2 Total días de ocupación de cama al 
+mes en Hospitalización-A
+3.3 Total días de cama disponible al 
+mes en Hospitalización-A
+3.4 Proporción de ocupación de camas 
+en Hospitalización-A
+3.5 Ceftriaxona
+3.6 Ciprofloxacina parenteral
+3.7 Ciprofloxacina enteral
+3.8 Ertapenem
+3.9 Meropenem
+Gramos consumidos en el mes
+3.10 Piperacilina/Tazobactam
+3.11 Vancomicina
+1.1 Código de la UPGD
+Departamento
+Municipio
+Código
+Sub– Índice
+Razón social  de la unidad primaria generadora del dato
+2.10 Cefepime
+3.12 Cefepime
+2.11 Ceftazidima avibactam 
+2.12 Oxacilina
+2.13 Gentamicina
+2.14 Linezolid
+3.13 Ceftazidima avibactam 
+3.14 Ampicilina sulbactam
+3.15 Oxacilina
+3.16  Amoxicilina + ácido clavulánico
+3.17   Amikacina
+3.18 Gentamicina
+3.19 Trimetoprima  + sulfametoxazol 
+3.20 Linezolid 
+2.15 Doripenem
+3.21 Doripenem 
+FOR-R02.4030-059 V:00 2026-08-06
+
+===== PAGINA 2 =====
+OBLIG.
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+3.5 al 3.21
+Ingrese el total de gramos consumidos al mes de los antibióticos enlistados en
+las variables. 
+Para el caso de Piperacilina, Tazobactam solo incluir gramos de principio activo
+(Piperacilina)
+Diligencie la variable, de lo contrario el sistema no permitirá
+continuar con el ingreso de la información. 
+3.3 Total días de cama disponible al
+mes en Hospitalización-A
+Ingrese
+en
+números
+enteros,
+el número
+de
+camas
+disponibles
+en
+la
+Hospitalización-A , al mes.  Total de camas por número de días del mes. 
+Diligencie la variable, de lo contrario el sistema no permitirá
+continuar con el ingreso de la información. 
+3.4 Proporción de ocupación de camas
+en Hospitalización-A
+Valor calculado por el aplicativo. 
+Valor calculado por el aplicativo. 
+3. GRAMOS CONSUMIDOS EN EL SERVICIO DE HOSPITALIZACIÓN ADULTO
+3.1 Total camas de Hospitalización-A
+Ingrese en números enteros, el número de camas de Hospitalización-Adultos
+que se vigilan en el mes, en su institución. 
+Diligencie la variable, de lo contrario el sistema no permitirá
+continuar con el ingreso de la información. 
+3.2 Total días de ocupación de cama al
+mes en Hospitalización-A
+Ingrese en números enteros, el número de camas de Hospitalización-Adultos
+ocupadas que se vigilan en el mes, en su institución. 
+Diligencie la variable, de lo contrario el sistema no permitirá
+continuar con el ingreso de la información. 
+2.4 Proporción de ocupación de camas
+en UCI-A
+Valor calculado por el aplicativo. 
+Valor calculado por el aplicativo. 
+2.5 al 2.15
+Ingrese el total de gramos consumidos al mes de los antibióticos enlistados en
+las variables. 
+Para el caso de Piperacilina, Tazobactam solo incluir gramos de principio activo
+(Piperacilina)
+Diligencie la variable, de lo contrario el sistema no permitirá
+continuar con el ingreso de la información. 
+2.2 Total días de ocupación de cama al
+mes en UCI-A
+Ingrese en números enteros, el número de camas de UCI-Adultos ocupadas que
+se vigilan en el mes, en su institución. 
+Diligencie la variable, de lo contrario el sistema no permitirá
+continuar con el ingreso de la información. 
+2.3 Total días de cama disponible al
+mes en UCI-A
+Ingrese en números enteros, el número de camas disponibles en la UCI-A , al
+mes. Total de camas por número de días del mes. 
+Diligencie la variable, de lo contrario el sistema no permitirá
+continuar con el ingreso de la información. 
+1.5 Tipo de servicio
+Marque con una X la opción según corresponda. 
+Diligencie la variable, de lo contrario el sistema no permitirá
+continuar con el ingreso de la información. 
+2. GRAMOS CONSUMIDOS EN UNIDAD DE CUIDADO INTENSIVO ADULTO
+2.1 Total camas de UCI-A
+Ingrese en números enteros, el número de camas de UCI-Adultos que se vigilan
+en el mes, en su institución. 
+Diligencie la variable, de lo contrario el sistema no permitirá
+continuar con el ingreso de la información. 
+1.2 Fecha de la notificación
+Ingrese la fecha en la que se está realizando la notificación. 
+Diligencie la variable, de lo contrario el sistema no permitirá
+continuar con el ingreso de la información. 
+1.3 y 1.4 Mes y año a reportar
+Ingrese el mes y año de la notificación. Tenga en cuenta que el año que permite
+el sistema es a partir del 2016. 
+Diligencie la variable, de lo contrario el sistema no permitirá
+continuar con el ingreso de la información. 
+INSTRUCTIVO DILIGENCIAMIENTO FICHAS DE NOTIFICACIÓN DATOS COMPLEMENTARIOS
+CONSUMO DE ANTIBIÓTICOS CÓDIGO INS: Código INS 354
+VARIABLE
+CATEGORÍAS Y DEFINICIÓN
+CRITERIOS SISTEMATIZACIÓN
+1. INFORMACIÓN GENERAL 
+1.1 Código de UPGD y razón social
+Ingrese la información solicitada. Tenga en cuenta que debe coincidir con el
+código de la UPGD asignado en el sistema. 
+Diligencie la variable, de lo contrario el sistema no permitirá
+continuar con el ingreso de la información.
+

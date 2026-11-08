@@ -1,0 +1,43 @@
+VOLCADOS DE VISIÓN — 205 Chagas (Cód INS 205, FOR-R02.4030-012 V:00 2026-08-06)
+Páginas de preguntas (visión): p1-p2. Índice: total=7, preguntas=[1,2], fin_preguntas=p2, instructivo desde p3.
+Fuente OBLIG: tablas visuales p6 y p7 (lectura de excepción).
+
+===== PAGINA 2 (preguntas) =====
+Definición de caso Chagas agudo confirmado (p2): criterios parasitológicos o seroconversión en dos pruebas de
+diferente principio antigénico, muestras diferentes, diferencia > 21 días; seroconversión negativa→positiva sólo
+si no es posible la evidencia del T. cruzi por métodos parasitológicos.
+
+Sección 5. INFORMACIÓN CLÍNICA
+5.1 Clasificación del caso — select (círculo única) — OBLIG SI
+  Opciones (impreso): 1. Agudo, 2. Crónico
+  Errata: el instructivo renumera como 5.1.1 Agudo y 5.1.2 Crónico (cada uno 1=Si/2=No). Prioridad: forma impresa.
+5.2 Reactivación — select (círculo única) — OBLIG SI
+  Opciones: 1. Sí, 2. No
+5.3 Marque con una X las manifestaciones clínicas que presente el paciente — multiselect — OBLIG SI
+  Opciones (impreso tal cual): Fiebre, Disnea, Edema facial, Edema en miembros inferiores,
+  Derrame pericárdico, Hepatoesplenomegalia, Adenopatías, Signo de Romaña, Chagoma,
+  Falla cardíaca, Disfagia, Dolor torácico, Bradicardia, Arritmia cardíaca (14, selección individual).
+  Definiciones instructivo: Romaña = edema palpebral unilateral...; Chagoma = ...
+
+Sección 6. ESTUDIOS REALIZADOS — cada uno select (círculo única, ÚNICA opción de respuesta según
+instructivo), OBLIG NO, valores: 1. Positivo, 2. Negativo, 3. No se realizó.
+  Pruebas parasitológicas: 6.1 Micrométodo, 6.2 Gota gruesa / frotis de sangre,
+  6.3 Microhematocrito / examen fresco, 6.4 RT-PCR chagas. Criterio: diligenciar si tipo de caso = Chagas agudo.
+  Pruebas serológicas: 6.5 ELISA Ag totales (convencional),
+  6.6 ELISA/CLIA Ag recombinantes/péptidos sintéticos (no convencional), 6.7 IFI IgG T. cruzi
+  (6.7: títulos ≥1:32; valor real va de 1:8 a 1:512 — anotar el resultado), 6.8 PDR 1, 6.9 PDR 2.
+Nota: el instructivo exige "Anote el resultado" para 6.5-6.9 ⇒ campo complementario de resultado (no en la forma impresa).
+
+Sección 7. POSIBLE VÍA DE TRANSMISIÓN
+7. Probable vía de transmisión — select (círculo única) — OBLIG SI
+  Opciones (impreso + instructivo): 1. Vectorial, 2. Transfusional, 3. Congénita*, 4. Vía oral,
+  5. Trasplante, 6. Accidente de trabajo (errata instructivo: "Accidente de laboratorio"), 7. Reactivación.
+  Errata: el instructivo repite la definición de 5 = Trasplante dos veces.
+7.1 Información de la madre — OBLIG NO — se habilita únicamente cuando 7 = 3 (Congénita).
+  Campos: Primer nombre, Segundo nombre, Primer apellido, Segundo apellido, Tipo de documento, Número.
+  show_if = '3', padre_ref = 205_via_transmision.
+
+===== PAGINAS 6-7 (mapping visual OBLIG) =====
+p6 orden natural: bloque A/B/C SI; 5.1 SI; 5.2 SI; 5.3 SI; 6.1-6.7 NO (7 valores NO seguidos). ✓
+p7 orden natural: 6.8 NO, 6.9 NO, 7 SI, 7.1 NO. ✓
+Criterios de sistematización: 5.1, 5.2, 5.3, 7 obligatorias ⇒ show_if no aplica; 6.x NO (solo diligenciar si aplica).

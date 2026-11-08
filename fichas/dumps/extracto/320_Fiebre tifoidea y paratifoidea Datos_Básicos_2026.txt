@@ -1,0 +1,730 @@
+===== PAGINA 1 =====
+1. INFORMACIÓN GENERAL
+1.1 Código de la UPGD *
+Departamento
+Municipio
+Código
+Sub– Índice
+Razón social  de la unidad primaria generadora del dato *
+1.2 Nombre del evento *
+Código del evento
+1.3 Fecha de la notificación (dd/mm/aaaa) *
+ 
+2. IDENTIFICACIÓN DEL PACIENTE
+4.1 Seguimiento y clasificación final del caso
+o 
+0. No aplica
+o 
+3. Conf. por laboratorio o 
+4. Conf. Clínica
+o 
+5. Conf. nexo epidemiológico
+o 
+6. Descartado
+o 
+7. Otra actualización
+o 
+D. Descartado por error de digitación
+4.2 Fecha de ajuste (dd/mm/aaaa)
+/
+/
+4. ESPACIO EXCLUSIVO PARA USO DE LOS ENTES TERRITORIALES
+Correos: sivigila@ins.gov.co
+o 
+No
+o 
+I. Indeterminado/ pendiente
+2.1 Tipo de documento *
+2.2 Número de identificación *
+*RC : REGISTRO CIVIL | TI : TARJETA IDENTIDAD | CC : CÉDULA CIUDADANÍA | CE : CÉDULA EXTRANJERÍA |- PA : PASAPORTE | MS : MENOR SIN ID | AS : ADULTO SIN ID | PE : PERMISO ESPECIAL DE PERMANENCIA | 
+CN : CERTIFICADO DE NACIDO VIVO | CD: CARNÉ DIPLOMÁTICO | SC : SALVOCONDUCTO | DE : DOCUMENTO EXTRANJERO | PT : PERMISO POR PROTECCION TEMPORAL
+2.3  Nombres y apellidos del paciente *
+2.4 Teléfono *
+2.5 Fecha de nacimiento (dd/mm/aaaa)
+/
+/
+2.6 Edad *
+2.7 Unidad de medida de la edad *
+2.9  Sexo *
+o 
+1. Años
+o 
+2. Meses
+o 
+3. Días
+o 
+4. Horas
+o 
+5. Minutos
+o 
+0. No aplica 
+o 
+M. Hombre
+o 
+F. Mujer
+o 
+I. Indeterminado
+2.12 País de procedencia/ocurrencia del caso *
+País
+2.13 Departamento y municipio de procedencia/ocurrencia del caso *
+2.14 Área de procedencia/ocurrencia del caso *
+o 
+1. Cabecera municipal
+o 
+2. Centro poblado
+o 
+3. Rural disperso
+Departamento
+Municipio
+2.15 Localidad de procedencia/ocurrencia del caso
+2.16 Barrio de procedencia/ocurrencia del caso
+2.17 Centro poblado procedencia/ocurrencia del caso
+2.18 Vereda/zona procedencia/ocurrencia
+2.19 Ocupación del paciente *
+Código
+Código
+2.20 Tipo de régimen en salud *
+o 
+P. Excepción
+o 
+E. Especial
+o 
+C. Contributivo
+o 
+S. Subsidiado
+o 
+N. No Asegurado
+Código
+2.21 Nombre de la administradora de Planes de beneficios *
+2.22 Pertenencia étnica *o 
+1. Indígena
+o 
+2. Rom, Gitano
+o 
+3. Raizal
+o 
+4. Palenquero
+o 
+5. Negro, mulato afro colombiano
+o 
+6. Otro
+2.24 Seleccione los grupos poblacionales a los que pertenece el paciente *
+q 
+Personas en condición de discapacidad
+q 
+Desplazados
+q 
+Migrantes
+q 
+Personas privadas de la libertad
+q 
+Gestantes
+q 
+Habitantes de la calle
+q 
+Población infantil a cargo del ICBF
+q 
+Madres comunitarias
+q 
+Desmovilizados
+q 
+Centros psiquiátricos
+q 
+Víctimas de violencia armada
+q 
+Otros grupos poblacionales
+Semanas de 
+gestación
+Grupo ètnico
+2.23 Estrato
+3.1 Fuente
+3.2 País, departamento y municipio de residencia del paciente *
+3.3  Dirección de residencia *
+3.4  Fecha de consulta (dd/mm/aaaa)
+/
+/
+3.5  Fecha de inicio de síntomas (dd/mm/aaaa)
+/
+/
+3.6 Clasificación inicial de caso *
+o 
+1. Sospechoso
+o 
+2. Probable
+o 
+3. Conf. por laboratorio
+o 
+4. Conf. Clínica
+o 
+5. Conf. nexo epidemiológico
+3.7 Hospitalizado *
+o 
+Sí
+3.8 Fecha de hospitalización (dd/mm/aaaa)
+/
+/
+3.9 Condición final *
+o 
+1. Vivo
+o 
+2. Muerto
+o 
+0. No sabe, no responde
+3.10 Fecha de defunción (dd/mm/aaaa)
+/
+/
+3.11 Número certificado de defunción
+3.12 Causa básica de muerte
+3.13 Nombre del profesional que diligenció la ficha *
+3.14  Teléfono del profesional *
+3. NOTIFICACIÓN
+o 
+1. Notificación rutinaria
+o 
+2. Búsqueda activa Inst.
+o 
+4. Búsqueda activa com.
+o 
+5. Investigaciones
+/
+/
+2.8  Nacionalidad *
+Departamento
+Municipio
+País
+o 
+3. Vigilancia Intensificada
+o 
+DE
+o 
+CE
+o 
+MS
+o 
+AS
+o 
+RC
+o 
+CC
+o 
+TI
+o 
+PA
+o 
+PE
+o 
+CN
+o 
+CD
+o 
+SC
+o 
+PT
+Escriba el nombre de la 
+ocupación en la línea inferior
+Código
+2.10 Identidad de género
+2.11 Orientación sexual
+o 
+1. Hombre
+o 
+2. Mujer
+o 
+3. Hombre trans
+o 
+4. Mujer trans
+o 
+5. Otra
+o 
+1.  Heterosexual
+o 
+2.  Gay/Lesbiana
+o 
+3.  Bisexual
+o 
+4.  Otra
+Cuál otra?
+Cuál otra?
+Código
+FOR-R02.0000-001 V:11 2026-08-06
+
+===== PAGINA 2 =====
+OBLIG
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+NO
+SI
+SI
+SI
+2.8 Nacionalidad
+Corresponde al estado o nación que pertenece una persona según su documento de identificación.
+Seleccione el país correspondiente a la nacionalidad según la lista 
+establecida.  
+2.6 Edad
+Reporte la edad cumplida. Si se desconoce indague por la fecha de nacimiento. 
+El sistema calcula la edad si se tiene la fecha de nacimiento. 
+2.7 Unidad de medida de la edad
+Cantidad estandarizada en la que se mide el tiempo que ha vivido una persona desde el nacimiento. 
+* En los casos donde el tipo de identificación sea CC, TI o CE se toma la
+unidad de medida 1.
+* Tenga
+en cuenta que la variable debe coincidir con el tipo de
+identificación del paciente, de lo contrario el sistema no permitirá continuar
+con el ingreso de la información. 
+La unidad de medida 0="no aplica" solo puede ser utilizada para el evento
+215 defectos congénitos, cuando el diagnóstico se realiza prenatal
+2.4 Teléfono
+Corresponde al número telefónico (fijo o celular) donde pueda ubicarse al paciente. Es necesario anteceder el número
+indicativo del departamento o distrito, ejemplo, para marcar a Bogotá, (1) 2302162.
+Tenga en cuenta que el diligenciamiento correcto de esta variable permitira contactar al paciente en caso de ser
+requerido.
+* Si no es posible obtener el número telefónico, diligencie esta variable
+"SIN INFORMACIÓN". De lo contrario se tomará arbitrariamente durante la
+sistematización de la ficha. 
+2.5 Fecha de nacimiento
+Para el evento de mortalidad perinatal y neonatal tardía los datos en la ficha de datos básicos corresponden a los de la
+mama. 
+Formato día-mes-año. 
+El ingreso de la fecha de nacimiento permitirá el cálculo de la semana
+epidemiológica para Sífilis congénita y Síndrome de rubeola congénita.
+2.2 Número de identificación
+El estándar de longitud de caracteres del número de identificación acorde al tipo de identificación, se define en el 
+"Diccionario de elemento de datos el estándar" lenguaje común de intercambio de información (MinTIC), de la siguiente 
+manera: 
+RC: entre 8 ó 10 ú 11 dígitos
+TI: 10 y 11 dígitos
+CC: entre 8 y 17 dígitos 
+CE: menor a 11 dígitos 
+PA: menor a 19 dígitos
+MS: para este último ingrese el documento de la madre con el consecutivo respectivo al número de nacimiento.
+AS:  para mayores de 18 años utilice el código del Departamento + código de Municipio y el consecutivo definido por el 
+Entidad Territorial o UPGD. Tenga en cuenta que en el módulo de captura en línea el sistema asignará un número 
+cuando seleccione este tipo de documento.
+PE: menor a 18 dígitos    
+CN:  menor de 20 dígitos
+CD: 14 digitos
+SC: 12 digitos
+DE: 19 digitos
+PT: 10 digitos
+   
+                                                                                                                                                                                                  
+En adopción de la Circular Externa 000029 del 16 de agosto de 2017 expedida por el Ministerio de Salud y Protección 
+Social, se incluye validación para la identificación de extranjeros de acuerdo al estándar internacional ISO 3166-1 para 
+los siguientes tipo de documento: en CE , PA, AS, MS, CD, SC, DE y PT de esta manera se aumenta la longitud de 
+captura en 3 dígitos más para cada uno.
+Diligencie la variable, de lo contrario el sistema no permitirá continuar con
+el ingreso de la información.  
+2.3
+Nombres
+y
+apellidos
+del
+paciente
+Corresponde a los nombres y apellidos del paciente textual al documento de identificación.
+* El primer nombre y primer apellido son obligatorios para el sistema, de lo
+contrario no le permitirá continuar con la sistematización de la información. 
+1.3 Fecha de notificación
+Fecha en la que se está informando el evento al siguiente nivel por cualquier mecanismo, en especial para los eventos
+de notificación inmediata. Formato día-mes-año
+* La fecha de notificación debe ser mayor o igual a la fecha de inicio de
+síntomas y a la fecha de consulta. 
+2. IDENTIFICACIÓN DEL PACIENTE
+2.1 Tipo de documento
+Se relaciona con el tipo de documento de identidad que tiene el paciente que está siendo notificado. Diligencie una sola
+opción en esta variable.
+Tenga en cuenta que si el paciente es menor de edad y no tiene identificación debera ingresarlo como "MS" y el número
+de identificación debera seguir las indicaciones del apartado 2.2.
+En caso que el paciente sea mayor de edad y no tiene identificación debera ingresarlo como "AS" y el número de
+identificación debera seguir las indicaciones del apartado 2.2.
+* El tipo de documento debe ser consistente con la edad del paciente. 
+1.1 Código de UPGD
+Diligencie el código de habilitación del prestador. 
+Tenga en cuenta:
+Departamento: se relaciona con el código del departamento al que pertenece la institución (código DIVIPOLA del
+DANE) y corresponde a los dos primeros dígitos.
+Municipio: los tres dígitos sumados a los anteriores identifican el municipio donde se encuentra ubicada la institución y
+corresponden al código DIVIPOLA del DANE. 
+Código: el primer dígito de este grupo corresponde al número asignado cuando la institución se encuentra en el registro
+de habilitación de prestadores de salud (REPS). Tenga en cuenta que si la UPGD pertenece a la Policía Nacional el
+dígito debe ser 7, si pertenece a fuerzas militares debe ser 8. Si son unidades informadoras que no tienen código de
+habilitación debe ser 9 incluidas las Unidades Especiales del ICBF y los Centros de Recuperación Nutricional. Los
+cuatro dígitos siguientes son asignados por el departamento-municipio cuando son unidades informadoras; de lo
+contrario son asignados por el REPS. Para las Unidades Especiales del ICBF utilice como complemento los 4 dígitos
+9999 y los Centros de recuperación nutricional utilice como complemento los 4 dígitos 0000
+Sub-índice: identifica el número de sede al que pertenece la institución cuando la UPGD tiene más de una (la sede
+principal siempre es 01). Cuando terminan en 80, se relacionan con UPGD que pertenecen al ejército nacional; 81, a la
+Armada; 82, a la fuerza aérea; 83, hospital militar; 55 EAPB, 99, identifican los establecimientos penitenciarios y
+carcelarios; 76, identifican a las Unidades Especiales del ICBE; y 85, a los Centros de Recuperación Nutricional.
+Registre el código de habilitación por el módulo de caracterización de
+UPGD antes de iniciar la notificación. 
+Recuerde clasificar la UPGD como
+Activa = Si, en el módulo
+de
+caracterización de UPGD.
+1.2 Nombre del evento 
+Nombre del evento y código de acuerdo al listado de clasificación establecido por el Instituto Nacional de Salud. 
+* Tener en cuenta que el nombre y el código del evento deben coincidir
+para evitar confusiones durante la sistematización. 
+INSTRUCTIVO DILIGENCIAMIENTO FICHAS DE NOTIFICACIÓN
+DATOS BÁSICOS
+Definición
+La ficha de notificación de Datos Básicos es un instrumento que permite obtener información prioritaria de las variables de tiempo, lugar y persona para la notificación de los diferentes eventos de interés en salud pública, con el fin de diferenciar
+claramente las características propias de las poblaciones que se ven asociadas a los eventos notificados (variables universales), los lugares y momentos específicos en los que se presentan. 
+Consideraciones generales
+Para el diligenciamiento de la ficha de datos básicos, es importante tener en cuenta los aspectos que se numerarán a continuación, con el fin que la información allí consignada cumpla con los criterios de calidad y veracidad del dato:
+1. Diligencie con letra imprenta, clara y legible; recuerde que la ficha de notificación es un DOCUMENTO MÉDICO LEGAL, por lo tanto es necesario que evite enmendaduras o tachones durante su diligenciamiento. 
+2. Utilice preferiblemente esfero de tinta negra para el diligenciamiento de la ficha de notificación. 
+3. Las variables que son obligatorias (identifíquelas por el asterisco que las acompaña) deben venir diligenciadas en la ficha.
+4. Tenga en cuenta que dependiendo la variable puede o no tener múltiples opciones de respuesta. Por lo anterior, las variables cuyas categorías estén designadas con un (círculo) significa que esa variable tiene una ÚNICA opción de respuesta. Por
+el contrario las variables que están señaladas con un (cuadrado), significa que tiene MÚLTIPLES opciones de respuesta.
+5. Escriba una letra o número por casilla. 
+6. Verifique que las variables Código de evento y nombre del evento, coincidan. 
+7. Verifique que las variables código de UPGD, número de identificación, tipo de documento y código del evento, estén diligenciadas correctamente, con el fin de evitar contratiempos en la notificación. 
+8. Recuerde que cuando el evento requiere datos complementarios es necesario diligenciar también la ficha de datos específicos "Cara B", la cual encontrará en la página web del INS, con el nombre del evento.
+Excepciones: en el evento Muerte perinatal y neonatal tardía, los datos básicos corresponden a los datos de la madre.
+1. INFORMACIÓN GENERAL
+VARIABLE
+CATEGORÍAS Y DEFINICIÓN
+CRITERIOS SISTEMATIZACIÓN
+
+===== PAGINA 3 =====
+SI
+NO
+NO
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+2.20 Tipo de régimen en salud
+Se relaciona con el régimen de afiliación al sistema general de seguridad social en salud, en el que se encuentra el
+caso que está siendo notificado o su acudiente. 
+Variable de única respuesta. 
+P= Excepción: régimen de seguridad social de los afiliados al Fondo Nacional de prestaciones Sociales del magisterio,
+de servidores públicos de Ecopetrol así como los servidores públicos de universidades públicas
+C= Contributivo: sistema de salud mediante el cual todas las personas vinculadas a través de contrato de trabajo, los
+servidores públicos, los pensionados y jubilados y los trabajadores independientes con capacidad de pago, hacen un
+aporte mensual (cotización) al sistema de salud.
+E= Especial: regímenes de seguridad social de los afiliados a la Policía Nacional, Fuerzas Militares, Armada, Fuerza
+Aérea. 
+S= Subsidiado: El Régimen Subsidiado es el mecanismo mediante el cual la población más pobre, sin capacidad de
+pago, tiene acceso a los servicios de salud a través de un subsidio que ofrece el Estado.
+N= No asegurado
+I= Indeterminado/ pendiente: esta opción debe ser utilizada exclusivamente para ajuste por las EAPB, cuando el caso
+no corresponde a esta y requiere verificación en el nivel nacional
+* Para la sistematización de la información, se toma una sola categoría de
+respuesta.  
+2.21 Nombre de la administradora
+de salud
+Ingrese el nombre de la Empresa Aseguradora de Planes de Beneficios a la que se encuentra afiliado el paciente.
+Recuerde que se consideran como tales, las Entidades Promotoras de Salud del Régimen Contributivo y del Régimen
+Subsidiado, Entidades Adaptadas y Empresas de Medicina Prepagada; sin embargo, para la estadística de vigilancia en
+salud pública nacional prima la EAPB primaria (Plan Obligatorio de Salud), por lo cual deberá almacenar esta en el
+campo.
+* Para la sistematización de la información se tiene en cuenta el nombre
+de la administradora que debe coincidir con la categoría seleccionada en
+la variable 2.18
+2.18 Vereda/zona
+Ingrese el nombre de la vereda o zona donde ocurrió el caso. 
+Nota: tenga en cuenta los criterios para definir la ocurrencia de un evento descritos en el numeral 2.10.
+* Depende de la categoría seleccionada en la variable 2.11 "rural disperso"
+2.19 Ocupación del paciente
+Describa claramente la ocupación principal de paciente (en el caso que aplique).
+* La codificación de la ocupación está a partir de la Clasificación
+Internacional Uniforme de Ocupaciones (CIUO 88)
+2.16 Barrio de ocurrencia del caso Ingrese el nombre del barrio donde ocurrió el caso.
+Nota: tenga en cuenta los criterios para definir la ocurrencia de un evento descritos en el numeral 2.10.
+* Depende de la categoría seleccionada en la variable 2.11 "cabecera
+municipal". La codificación depende de la tabla de barrios definidos por la
+entidad territorial. 
+2.17
+Cabecera
+municipal/centro
+poblado/rural disperso
+Nombre del área de ocurrencia del caso seleccionado en la variable 2.11
+Nota: tenga en cuenta los criterios para definir la ocurrencia de un evento descritos en el numeral 2.10.
+* Depende de la categoría seleccionada en la variable 2.11
+2.14 Área de ocurrencia del caso 
+1. Cabecera Municipal: es el área geográfica que está definida por un perímetro urbano, cuyos límites se establecen
+por acuerdos del Concejo Municipal. Corresponde al lugar en donde se ubica la sede administrativa de un municipio. 
+2. Centro Poblado: Se define como una concentración de mínimo veinte (20) viviendas contiguas, vecinas o adosadas
+entre sí, ubicada en el área rural de un municipio o de un Corregimiento Departamental.
+3. Rural Diperso: es el área que se caracteriza por la disposición dispersa de viviendas y explotaciones agropecuarias.
+No cuenta con un trazado o nomenclatura de calles, carreteras, avenidas y demás.
+Nota: tenga en cuenta los criterios para definir la ocurrencia de un evento descritos en el numeral 2.10.
+* Variable de única selección. No se puede ingresar al sistema más de una
+categoría. 
+2.15 Localidad de ocurrencia
+Ingrese el nombre de la localidad donde ocurrió el caso. 
+Tenga en cuenta que esta variable aplica para los distritos como Bogotá o los municipios como Medellín, entre otros; los
+cuales están sectorizados internamente según el departamento de planeación municipal. 
+Nota: tenga en cuenta los criterios para definir la ocurrencia de un evento descritos en el numeral 2.10.
+* Depende de la categoría seleccionada en la variable 2.11 "cabecera
+municipal"
+2.12 País de ocurrencia del caso
+Indage al caso o familiar del mismo, respecto al país donde ocurrió la exposición al evento de interés en salud pública a
+notificar. 
+Tenga en cuenta que la ocurrencia o procedencia corresponde al lugar geográfico donde posiblemente el paciente
+adquirio o al cual se atribuye la exposición al agente o factor de riesgo que ocasiono el evento. En los eventos
+transmisibles se deberan considerar los tiempos de incubación de la enfermedad.
+* Tener en cuenta el diligenciamiento correcto de esta variable en la ficha,
+debido a que su ausencia se tomaría por defecto en el sistema como "país
+donde ocurre el caso : Colombia"
+2.13 Departamento y municipio de
+procedencia/ocurrencia
+Ingrese el nombre del departamento y municipio de donde proviene/ocurre el caso.
+Tenga en cuenta que la ocurrencia o procedencia corresponde al lugar geográfico donde posiblemente el paciente
+adquirio o al cual se atribuye la exposición al agente o factor de riesgo que ocasiono el evento. En los eventos
+transmisibles se deberan considerar los tiempos de incubación de la enfermedad.
+Revisar que el Municipio coincida con el Departamento. 
+Recuerde que pueden haber coincidencias en el nombre del Municipio en
+diferentes Departamentos. 
+2.9 Sexo 
+Se relaciona con el sexo biológico del paciente relacionado con la notificación.
+M = Hombre
+F = Mujer
+I = Indetermiando
+Los eventos Mortalidad Perinatal y Bajo Peso al Nacer capturan datos de la madre. 
+El sexo I=Indeterminado aplica únicamente para Defectos Congénitos.
+* Tener en cuenta que al sistematizar la información se digita la variable
+TAL CUAL aparece en la ficha de notificación, debido a que no existe una
+regla de validacion que permita validarla  con el nombre del paciente. 
+2.10 Identidad de género
+Las siguientes definiciones fueron tomadas de la “Guía para la inclusión del enfoque diferencial e intersectorial” 
+del Departamento Administrativo Nacional de Estadísticas – DANE. 
+Identidad de género: hace referencia a la vivencia individual y personal del género. Es independiente del sexo asignado 
+al momento del nacimiento. Incluye la vivencia personal del cuerpo, que puede o no involucrar transformaciones 
+corporales escogidas libremente. Incluye también otras expresiones de género, tales como la forma de vestir, el modo 
+de hablar y la expresión corporal.
+Seleccione las una de las siguientes categorías:
+1. Hombre
+2. Mujer
+3. Hombre trans: el termino trans engloba a todas aquellas personas que se identifican con un género diferente al 
+asignado al nacer o que expresan su identidad de género de manera no normativa. Para esta categoría puede 
+entenderse como persona de sexo mujer asignado al nacer que ha hecho la transición a hombre
+4. Mujer trans: el termino trans engloba a todas aquellas personas que se identifican con un género diferente al 
+asignado al nacer o que expresan su identidad de género de manera no normativa. Para esta categoría puede 
+entenderse como persona de sexo hombre asignado al nacer que ha hecho la transición a mujer
+5. Otra: categoría que permite diligenciar otras identidades de generó que no se encuentran listadas 
+Si selecciona la opción "Otra" diligencie en el campo ¿Cuál otra? la identidad de género que no corresponde a las 
+categorías predefinidas
+* Tener en cuenta que al sistematizar la información se digita la variable
+TAL CUAL aparece en la ficha de notificación, debido a que no existe una
+regla de validacion que permita validarla  con otras variables. 
+2.11 Orientación sexual
+Las siguientes definiciones fueron tomadas de la “Guía para la inclusión del enfoque diferencial e intersectorial” 
+del Departamento Administrativo Nacional de Estadísticas – DANE. 
+Orientación sexual: se trata de la atracción sexual, afectiva y erótica que una persona siente hacia otras de su mismo 
+género, del género opuesto, de ambos o que no sienten atracción por ninguno de los géneros. También hace referencia 
+a la capacidad de mantener relaciones afectivas y sexuales con esas personas. Por lo tanto, se habla de mujeres 
+lesbianas, de hombres gay y de personas heterosexuales, homosexuales, bisexuales o asexuales. 
+Seleccione las una de las siguientes categorías:
+1. Heterosexual: hace referencia a las personas que se sienten atraídas afectiva y eróticamente hacia personas del 
+sexo opuesto
+2. Gay/Lesbiana: hace referencia a personas que se sienten atraídas afectiva y eróticamente hacia personas del mismo 
+sexo. Popularmente se emplean los términos: gay para el hombre y lesbiana para la mujer
+3. Bisexual: hace referencia a personas que se sienten atraídas afectiva y eróticamente hacia personas de varios sexos
+4. Otra: categoría que permite diligenciar otras orientaciones sexuales que no se encuentran listadas
+Si selecciona la opción “Otra” diligencie en el campo ¿Cuál otra? la orientación sexual que no corresponde a las 
+categorías predefinidas
+* Tener en cuenta que al sistematizar la información se digita la variable
+TAL CUAL aparece en la ficha de notificación, debido a que no existe una
+regla de validacion que permita validarla  con otras variables.
+
+===== PAGINA 4 =====
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+4.2 Fecha de ajuste
+Fomato día/mes/año; corresponde a la fecha en la que se ajustó la clasificación inicial del caso.
+3.14 Teléfono
+Número telefónico de contacto de la persona que realiza la notificación, preferiblemente el número celular para poder
+contactarlo en caso de ser requerido.
+* Para la sistematización de la información debe diligenciar los datos
+solicitados, de lo contrario el sistema no permitirá el ingreso de la ficha de
+notificación. 
+4. ESPACIO EXCLUSIVO PARA USO DE LOS ENTES TERRITORIALES
+4.1
+Seguimiento
+y
+clasificación
+final del caso
+Estos son los valores que se relacionan para definir la clasificación final del caso, posterior de obtener resultados de
+laboratorio o análisis del caso. 
+Corresponde a la clasificación definitiva del caso. 
+0 = No aplica (es el valor por defecto del sistema si el caso es nuevo o no ha sido ajustado)
+3 = Confirmado por laboratorio
+4 = Confirmado por clínica
+5 = Confirmado por nexo epidemiológico
+6= Descartado: puede ser por criterio epidemiológico, por laboratorio, porque no cumple la condición del caso, etc.
+7 = Otra actualización: quiere decir que se puede modificar cualquier campo excepto código de evento, Upgd, numero
+de id, fecha de notificación. Esto, después de haber notificado el caso.
+D = Error de digitación por las siguientes razones:
+- el evento notificado es errado, por ejemplo, se digitaron los datos
+para el evento parotiditis y realmente se trataba de
+un caso de varicela.
+- cuando al menos una de las variables de la llave primaria (código de evento, año, semana epidemiológica, código de
+prestador, código sub-índice del prestador, tipo de identificación y número de identificación) fueron mal digitadas, ya que
+es posible modificarlas una vez hayan sido notificadas (generación del archivo plano).
+Los tipos de ajuste permitos y los tiempos para el ajuste de casos, se
+encuentran definidos en los protocolos de vigilancia en salud pública.
+3.12 Causa básica de muerte
+Diagnóstico CIE X, que ocasionó la muerte del caso y que esta relacionado con el evento de interés en salud pública.
+* Se diligencia una vez la respuesta de la variable 3.8 sea "2 = Muerto"
+3.13 Nombre de profesional que
+diligencia la ficha
+Nombre de la persona que diligenció la ficha de notificación en la UPGD o UI
+* Para la sistematización de la información debe diligenciar los datos
+solicitados, de lo contrario el sistema no permitirá el ingreso de la ficha de
+notificación. 
+3.10 Fecha de defunción
+Formato día/mes/año. Se diligencia la fecha en la que el paciente fallece como consecuencia del evento que se esta
+notificando. Se debe diligenciar si en la variable "3.8 Condición final" es 2 = Muerto"
+* Se diligencia dependiendo de la respuesta de la variable 3.8 "2 = Muerto".
+3.11
+Número
+de
+certificado
+de
+defunción
+Número consecutivo que aparece en la parte superior derecha del certificado de defunción diligenciado si la "3.8
+Condición final" es 2 = Muerto" 
+* Se diligencia dependiendo de la respuesta de la variable 3.8 "2 = Muerto". 
+Debe estar diligenciado el registro, de lo contrario el sistema no permitirá
+contiuar con la sistematización de la ficha. 
+3.8 Fecha de hospitalización
+Formato día/mes/año. Se diligencia la fecha en la que el paciente fue hospitalizado como consecuencia del evento que
+se está notificando. 
+* Tenga en cuenta que para la sistematización la fecha de hospitalización
+no puede ser inferior a la fecha de consulta, ni a la fecha de notificación. 
+3.9 Condición final
+Variable de única selección. 
+0 = Solo aplica cuando se capte el caso por BAI y se desconoce el dato, o para defectos congénitos cuando la unidad
+de medida es "0"
+1 = Vivo
+2 = Muerto
+Tenga en cuenta que es importante establecer si la muerte fue debida al evento de interés en salud pública para
+diligenciar esta variable.
+* Tenga en cuenta que para la sistematización de la información se debe
+diligenciar la condición final del paciente al momento de la notificación, la
+cual se derive del evento que se está notificando. 
+3.6 Clasificación inicial del caso 
+En la notificación inicial, seleccione únicamente una categoría de la variable.
+Cada evento tiene una clasificación de caso específica, la cual es acorde a lo descrito en el protocolo. 
+Es importante que aquellos eventos que ingresan probables y sospechosos, sean ingresados con esa clasificación ya
+que se entendera que son detectados de forma oportuna, de lo contrario, es decir, si ingresan confirmados,
+corresponden a una falla en la pronta identificación del evento.
+*Para la sistematización, los valores permitidos en esta variable dependen
+del evento que se va a notificar. 
+3.7 Hospitalizado
+Marque con una X la opción según corresponda. 
+Hospitalización debida al evento que se está notificando. 
+* Ingrese la información solicitada, de lo contrario el sistema no permitirá
+continuar con el ingreso. 
+3.4 Fecha de consulta
+Formato día/mes/año. Se diligencia la fecha en la que consultó el paciente por el evento notificado.
+* Para sistematizar la información tenga en cuenta que la fecha de
+consulta NO puede ser mayor a la fecha de notificación. Si esto sucede se
+tomará como error en el sistema y no se podrá continuar con la digitación
+de la ficha de notificación. 
+3.5 Fecha de inicio de síntomas
+Formato día/mes/año. Se diligencia la fecha del primer día en que el paciente inició síntomas del evento acorde a la
+definición de caso.
+* Para sistematizar la información tenga en cuenta que la fecha de inicio
+de síntomas NO debe ser superior a la fecha de consulta y a la fecha de
+notificación. Si esto sucede se tomará como un error en el sistema y no se
+podrá continuar con la digitación de la ficha de notificación. 
+3.2
+País,
+departamento
+y
+municipio
+de
+residencia
+del
+paciente
+Nombre del departamento y municipio donde reside el paciente al momento de la notificación. 
+Nota: Para definir residencia acogemos el concepto de la Ley 1607 de 2012 que establece que una persona es
+residente de algun lugar geográfico si "permanece continua o discontinuamente en el país por más de ciento ochenta y
+tres (183) días calendario incluyendo dias de entrada y salida. 
+3.3 Dirección de residencia
+Dirección donde se encuentra ubicada la residencia del paciente al momento de la notificación acorde a los parámetros
+establecidos en el numeral 3.2
+2.24
+Seleccione
+los
+grupos
+poblacionales a los que pertenece
+el paciente
+La variable tiene múltiples opciones de respuesta que se pueden diligenciar dependiendo de lo referido por el paciente o
+de lo observado por quien esté diligenciando la ficha de notificación, a continuación se definen algunas pobalciones
+relevantes para tener mayor claridad:
+Migrante : persona que se desplaza o se ha desplazado a través de una frontera internacional o dentro de un país, fuera
+de su lugar habitual de residencia independientemente de: 1) su situación jurídica; 2) el carácter voluntario o involuntario
+del desplazamiento; 3) las causas del desplazamiento; o 4) la duración de su estancia (OIM).
+Desmovilizado: Aquel que por decisión individual abandone voluntariamente sus actividades como miembro de
+organizaciones armadas al margen de la ley, esto es grupos guerrilleros y de autodefensa, y se entregue a las
+autoridades de la República (Decreto 128 de 2003).
+Desplazados : Personas o grupos de personas que han sido forzadas u obligadas a abandonar sus hogares o lugares
+de residencia habitual, en particular como resultado de o para evitar los efectos del conflicto armado, situaciones de
+violencia generalizada, violaciones de derechos humanos o desastres naturales o causados por el hombre, y que no
+han cruzado fronteras reconocidas internacionalmente” (Naciones Unidas, documento E/CN.4/1992/23).
+Si no pertenece a algún grupo poblacional, se sugiere señalar la opción "otros grupos poblacionales". 
+* Para la sistematización de la información se hace necesario marcar la/s
+categorías de respuesta necesarias según corresponda. Si no pertenece a
+algún grupo se toma como "otros grupos poblacionales"
+3. NOTIFICACIÓN
+3.1 Fuente
+Corresponde a la fuente de la notificación lo cual influye en el análisis de datos y en las acciones de vigilancia y control, 
+las posibles fuentes son: 1. notificación rutinaria, 2. Búsqueda Activa Institucional (en registros administrativos), 3. 
+Vigilancia intensificada,  4. Búsqueda Activa Comunitaria y 5. Investigaciones
+2.22 Pertenencia étnica
+"La pertenencia étnica se define como patrimonio cultural compartido por un grupo de personas", las definiciones para
+cada uno de los grupos étnicos son*:
+Indígena : persona de ascendencia amerindia que comparten sentimientos de identificación con su p asado aborigen,
+manteniendo rasgos y valores propios de su cultura tradicional, así como formas de organización y control social
+propios. Si diligencia esta opción deberá elegir el grupo étnico al que pertenece.
+Rom, Gitano: Son comunidades que tienen una identidad étnica y cultural propia; se caracterizan por una tradición
+nómada, y tienen su propio idioma que es el romanés.
+Raizal: Población ubicada en el Archipiélago de San Andrés, Providencia y Santa Catalina, con raíces culturales afro-
+anglo-antillanas, cuyos integrantes tienen rasgos socioculturales y lingüísticos claramente diferenciados del resto de la
+población afrocolombiana.
+Palenquero: Población hubicada en el municipio de  San Basilio de Palenque, departamento de Bolívar, donde se habla
+el palenquero, lenguaje criollo.
+Negro o afrocolombiano: persona de ascendencia afrocolombiana que poseen una cultura propia, y tienen sus propias
+tradiciones y costumbre d entro de la relación campo-poblado.
+Tenga en cuenta que esta variable se diligencia con base a lo que el paciente manifiesta, mas no a la percepción de
+quien está diligenciando la ficha.
+* Para la sistematización de la información se tiene en cuenta la categoría
+única diligenciada en la variable.
+Variable con categoría única de respuesta. 
+2.23 Estrato
+Estrao socio-económico donde esta ubicada la vivienda del paciente, estos son:
+1. Bajo-bajo, 2. Bajo, 3. Medio-bajo, 4. Medio, 5. Medio-alto o 6. Alto
+Variable con categoría única de respuesta.
+

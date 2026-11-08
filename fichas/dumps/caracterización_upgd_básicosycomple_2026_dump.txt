@@ -1,0 +1,473 @@
+
+===== PAGINA 1 =====
+  127.7  227.9 - FOR-R02.0000-034 V:10  2026-08-06
+  158.2  246.4 B 1. INFORMACIÓN GENERAL
+  177.3   25.1 B 1.1 Código del prestador de servicios de salud
+  177.3  326.1 B 1.2 Fecha de caracterización
+  213.0   35.5 - Departamento
+  213.0   95.8 - Municipio
+  213.0  177.0 - Código
+  213.0  243.6 - Sub índice
+  226.0   24.6 B 1.3 Razón social de la UPGD
+  252.8  319.0 B 1.5 Dirección de la UPGD
+  253.2   24.6 B 1.4 NIT de la UPGD
+  281.4  319.5 B 1.7 Correo electrónico
+  281.9   24.6 B 1.6 Representante legal de la UPGD
+  309.6  412.5 B 1.10 Fecha de inicio de actividades
+  310.1  265.8 B 1.9 Teléfono de la UPGD
+  310.5   24.6 B 1.8 Nombre del responsable de la notificación
+  344.9  522.5 - o 1. Sí
+  344.9  562.6 - o 2. No
+  345.4  282.6 B 1.13 ¿Qué tipo de
+  347.2  438.1 B 1.15 ¿Notifica IAD?
+  347.3  173.5 B 1.12 Nivel de complejidad
+  347.3  381.1 B 1.14 Estado
+  348.7   23.2 B 1.11 Naturaleza jurídica
+  355.0  282.6 B unidad notificadora es?
+  359.0  381.8 - o 1. Abierto
+  359.5  179.6 - o I. Nivel
+  361.4   22.5 - o 1. Privada sin ánimo de lucro
+  361.4  123.9 - o 3. Mixta
+  363.3  522.8 - o 1. Sí
+  363.3  563.0 - o 2. No
+  365.7  438.5 B 1.16 ¿Notifica ISO?
+  367.0  229.2 - o III. Nivel
+  373.0  286.9 - o 1. UI
+  373.4  327.0 - o 2. UPGD
+  374.6   22.5 - o 2. Privada con ánimo de lucro
+  374.6  123.9 - o 4. Pública
+  375.7  382.3 - o 2. Cerrado
+  376.0  179.8 - o II. Nivel
+  380.0  438.5 B 1.17 ¿Notifica CAB? o 1. Sí
+  380.4  563.0 - o 2. No
+  399.6  155.4 B 2. RECURSOS DISPONIBLES PARA LA VIGILANCIA EPIDEMIOLÓGICA
+  415.5  495.2 - o 1. Sí
+  415.7  540.1 - o 2. No
+  416.6   25.1 B 2.1 Recursos organizacionales:
+  418.3  333.6 B 2.1.6 ¿Tiene fax-módem?
+  432.3  495.2 - o 1. Sí
+  432.4  207.5 - o 1. Sí
+  432.5  540.1 - o 2. No
+  432.6  252.4 - o 2. No
+  433.9  333.6 B 2.1.7 ¿Tiene correo electrónico?
+  434.6   31.7 B 2.1.1 ¿Tiene unidad de análisis?
+  447.7  207.5 - o 1. Sí
+  447.9  252.4 - o 2. No
+  448.1  495.2 - o 1. Sí
+  448.3  540.1 - o 2. No
+  450.4   31.7 B 2.1.2 ¿Tiene comité de análisis (COVE)?
+  450.6  333.6 B 2.1.8 ¿Tiene internet?
+  463.9  495.2 - o 1. Sí
+  464.1  540.1 - o 2. No
+  464.7  207.5 - o 1. Sí
+  464.9  252.4 - o 2. No
+  466.4  333.6 B 2.1.9 ¿Tiene telefax?
+  467.2   31.7 B 2.1.3 ¿Talento humano disponible?
+  479.3  495.2 - o 1. Sí
+  479.5  540.1 - o 2. No
+  481.1  207.5 - o 1. Sí
+  481.3  252.4 - o 2. No
+  482.0  333.6 B 2.1.10 ¿Tiene radioteléfono?
+  483.0   31.7 B 2.1.4 ¿Tecnología disponible?
+  495.2  495.2 - o 1. Sí
+  495.4  540.1 - o 2. No
+  497.6  207.7 - o 1. Sí
+  497.8  252.6 - o 2. No
+  499.0   31.7 B 2.1.5 ¿Tiene computador?
+  499.1  331.2 B ¿UPGD activa en el sistema?
+  518.4  148.4 B 3. TALENTO HUMANO DISPONIBLE PARA VIGILANCIA EPIDEMIOLÓGICA
+  534.5  347.2 B Número de horas/día
+  534.9  132.8 B Número de horas/día
+  535.0  512.6 B Número de horas/día
+  545.8   20.5 B 3.1 Epidemiólogo(a)
+  545.8  221.6 B 3.6 Técnico(a) (Asist. o Admin)
+  562.8  221.6 B 3.7 Promotor(a) de salud
+  563.6   20.5 B 3.2 Médico especialista
+  564.5  434.5 B 3.11 Microbiólogo
+  580.8   20.5 B 3.3 Médico general
+  580.9  221.6 B 3.8 Otro
+  598.2  221.6 B 3.9 Enfermero IAAS
+  598.3   20.5 B 3.4 Enfermero(a) o auxiliar
+  615.2  221.6 B 3.10 Infectólogo
+  615.6   20.4 B 3.5 Bacteriólogo(a)
+  636.2  125.6 B 4. PRODUCCIÓN DE SERVICIOS DISPONIBLES PARA VIGILANCIA EPIDEMIOLÓGICA
+  653.3   82.0 B Registre la cantidad de actividades realizadas en el periodo anual inmediatamente anterior o durante el tiempo de funcionamiento si este es menor a un año.
+  671.9  184.8 B 4.2 Servicios hospitalarios
+  673.4   25.6 B 4.1 Servicios ambulatorios:
+  673.4  374.7 B 4.3 Servicio de laboratorio clínico
+  688.6  185.3 - 4.2.1 Medicina general
+  705.4  185.3 - 4.2.2 Medicina interna
+  707.4   20.5 - 4.1.1 Consulta general
+  710.2  373.3 - 4.3.1 Hematología
+  710.2  492.4 - 4.3.5 Patología
+  721.7  185.2 - 4.2.3 Pediatría
+  728.0   20.5 - 4.1.2 Consulta especializada
+  730.1  491.0 - 4.3.6 Toxicología
+  730.9  373.3 - 4.3.2 Microbiología
+  738.7  185.2 - 4.2.4 Neurología
+  747.9   20.4 - 4.1.3 Urgencias
+  750.8  373.3 - 4.3.3 Química
+  751.0  491.2 - 4.3.7 Parasitología
+  754.7  185.1 - 4.2.5 Ginecobstetricia
+  768.7   20.4 - 4.1.4 Vacunación
+  770.5  491.8 - 4.3.8 Virología
+  771.5  373.3 - 4.3.4 Inmunología
+  772.0  185.5 - 4.2.6 Cuidados intensivos
+  792.4   34.6 B Correo: sivigila@ins.gov.co
+--- dibujos: 95 ---
+
+===== PAGINA 2 =====
+  124.5  222.3 - FOR-R02.0000-034 V:10  2026-08-06
+  159.6  231.2 B RELACIÓN CON DATOS BÁSICOS
+  176.3   22.9 B 1.1 Código de prestador de servicios de salud
+  177.7  262.0 B 1.2 Razón social de la UPGD
+  212.0   33.3 - Departamento
+  212.0   83.7 - Municipio
+  212.0  157.3 - Código
+  212.0  215.9 - Sub índice
+  226.5  437.5 B 6. CAPACIDAD INSTALADA
+  226.7  133.4 B 5. ROLES POR INFORMACIÓN
+  243.9  188.6 B 5.2 ¿Presta atención a usuarios afiliados al régimen de
+  244.5   17.9 B 5.1 ¿La institución es catalogada como Hospital
+  244.7  416.1 B 6.1 Total de camas
+  252.3  188.6 B Excepción?
+  252.9   17.9 B Universitario?
+  253.1  416.1 B de hospitalización
+  256.2  276.1 - o 1. Sí
+  256.4  320.1 - o 2. No
+  256.5   76.5 - o 1. Sí
+  256.7  121.4 - o 2. No
+  262.2  412.2 - (Excluir servicio urgencias)
+  284.3  212.2 B 7. DATOS DE LA VIGILANCIA DE LAS IAAS
+  303.6  417.5 B 7.3 ¿Cuántos brotes de IAAS se presentaron en el
+  303.7  212.4 B 7.2 ¿La búsqueda de casos de infección es realizada por
+  303.8   22.2 B 7.1 ¿La Institución cuenta con Comité de Infecciones
+  312.0  417.5 B último año?
+  312.1  212.4 B profesionales?
+  312.2   22.2 B Intrahospitalarias?
+  318.9  279.4 - o 1. Sí
+  319.1  324.3 - o 2. No
+  320.1   92.3 - o 1. Sí
+  320.3  137.2 - o 2. No
+  343.1   22.4 B 7.4 ¿Cuenta la UPGD con informes de análisis de las tendencias de IAAS que
+  343.6  308.7 B 7.5 ¿Realiza la UPGD difusión de los informes de las tendencias de las IAAS a los
+  351.5   22.4 B incluyan la identificación de problemas y se dén recomendaciones?
+  352.0  308.7 B servicios involucrados con la vigilancia?
+  361.9  105.7 - o 1. Sí
+  362.1  150.6 - o 2. No
+  362.2  392.9 - o 1. Sí
+  362.6  441.5 - o 2. No
+  389.2  105.5 B 8. DATOS DE LA VIGILANCIA DE LA RESISTENCIA BACTERIANA A LOS ANTIMICROBIANOS
+  419.3   21.0 B 8.1 ¿La UPGD dispone de servicio de laboratorio de
+  420.2  210.0 B 8.1.1 ¿El laboratorio es propio?
+  420.2  329.5 B 8.1.2 Ingrese el nombre de los laboratorios de microbiología contratados.
+  427.7   21.0 B microbiología?
+  433.8   39.4 - o 1. Sí
+  433.8  223.7 - o 1. Sí
+  434.0  113.1 - o 2. No
+  434.0  268.6 - o 2. No
+  452.7   21.0 B 8.2 ¿El laboratorio de microbiología tiene la capacidad
+  452.8  210.0 B 8.3 ¿El laboratorio de microbiología tiene la
+  452.8  394.7 B 8.4 ¿El laboratorio de microbiología cuenta con un sistema
+  461.1   21.0 B de identificar género y especie?
+  461.2  210.0 B capacidad de realizar pruebas de susceptibilidad
+  461.2  394.7 B automatizado para la identificación y susceptibilidad de
+  469.6  210.0 B antimicrobiana?
+  469.6  394.7 B antimicrobianos?
+  476.8   39.0 - o 1. Sí
+  476.8  223.7 - o 1. Sí
+  476.8  419.3 - o 1. Sí
+  477.0  113.1 - o 2. No
+  477.0  301.6 - o 2. No
+  477.0  485.9 - o 2. No
+  499.0   22.7 B 8.5 ¿El laboratorio de microbiología dispone de los
+  499.1  210.9 B 8.6 ¿El laboratorio de microbiología cuenta con
+  499.1  396.1 B 8.7 ¿El laboratorio de microbiología cuenta con control
+  507.4   22.7 B siguientes equipos automatizados?
+  507.5  210.9 B control de calidad interno para susceptibilidad de
+  507.5  396.1 B de calidad externo para susceptibilidad de
+  515.9  210.9 B antimicrobianos?
+  515.9  396.1 B antimicrobianos?
+  523.3   30.9 - □ Vitek
+  523.5  223.4 - o 1. Sí
+  523.5  419.3 - o 1. Sí
+  523.7  297.4 - o 2. No
+  523.7  485.9 - o 2. No
+  524.0   77.7 - □ Microscan
+  524.0  148.6 - □ Phoenix
+  545.1  203.5 B 9. ANÁLISIS Y DIFUSIÓN DE LA INFORMACIÓN
+  566.1   23.4 B 9.1 ¿El personal de microbiología es miembro activo
+  566.3  209.3 B 9.2 ¿Utiliza el software WHONET para el análisis de
+  566.6  394.7 B 9.3 ¿La UPGD realiza informes periódicos de patrones
+  574.5   23.4 B del  comité de infecciones?
+  574.7  209.3 B los datos microbiológicos?
+  575.0  394.7 B de susceptibilidad a los  antimicrobianos de agentes
+  583.4  394.7 B etiológicos de importancia clínica?
+  589.3   70.6 - o 1. Sí
+  589.3  255.3 - o 1. Sí
+  589.5  115.3 - o 2. No
+  589.5  300.2 - o 2. No
+  590.3  450.2 - o 1. Sí
+  590.5  495.1 - o 2. No
+  608.9  210.0 B 9.5 ¿El laboratorio de microbiología remite las cepas
+  610.8   23.4 B 9.4 ¿El laboratorio de microbiología confirma perfiles
+  610.9  396.6 B 9.6 ¿El laboratorio de microbiología reporta al comité de
+  617.3  210.0 B para confirmación de perfiles inusuales a otra
+  619.2   23.4 B inusuales de las cepas?
+  619.3  396.6 B infecciones los hallazgos microbiológicos inusuales?
+  625.7  210.0 B entidad?
+  634.3   97.5 - o 1. Sí
+  634.6  142.4 - o 2. No
+  635.3  477.4 - o 1. Sí
+  635.5  522.3 - o 2. No
+  635.8  282.5 - o 1. Sí
+  636.0  327.4 - o 2. No
+  654.9  222.4 B 10. DATOS DE LA VIGILANCIA DE CAB
+  675.8  233.6 - o 1.  Medico
+  676.1  310.9 - o 2.Quimico Farmaceútico
+  676.4  429.9 - o 3. Enfermera
+  679.1   23.4 B 10.1 ¿Quien realiza la vigilancia de CAB, en la UPGD?
+  714.8   64.8 B 11. DATOS DE LA VIGILANCIA DE LAS INFECCIONES ASOCIADAS A PROCEDIMIENTOS MÈDICO QUIRÙRGICOS
+  743.2   22.4 B 11.1 Cesárea
+  743.2  121.6 B 11.2 Parto vaginal
+  743.2  238.7 B 11.3 Colecistectomía
+  744.5  358.6 B 11.4 Herniorrafia
+  744.6  459.8 B 11.5 Revascularización miocárdica
+  757.3  145.7 - o 1. Sí
+  757.3  262.0 - o 1. Sí
+  757.3  376.8 - o 1. Sí
+  757.3  515.7 - o 1. Sí
+  757.6   32.0 - o 1. Sí
+  776.1  145.7 - o 2. No
+  776.1  262.0 - o 2. No
+  776.1  376.8 - o 2. No
+  776.1  515.7 - o 2. No
+  776.4   32.0 - o 2. No
+  802.4  203.7 B 12.  CAPACIDAD INSTALADA SEGÙN TIPO UCI
+  824.7  155.9 B 12.2  Total camas en UCI con
+  828.5  474.5 B 12.3 Activa
+  833.1  157.2 B las que cuenta la Institución
+  841.4  482.4 - o 1. Sí
+  843.6  353.4 - o 2. Médico-quirúrgica
+  844.5   25.7 B 12.1 Tipo UCI
+  846.6  302.1 B Subtipo UCI
+  847.8  166.8 B 12.2.1 Total camas UCI-A
+  852.1  353.4 - o 3. Cardiovascular
+  853.2  482.4 - o 2. No
+  857.4   73.4 - q A. UCI A
+  871.5   73.4 - q P. UCI P
+  882.0  354.3 - o 2. Médico-quirúrgica
+  883.5  482.4 - o 1. Sí
+  884.8  167.6 B 12.2.2 Total camas UCI-P
+  885.1  303.1 B Subtipo UCI
+  885.6   73.4 - q N. UCI N
+  890.5  354.3 - o 3. Cardiovascular
+  895.3  482.4 - o 2. No
+  925.6  167.8 B 12.2.3 Total camas UCI-N
+  925.9  354.5 - o 2. Médico-quirúrgica
+  926.3  482.2 - o 1. Sí
+  929.0  303.3 B Subtipo UCI
+  934.4  354.5 - o 3. Cardiovascular
+  938.0  482.2 - o 2. No
+  976.2   22.4 B Correos: sivigila@ins.gov.co
+--- dibujos: 49 ---
+
+===== PAGINA 3 =====
+   54.8  155.3 B INSTRUCTIVO DILIGENCIAMIENTO FICHAS DE NOTIFICACIÓN DATOS COMPLEMENTARIOS
+   62.4  251.5 B Caracterización UPGD-UI
+   69.9  266.5 B Datos Básicos
+   85.3   98.3 B VARIABLE
+   85.3  292.8 B CATEGORÍAS Y DEFINICIÓN
+   85.8  497.4 B OBLIG.
+   94.1  247.6 B 1 INFORMACIÓN GENERAL
+  113.7  176.3 - Este código corresponde al mismo código de habilitación asignado por el Registro Especial de Prestadores de
+  121.2  176.3 - servicios de salud (REPS) y obedece a un estandar de 12 dígitos donde los 5 primeros relacionan el departamento y
+  128.6  176.3 - municipio donde esta adscrita la entidad, de la misma manera, los últimos dos dígitos representan la sede, donde
+  136.1  176.3 - "01" hace referencia a la sede principal.
+  143.5  176.3 - Para dar claridad sobre las particularidades y excepciones de este código, tenemos el ejemplo de un código de
+  150.9  176.3 - UPGD "110011234501":
+  158.5  176.3 B 11: Dos primeros dígitos identifican al Departamento/Distrio (códigos DANE)
+  166.1  176.3 B 001: Siguientes tres dígitos sumados a los dos primeros identifican el municipio
+  173.6  176.3 B 1: SEXTO dígito si es "7" identifica a una UPGD de la Policía Nacional. Si es "8" identifica una UPGD de fuerzas
+  181.1  176.3 - militares. Si es "9" se identifican unidades informadoras que no tienen código de habilitación, incluye ámbitos
+  188.5  176.3 - comunitarios, escolares. En los casos en los que la institución cuente con certificado de habilitación este código
+  192.2   52.2 B 1.1 Código del prestador
+  192.5  505.0 B SI
+  195.9  176.3 - corresponde al asignado en este registro.
+  203.5  176.3 B 2345: Los dígitos 7-8-9-10 son asignados por el Departamento- Municipios en caso de las unidades informadoras.
+  210.9  176.3 - Para los demás casos se incluye los número asignados en el certificado de habilitación para la institución.
+  218.5  176.3 B 01: Los últimos 2 dígitos identifican el subíndice (cuando existen varias sedes de la misma UPGD se conservan los
+  225.9  176.3 - 10 primeros  y estos siguientes identifican el número de la sede)
+  233.5  176.3 B PARA TENER EN CUENTA: Utilice los siguientes subíndices en estos casos. 80: identificar una UPGD del Ejército
+  240.9  176.3 - nacional; 81: identificar una UPGD de la Armada; 82: identificar una UPGD de la Fuerza aérea; 83: identificar a una
+  248.4  176.3 - UPGD del Hospital militar; 99: identificar a un establecimiento penitenciario y carcelario y 55 para un Entidad
+  255.8  176.3 - Administradora de Planes de Beneficio. Para caracterizar un establecimiento carcelario del INPEC en el 6-7-8 dígito
+  263.3  176.3 - se ingresa el código de identificación del ERON. En las cárceles a cargo de las Entidades Territoriales, estos
+  270.7  176.3 - códigos serán asignados por la UND. los dos siguientes dígitos (9-10) deben corresponder en todos los casos a 00.
+  293.1  176.3 - Ingrese la fecha en formato día-mes-año, del momento en que se realiza la caracterización de la UPGD o UI.
+  293.3   52.2 B 1.2 Fecha de caracterización
+  293.5  505.0 B SI
+  308.6  176.3 - Ingrese con letra clara y legible, el nombre de la UPGD o UI tal como  está registrado en el Registro de habilitación.
+  308.7   52.2 B 1.3 Razón social de la UPGD
+  309.0  505.0 B SI
+  320.5  176.3 - Ingrese el Número de identificación tributaria de la UPGD o UI, en caso que no lo tenga ingrese el mismo código de
+  324.2   52.2 B 1.4 Nit UPGD
+  324.5  505.0 B SI
+  327.9  176.3 - la UPGD
+  339.6  176.3 - Ingrese la dirección del sitio exacto de ubicación de la UPGD o UI.
+  339.7   52.2 B 1.5 Dirección de la UPGD
+  339.9  505.0 B SI
+  355.1  176.3 - Ingrese el nombre completo de la persona representante legal o de quien haga sus veces.
+  355.2   52.2 B 1.6 Representante legal de la UPGD
+  355.4  505.0 B SI
+  370.5  176.3 - Ingrese una dirección de correo electrónico donde se pueda contactar al representante legal en caso de requerirse.
+  370.7   52.2 B 1.7 Correo electrónico
+  370.9  505.0 B SI
+  382.4   52.2 B 1.8
+  382.4   67.4 B Nombre
+  382.4   97.0 B del
+  382.4  112.5 B responsable
+  382.4  155.0 B de
+  382.4  168.9 B la
+  382.4  176.3 - Ingrese los nombres completos de la persona que está asignada para realizar el ingreso en el software de los
+  386.4  505.0 B SI
+  389.9  176.3 - eventos objeto de vigilancia en salud pública.
+  390.0   52.2 B notificación
+  401.5  176.3 - Ingrese el número telefónico de la UPGD o UI, donde se pueda contactar al responsable de la notificación.
+  401.6   52.2 B 1.9 Teléfono de la UPGD
+  401.9  505.0 B SI
+  413.4  176.3 - Ingrese la fecha en formato día-mes-año, del momento en que la institución inició actividades de prestación de
+  417.1   52.2 B 1.10 Fecha de inicio de actividades
+  417.3  505.0 B SI
+  420.8  176.3 - servicios de salud.
+  432.5  176.3 - Marque con una X la opción según corresponda.
+  432.6   52.2 B 1.11 Naturaleza jurídica
+  432.8  505.0 B SI
+  448.4  176.3 - Marque con una X la opción según corresponda. Tenga en cuenta:
+  455.9  176.3 - Nivel I: Cuenta con los servicios de urgencias las 24 horas, además de consulta externa médica y odontológica,
+  463.3  176.3 - hospitalización y seguimiento a los problemas de salud que no exijan un tratamiento especializado.
+  470.7  176.3 - Nivel II: Atiende urgencias las 24 horas, cuenta con médicos generales y especializados que prestan atención
+  478.2  176.3 - médica y odontológica, y que realizan cirugías ambulatorias, se atienden partos de baja y mediana complejidad y
+  478.3   52.2 B 1.12 Nivel de complejidad
+  478.5  505.0 B SI
+  485.6  176.3 - enfermedades y problemas de salud intermedia, además, cuenta con laboratorio clínico e imágenes diagnósticas.
+  493.1  176.3 - Nivel III: Presta los servicios de urgencias las 24 horas del día y cuenta con médicos y odontólogos generales.
+  500.5  176.3 - Además, cubre todas las especialidades y sub especialidades como cardiología, neurología, gastroenterología,
+  507.9  176.3 - genética, imágenes diagnósticas, laboratorio y otras, atiende casos graves o de alta complejidad.
+  521.6  176.3 - Marque con una X, 1 = Si la institución se clasifican como UI - Unidad Informadora teniendo en cuenta que son
+  529.1   52.2 B 1.13 Que tipo de unidad notificadora es?
+  529.1  176.3 - prestadores que no captan eventos en Salud Pública semanalmente. Marque 2 = cuando la institución se clasifique
+  529.3  505.0 B SI
+  536.5  176.3 - como UPGD - Unidad Primaria Generadora de Datos, es decir que capte eventos semanalmente.
+  549.3  176.3 - Marque con una X, 1 = Abierta; si la institución se encuentra prestando servicios al momento de ser caracterizada en
+  553.2   52.2 B 1.14 Estado
+  553.4  505.0 B SI
+  556.8  176.3 - el sistema. 2 = Cerrada; cuando la institución no está prestando servicios al momento de ser caracterizada.
+  578.9  176.3 - Marque con una X, 1 = Si; cuando la institución haga la notificación Infecciones Asociadas a Dispositivos (IAD) o
+  582.6   52.2 B 1.15 ¿Notifica IAD?
+  586.3  176.3 - Infecciones Asociadas al Sitio Operatorio (ISO) o Consumo de Antibioticos en Ámbito Hospitalario (CAB).
+  590.1   52.2 B 1.16 ¿Notifica ISO?
+  590.4  505.0 B SI
+  593.7  176.3 - 2 = No; cuando la institución no notifique ni (IAD), ISO, CAB.
+  597.7   52.2 B 1.17 ¿Notifica CAB?
+  621.5  187.6 B 2. RECURSOS DISPONIBLES PARA LA VIGILANCIA EPIDEMIOLÓGICA
+  633.5  176.3 - Marque la opción según corresponda, en cada una de las variables mencionadas, donde se refleje las herramientas
+  637.2   52.2 B 2.1.1 a 2.1.10
+  637.4  505.0 B SI
+  640.9  176.3 - con las que cuenta la UPGD, y que le permiten realizar el proceso de vigilancia y notificación oportuna.
+  655.3  176.3 - Marque la opción según corresponda, el diligenciamiento de la opción 1:si, permite el ingreso de casos y será tenido
+  659.0   52.2 B ¿UPGD activa en el sistema?
+  659.3  505.0 B SI
+  662.7  176.3 - en cuenta en la generación de reportes de evaluación del cumplimiento en la notificación.
+  676.8  182.8 B 3. TALENTO HUMANO DISPONIBLE PARA VIGILANCIA EPIDEMIOLÓGICA
+  686.4  176.3 - Tenga en cuenta que los profesionales Médico General y Especialista reportarán las horas por día que laboran, en
+  693.8  176.3 - caso de tener mas de un profesional, hace la suma de las horas/dia que dedican a la atención en salud , teniendo en
+  697.5   52.2 B 3.1 a 3.11
+  697.8  505.0 B SI
+  701.3  176.3 - cuenta que en este espacio es posible la captación de eventos en Salud Pública. Los demás profesionales
+  708.7  176.3 - reportarán horas destinadas a vigilancia.
+--- dibujos: 3 ---
+
+===== PAGINA 4 =====
+   58.4   73.0 B 4. PRODUCCIÓN DE SERVICIOS DISPONIBLE PARA VIGILANCIA EPIDEMIOLÓGICA. Registre la cantidad de actividades realizadas en el periodo anual
+   66.0  157.9 B imnediatamente anterior o durante el tiempo de funcionamiento si este es menor a un año.
+   81.8   52.2 B 4.1 a 4.3
+   81.8  176.3 - Ingrese en números absolutos el total de actividades realizadas por servicio en el último año disponible.
+   82.1  505.0 B SI
+   96.2  244.4 B 5. ROLES POR INFORMACIÓN
+  114.1  176.3 - Son aquellas instituciones prestadoras de servicios de salud que han demostrado el cumplimiento de los requisitos
+  117.8   52.2 B 5.1
+  117.8   65.5 B ¿La institución es catalogada como
+  121.5  176.3 - establecidos en el parágrafo 2° del artículo 13 de la Ley 1164 de 2007 ante la Comisión Intersectorial para el Talento
+  121.8  505.0 B SI
+  125.4   52.2 B Hospital Universitario?
+  129.0  176.3 - Humano en Salud.
+  147.2   52.2 B 5.2 ¿Presta atención a usuarios afiliados
+  147.2  176.3 - Corresponden a usuarios afiliados al Fondo Nacional de prestaciones Sociales del magisterio, de servidores
+  151.3  505.0 B SI
+  154.7  176.3 - públicos de Ecopetrol así como los servidores públicos de universidades públicas
+  154.8   52.2 B al régimen de Excepción?
+  165.9  237.6 B 6. CAPACIDAD INSTALADA EN UCI
+  177.5   52.2 B 6.1 Total camas con las que cuenta la
+  177.5  176.3 - Escriba el total de las camas de todos los servicios de unidad de cuidados intensivos existente en la institución
+  181.5  502.4 B NO
+  184.9  176.3 - (Excluir servicio de urgencias)
+  185.0   52.2 B institución
+  197.3  226.6 B 7. DATOS DE LA VIGILANCIA DE LAS IAAS
+  209.1  176.3 - Preguntas de respuesta dicotómica SI/NO.
+  212.9   52.2 B 7.1 y 7.2
+  213.1  504.1 B SI
+  216.6  176.3 - Marque con una X la opción según corresponda.
+  228.3   52.2 B 7.3 ¿Cuántos brotes de IAAS se
+  232.1  176.3 - Variable numerica que indica los brotes de infecciones asociadas a la atención en salud .
+  235.9   52.2 B presentaron en el último año?
+  248.3  176.3 - Preguntas de respuesta dicotómica SI/NO
+  252.1   52.2 B 7.4 y 7.5
+  255.7  176.3 - Marque con una X la opción según corresponda.
+  267.5  155.9 B 8. DATOS DE LA VIGILANCIA DE LA RESISTENCIA BACTERIANA A LOS ANTIMICROBIANOS
+  278.1  176.3 - Preguntas de respuesta dicotómica SI/NO
+  281.9   52.2 B 8.1 y 8.1.1
+  282.1  505.0 B SI
+  285.6  176.3 - Marque con una X la opción según corresponda.
+  300.3   52.2 B 8.1.2 Ingrese el nombre de los
+  300.3  176.3 - En caso que el laboratorio de microbiología no sea propio de la institución prestadora de servicios de salud se debe
+  307.8  176.3 - diligenciar esta variable.
+  307.9   52.2 B laboratorios de microbiología contratados
+  330.3  176.3 - Preguntas de respuesta dicotómica SI/NO
+  337.8  176.3 - Marque con una X la opción según corresponda.
+  341.6   52.2 B 8.2 a 8.7
+  345.2  176.3 - En caso de que en la variable 8.4, digite "SI" se requiere que indique cual de los sistemas automatizados utiliza
+  352.7  176.3 - (Vitek, Microscan o Phoenix)en la pregunta 8.5.
+  369.6  220.7 B 9. ANÁLISIS Y DIFUSIÓN DE LA INFORMACIÓN
+  381.5  176.3 - Preguntas de respuesta dicotómica SI/NO
+  388.9  176.3 - Marque con una X la opción según corresponda.
+  392.7   52.2 B 9.1 a 9.6
+  393.0  505.0 B SI
+  396.3  176.3 - WHONET es un programa para el manejo de bases de datos y la administración de los resultados del laboratorio de
+  403.8  176.3 - microbiología.
+  415.2  185.6 B 10. DATOS DE LA  VIGILANCIA DE CONSUMO DE ANTIBIÓTICOS (CAB)
+  424.1  176.3 - Pregunta de selección única marque asi:
+  431.5   52.2 B 10.1 ¿Quien realiza la vigilancia de CAB,
+  431.5  176.3 - 1= Médico
+  435.6  505.0 B SI
+  438.9  176.3 - 2= Químico Farmaceútico
+  439.1   52.2 B en la UPGD?
+  446.4  176.3 - 3= Enfermera
+  456.7  126.2 B 11. DATOS DE LA  VIGILANCIA DE LAS INFECCIONES ASOCIADAS A PROCEDIMIENTOS MÉDICO QUIRÚRGICOS
+  472.1   52.2 B 11.1 a 11.5
+  472.1  176.3 - Respuesta dicotómica donde se debe indicar cuales de los procedimientos son realizados en la institución
+  472.3  505.0 B SI
+  486.5  220.8 B 12. CAPACIDAD INSTALADA SEGÚN TIPO UCI
+  501.5  176.3 - Es necesario indicar el tipo de Unidad de Cuidados Intensivos: A: UCI Adultos  P: UCI Pediatrico  N: UCI Neonatal.
+  508.7   52.2 B 12.1 Tipo UCI
+  508.9  176.3 - El usuario podrá caracterizar varias UCI según servicio prestado.
+  509.1  505.0 B SI
+  528.9  176.3 - Ingresar el número de camas disponibles según Unidad de Cuidados Intensivos seleccionada con anterioridad.
+  532.5   52.2 B 12.2.1-12.2.2-12.2.3
+  536.4  176.3 - Indicar el subtipo de UCI, si se trata de,  2: medico quirúrgica o 3:cardiovascular.
+  536.6  505.0 B SI
+  540.1   52.2 B Total camas con que cuenta la institución
+  558.5   52.2 B 12.3 Activa
+  558.6  176.3 - Indicar si las UCI seleccionadas se encuentran activas. Variable dicotómica
+  558.9  505.0 B SI
+--- dibujos: 4 ---

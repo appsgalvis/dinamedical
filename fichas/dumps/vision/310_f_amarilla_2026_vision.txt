@@ -1,0 +1,45 @@
+FICHA 310 — FIEBRE AMARILLA (INS 310), V:00 2026-08-06
+Páginas de preguntas: p1 (datos básicos), p2 (secciones 5-7 = catálogo). p3+ = instructivo.
+============================================================
+===== PÁGINA 2 (preguntas, lectura visual + texto extraído) =====
+
+5. ANTECEDENTES VACUNALES
+5.1 ¿Tiene carné de vacunación? — SELECT (círculo = única), NO oblig
+    1. Sí  2. No
+    Regla: activa 5.2 solo si = Sí (show_if 5.1 = '1')
+5.2 Vacuna fiebre amarilla — SELECT (círculo = única), NO oblig
+    1. Sí  2. No
+5.3 Fecha de aplicación (dd/mm/aaaa) — DATE, NO oblig, condicional (solo si 5.2 = 1)
+
+6. DATOS CLÍNICOS
+6.1 Hallazgos semiológicos — MULTIPLES (cuadrados q), NO oblig, 25 opciones
+    q 1. Fiebre  q 2. Mialgias  q 3. Artralgias  q 4. Cefalea  q 5. Vómito  q 6. Ictericia
+    q 7. S Faget  q 8. Oliguria  q 9. Choque por Shock  q 10. Bradicardia
+    q 11. Falla renal  q 12. Falla hepática  q 13. Hepatomegalia
+    grupo "Signos hemorrágicos": q 14. Hemoptisis  q 15. Hiperemia conjuntival  q 16. Hematemesis
+    q 17. Petequias  q 18. Metrorragia  q 19. Melenas  q 20. Equimosis  q 21. Epistaxis  q 22. Hematuria
+    grupo "Otros signos semiológicos": q 23. Dolor abdominal  q 24. Diarrea  q 25. Nauseas
+
+7. DATOS ESPECÍFICOS
+7.1 Caso fiebre amarilla — SELECT (círculo), NO oblig
+    El instructivo (p6) define: 1. Selvático  2. Urbano; la p2 imprime además "3. Desconocido".
+    Flag: p2 muestra "1. Sí / 2. No / 3. Desconocido" por reordenamiento de layout; se asume
+    que las opciones reales del campo son Selvático / Urbano / Desconocido (definición p6, única respuesta).
+7.1.1 Sitio probable de infección — TEXTO (País/Departamento/Municipio), NO oblig, condicional
+7.2 Familiar o conviviente con sintomatología similar en los últimos 15 días — SELECT sí/no, OBLIG
+    1. Sí  2. No
+    Criterio catálogo (p6, literal): "Variable obligatoria: marque la casilla únicamente si la
+    respuesta es SÍ. Si no la marca, el valor se registrará automáticamente como NO."
+7.3 Desplazamiento en los últimos 15 días — SELECT sí/no, OBLIG
+    1. Sí  2. No
+    Mismo criterio literal de obligatoriedad que 7.2.
+7.3.1 Sitio desplazamiento los últimos 15 días — TEXTO (país/depto/municipio/vereda), NO oblig,
+    condicional solo si 7.3 = 1.
+
+8. DATOS DE LABORATORIO — fuera del catálogo (se ingresa por módulo de laboratorios de SIVIGILA).
+
+===== DECISIÓN OBLIG (cerrada) =====
+El bloque OBLIG de la ficha cubre solo datos básicos (secciones 1-4). Para el catálogo (5-7),
+OBLIG SOLO desde criterios del catálogo: 7.2 y 7.3 = OBLIG. Resto NO oblig (incl. 5.1, 5.2, 5.3,
+6.1, 7.1, 7.1.1, 7.3.1). Nota: las fórmulas estándar "Diligencie la variable, de lo contrario el
+sistema no permitirá" aplican a datos básicos no a estos campos según la decisión cerrada.

@@ -1,0 +1,648 @@
+
+===== PAGINA 1 =====
+  125.8  242.0 - FOR-R02.4030-064 V:00 2026-08-06
+  164.9  245.6 B 1. INFORMACIÓN GENERAL
+  182.4   22.4 B 1.1 Código de la UPGD de ocurrencia del brote
+  182.4  270.5 B 1.2 Razón social de la UPGD de ocurrencia del brote
+  208.4   26.5 - Departamento
+  208.4   84.4 - Municipio
+  209.0  160.6 - Código
+  209.0  220.9 - Sub– Índice
+  217.6  206.7 B 1.4 Semana
+  218.2  355.4 B 1.6 Departamento/ Municipio  que
+  219.6  485.9 - Departamento
+  219.6  552.7 - Municipio
+  221.0   21.0 B 1.3 Fecha de Notificación (dd/mm/aaaa)
+  221.0  270.5 B 1.5 Año
+  226.0  206.7 B epidemiológica
+  226.6  355.4 B notifica
+  262.7  242.6 B 2. DESCRIPCIÓN DEL BROTE
+  280.8  148.6 B 2.2 Microorganismo
+  280.8  280.4 B 2.2.1 ¿Cuál otro microorganismo?
+  280.9   25.3 B 2.1 Tipo de microorganismo
+  280.9  416.4 B 2.3 Perfil de resistencia
+  288.2   90.5 - o 3. Viral
+  288.7   29.5 - o 1. Bacteriano
+  293.6  151.2 B TABLA DE REFERENCIA DE
+  297.8   90.5 - o 4. Parásito
+  297.9  428.5 B TABLA DE REFERENCIA DE PERFILES
+  298.3   29.5 - o 2. Fúngico
+  302.0  162.4 B MICROORGANISMOS
+  314.4   24.3 B 2.4 Gen KPC o 1. Si o 2. No
+  314.4  136.4 B 2.5 Gen NDM o 1. Si o 2. No
+  315.0  245.9 B 2.6 Gen VIM o 1. Si o 2. No
+  315.0  352.5 B 2.7 Gen IMP o 1. Si o 2. No
+  315.0  456.2 B 2.8 Gen OXA48 o 1. Si o 2. No
+  328.3   24.5 B 2.9 Gen no determinado o 1. Si o 2. No
+  329.1  253.8 - o 1. Si o 2. No
+  329.1  393.8 B o 1. Si o 2. No 2.11.1 ¿Cuál otro gen?
+  332.4  177.6 B 2.10 Gen en estudio
+  332.4  328.3 B 2.11 Otro gen
+  347.0  234.1 B 3. ANTECEDENETES DEL BROTE
+  363.9  419.3 B 3.3 Fecha del último caso (dd/mm/aaaa)
+  364.6  225.1 B 3.2 Fecha de identificación del brote (dd/mm/aaaa)
+  365.1   22.4 B 3.1 Fecha de inicio del brote (dd/mm/aaaa)
+  395.8  429.2 - q Aumento inusitado de casos.
+  398.3   22.4 B 3.4 Días transcurridos
+  398.6  107.1 B 3.5 Estado del brote
+  398.6  202.4 B 3.6 Fecha de cierre del brote (dd/mm/aaaa)
+  404.4  383.6 B 3.7 Brote
+  407.2  429.2 - q Nuevo aislamiento del microorganismo en la IPS.
+  407.5  106.1 - o 1. Abierto o 2. Cerrado
+  412.8  378.4 B configurado
+  418.5  429.2 - q Cambio de perfil de resistencia de un microorganismo.
+  421.2  393.0 B por
+  437.7  361.2 B 3.8.1 Número de
+  437.7  484.5 B 3.8.2 Número de
+  438.2  124.5 - o 1. Pacientes o 2. Trabajadores de la salud
+  438.2  291.7 - o 3. Ambos
+  440.7   23.9 B 3.8 Brote presentado en
+  444.9  361.2 B pacientes
+  444.9  484.5 B trabajadores
+  456.4  257.1 B 4. TIPO DE INFECCIÓN
+  471.6  483.8 - q Posible contaminación de agua
+  472.1   32.6 B 4.1 Brote asociado a
+  472.6  283.8 B 4.2 Hipótesis de contagio
+  477.7  159.9 - q Enfermedades gastrointestinales
+  478.2   23.8 - q Infecciones asociadas a dispositivos -
+  480.6  283.2 - q Fallas en higiene de manos
+  481.2  483.8 - q Enfermedad Transmitida por
+  487.3  159.9 - q Infección respiratoria aguda –
+  489.6   41.8 - IAD
+  490.2  283.2 - q Fallas en procesos de limpieza y desinfección de áreas o
+  492.5  501.8 - Alimentos
+  492.6   23.8 - q Infecciones asociadas a procedimientos
+  495.6  483.8 - q Uso inadecuado de EPP
+  498.7  177.9 - IRA
+  501.6  301.2 - superficies
+  501.7  159.9 - q Otros
+  504.0   41.8 - médico-quirúrgicos – IAPMQ
+  504.6  283.2 - q Asociación a medicamentos, soluciones o desinfectantes
+  505.2  483.8 - q Otro
+  507.0   23.8 - q Medicamentos o insumos
+  516.0  301.2 - posiblemente contaminados
+  519.0  283.2 - q Fallas en procesos de aislamiento y cohortización de pacientes
+  521.5  483.1 B 4.2.1 ¿Cuál otro?
+  524.3   32.4 B 4.1.1 ¿Cuál otro?
+  539.6  228.9 B 5.  CARACTERIZACIÓN DEL BROTE
+  557.8  181.5 B 5.3 Número de muertes asociadas
+  558.1   19.9 B 5.1 Número total de infectados
+  562.1  359.3 B 5.5 Casos colonizados
+  562.1  494.7 B 5.7 Letalidad
+  576.3  359.7 B 5.6 Mortalidad
+  576.5   20.1 B 5.2 Número total de expuestos
+  578.0  182.4 B 5.4 Número de muertes atribuidas
+  579.1  494.0 B 5.8 Tasa de ataque
+  592.8   27.5 B 5.9 Servicio de atención
+  595.8  112.2 B Infectados
+  595.8  285.1 B Infectados
+  596.5  155.2 B Expuestos
+  596.5  328.1 B Expuestos
+  600.0   23.5 B donde se presenta el brote
+  602.5  419.0 B LISTADO DE SERVICIOS (HAGA
+  604.7  369.6 - q Otros
+  606.2  197.1 - q UCI Intermedia Neonatal
+  610.7   23.8 - q UCI Intensiva Adultos
+  610.9  418.8 B CLIC PARA SELECCIONARLOS)
+  626.0  198.0 - q UCI básica Neonatal
+  626.7   23.8 - q UCI Intensiva Pediátrica
+  633.0  368.1 B 5.9.1 Número total de infectados otros servicios
+  643.0  198.0 - q Hospitalización Adultos
+  645.1   23.8 - q UCI Intensiva Neonatal
+  652.8  368.3 B 5.9.2 Número total de expuestos otros servicios
+  661.2  198.0 - q Sala de Maternidad
+  662.1   23.8 - q UCI Intermedia Adultos
+  669.8  368.5 B 5.9.3 Tasa de ataque
+  678.2  198.1 - q Hospitalización Pediátrica
+  679.2   23.8 - q UCI Intermedia Pediátrica
+  686.8  368.7 B 5.9.4 Número de infecciones
+  702.0  233.8 B Cantidad
+  704.8  272.4 B 5.11 Número de muestras
+  705.1   26.7 B 5.10 Tipos de infección
+  706.7  508.0 B Infectados
+  706.8  437.7 B 5.12. Grupos de edad
+  719.2  434.9 - 5.12.1 Menores a 1 año
+  719.4   23.8 B 5.10.1 LISTADO DE TIPOS DE INFECCIÓN
+  721.4  279.3 B 5.12 Tipos de muestras
+  721.4  385.8 B Cantidad
+  731.9  435.4 - 5.12.2 1 a 5 años
+  733.2   23.8 B 5.10.2 LISTADO DE TIPOS DE INFECCIÓN
+  734.2  275.3 B 5.12.1 LISTADO DE TIPOS
+  743.8  275.3 B DE MUESTRAS
+  744.6  435.9 - 5.12.3 6-11 años
+  745.9   23.4 B 5.10.3 LISTADO DE TIPOS DE INFECCIÓN
+  754.1  274.5 B 5.12.2 LISTADO DE TIPOS DE
+  758.7   22.6 B 5.10.4 LISTADO DE TIPOS DE INFECCIÓN
+  758.8  435.4 - 5.12.4 12-17 años
+  763.7  274.5 B MUESTRAS
+  772.2  436.3 - 5.12.5 18-28 años
+  773.0   23.8 B 5.7.5 LISTADO DE TIPOS DE INFECCIÓN
+  773.9  274.5 B 5.12.3 LISTADO DE TIPOS DE
+  783.5  274.5 B MUESTRAS
+  785.0  436.3 - 5.12.6 29-59 años
+  791.6   18.2 - q 5.7.6. Otro tipo
+  793.7  274.2 B 5.12.4 LISTADO DE TIPOS DE
+  799.2  435.9 - 5.12.7. >=60 años
+  803.3  274.2 B MUESTRAS
+  812.7  436.4 B 5.13. Número total de hombres
+  819.0   21.4 B 5.7.6.1 ¿Cuál otro?
+  819.3  274.5 B 5.12.5 LISTADO DE TIPOS DE
+  828.9  274.5 B MUESTRAS
+  832.6  436.5 B 5.14 Número de mujeres
+  853.6  241.7 B 6. DATOS DE LABORATORIO
+  875.1   29.5 B 6.1 Fecha envío
+  893.3  256.2 B 7. DILIGENCIAMIENTO
+  914.8   22.4 B 7.1. Nombre del profesional que diligenció la ficha
+  914.8  405.1 B 7.2. Teléfono
+  928.1   18.2 B Correo: sivigila@ins.gov.co
+--- dibujos: 194 ---
+
+===== PAGINA 2 =====
+   63.5  157.5 B INSTRUCTIVO DILIGENCIAMIENTO FICHAS DE NOTIFICACIÓN DATOS COLECTIVOS
+   72.1  182.7 B BROTES DE INFECCIONES ASOCIADAS A LA ATENCIÓN EN SALUD
+   80.7  247.1 B CÓDIGO INS: Código INS 957
+  111.2  558.8 B OB
+  117.9   56.7 B VARIABLE
+  117.9  214.5 B CATEGORÍAS Y DEFINICIÓN
+  117.9  438.8 B CRITERIOS SISTEMATIZACIÓN
+  119.7  557.3 B LIG.
+  133.7  241.2 B 1. Información General
+  148.8  392.9 - Diligencie la variable, de lo contrario el sistema no
+  155.4  129.6 - Ingrese el código de la UPGD que va a notificar que le fue asignado en el Sivigila
+  155.6   19.9 B 1.1. Código UPGD
+  155.8  392.9 B permitirá continuar con el ingreso de la información. SI
+  178.1  392.9 - Diligencie la variable, de lo contrario el sistema no
+  184.7  129.6 - Ingrese el nombre de la UPGD que va a notificar
+  184.8   19.9 B 1.2. Razón social de la UPGD
+  185.1  392.9 B permitirá continuar con el ingreso de la información. SI
+  209.1  392.9 - Diligencie la variable, de lo contrario el sistema no
+  212.0  129.6 - Ingrese la fecha en que se realiza la notificación, en formato día-mes-año ( dd-mm-
+  215.8   19.9 B 1.3. Fecha notificación
+  216.0  392.9 B permitirá continuar con el ingreso de la información. SI
+  219.4  129.6 - aaaa )
+  241.4  128.4 - Semana epidemiológica según calendario vigente (1–53). El sistema la calcula
+  241.9   19.9 B 1.4. Semana
+  244.6  392.9 - Cálculo automático.
+  247.4  556.0 B SI
+  248.8  128.4 - automáticamente a partir de la fecha de notificación.
+  275.0  391.7 - Cálculo automático.
+  277.4  129.6 - Año extraído de la fecha de notificación.
+  277.5   19.9 B 1.5 Año
+  277.7  556.0 B SI
+  298.5  128.4 - Esta variable se calcula automáticamente en la ficha de notificación, ejemplo:
+  303.9   18.6 B 1.6 País
+  305.1  391.7 - Variable diligenciada automáticamente.
+  309.2  128.4 B 170 Colombia (COL)
+  309.8  555.6 B SI
+  330.2  128.4 - Ingrese código o pulse TAB para consultar. Tomar los primeros 2 dígitos del código de la
+  331.0  391.7 - Diligencie la variable, de lo contrario el sistema no
+  333.9   18.6 B 1.7 Departamento
+  334.3  555.6 B SI
+  337.6  128.4 - UPGD que corresponden al código DANE del departamento.
+  339.4  391.7 - permitirá continuar con el ingreso de la información.
+  360.3  128.4 - Tomar los primeros 5 dígitos del código de la UPGD que corresponden al código Divipola
+  361.1  391.7 - Diligencie la variable, de lo contrario el sistema no
+  364.0   18.6 B 1.8 Municipio ocurrencia
+  364.4  555.6 B SI
+  367.7  128.4 - según fuente DANE.
+  369.5  391.7 - permitirá continuar con el ingreso de la información.
+  386.7  128.4 - Para el registro inicial (Sitrep inicial), la fecha de ajuste se encuentra inhabilitada. Se
+  388.7   18.6 B 1.9 Ajuste
+  394.1  128.4 - encuentran disponibles ajustes: 7- Otro ajuste y ajuste 6- Descarte por error de digitación.
+  394.4  555.6 B NO
+  395.3  391.7 - Diligencie la variable, cuando aplique.
+  401.6  128.4 - Se diligencia al ingresar la información del Sitrep de seguimiento.
+  424.3   18.6 B 1.10 Fecha de ajuste
+  424.3  128.4 - Fecha guardada en el sistema de la última actualización, al guardar se toma del sistema
+  424.5  555.6 B NO
+  425.5  391.7 - Diligencie la variable, cuando aplique.
+  444.8  225.6 B 2. Descripción del brote
+  466.2  129.6 - Seleccione el tipo de microorganismo, ejemplo: 1= Bacteriano, 2= Fúngico, 3= Viral,
+  466.2  392.9 - Diligencie la variable, de lo contrario el sistema no
+  466.3   19.9 B 2.1. Tipo de
+  473.1  392.9 B permitirá continuar con el ingreso de la información. SI
+  474.6  129.6 - 4= Parásito.
+  474.9   19.9 B microorganismo
+  491.4  129.6 - Seleccione el microorganismo asociado al brote de acuerdo con la tabla de
+  499.8  129.6 - referencia. Si el agente causal no se encuentra en el listado, seleccione la opción
+  499.8  392.9 - Diligencie la variable, de lo contrario el sistema no
+  502.3   19.9 B 2.2. Microorganismo
+  506.7  392.9 B permitirá continuar con el ingreso de la información. SI
+  508.2  129.6 - "Otro" y registre manualmente el nombre del microorganismo, indicando el género y
+  516.4  129.6 - la especie.
+  535.3  129.6 - Seleccione el grupo de la resistencia antimicrobiana identificada según tabla de
+  537.6  392.9 - Diligencie la variable, cuando aplique.
+  538.2   19.9 B 2.3. Perfil de resistencia
+  543.7  129.6 - referencia.
+  544.3  556.0 B NO
+  568.4  129.6 - Seleccione si se identificó un gen de resistencia asociado al microorganismo. Registre
+  571.3   19.9 B 2.4. Gen KPC
+  571.3  391.7 B Diligencie la variable, cuando aplique.
+  573.7  555.6 B NO
+  576.8  129.6 - "1" para Sí y "2" para No.
+  601.6  129.6 - Seleccione si se identificó un gen de resistencia asociado al microorganismo. Registre
+  604.3  391.7 B Diligencie la variable, cuando aplique.
+  604.4   19.9 B 2.5. Gen NDM
+  606.7  555.6 B NO
+  609.8  129.6 - "1" para Sí y "2" para No.
+  634.6  129.6 - Seleccione si se identificó un gen de resistencia asociado al microorganismo. Registre
+  637.4  391.7 B Diligencie la variable, cuando aplique.
+  637.6   19.9 B 2.6. Gen VIM
+  639.8  555.6 B NO
+  643.0  129.6 - "1" para Sí y "2" para No.
+  667.7  129.6 - Seleccione si se identificó un gen de resistencia asociado al microorganismo. Registre
+  670.6  391.7 B Diligencie la variable, cuando aplique.
+  670.7   19.9 B 2.7. Gen IMP
+  673.0  555.6 B NO
+  676.1  129.6 - "1" para Sí y "2" para No.
+  700.8  129.6 - Seleccione si se identificó un gen de resistencia asociado al microorganismo. Registre
+  703.7  391.7 B Diligencie la variable, cuando aplique.
+  703.8   19.9 B 2.8. Gen OXA48
+  706.1  555.6 B NO
+  709.2  129.6 - "1" para Sí y "2" para No.
+  733.9  129.6 - Seleccione si se identificó un gen de resistencia asociado al microorganismo. Registre
+  736.8   19.9 B 2.9. Gen no determinado
+  736.8  391.7 B Diligencie la variable, cuando aplique.
+  739.2  555.6 B NO
+  742.3  129.6 - "1" para Sí y "2" para No.
+  766.0   19.9 B 2.10. Gen en estudio
+  767.1  129.6 - Seleccione si se identificó un gen de resistencia asociado al microorganismo. Registre
+  769.9  391.7 B Diligencie la variable, cuando aplique.
+  772.3  555.6 B NO
+  775.5  129.6 - "1" para Sí y "2" para No.
+  800.2  129.6 - Si el gen de resistencia identificado no se encuentra en el listado, seleccione la opción
+  802.9  391.7 B Diligencie la variable, cuando aplique.
+  803.1   19.9 B 2.11. Otro gen
+  805.3  555.6 B NO
+  808.5  129.6 - "Otro" y registre manualmente el nombre del gen en el campo correspondiente.
+--- dibujos: 360 ---
+
+===== PAGINA 3 =====
+   63.5  157.5 B INSTRUCTIVO DILIGENCIAMIENTO FICHAS DE NOTIFICACIÓN DATOS COLECTIVOS
+   72.1  182.7 B BROTES DE INFECCIONES ASOCIADAS A LA ATENCIÓN EN SALUD
+   80.7  247.1 B CÓDIGO INS: Código INS 957
+  101.0  232.4 B 3. Fechas de ocurrencia del brote
+  114.3  129.6 B Fecha inicio del brote (dd/mm/aaaa). Corresponde al inicio de síntomas del primer
+  122.7  129.6 - caso identificado. La fecha de inicio de síntomas del caso índice (o caso primario en caso
+  125.0  392.9 - Diligencie la variable, de lo contrario el sistema no
+  126.9   19.9 B 3.1. Fecha inicio
+  131.1  129.6 - de ser detectado) determina la fecha de inicio del brote.
+  131.9  392.9 B permitirá continuar con el ingreso de la información. SI
+  153.0  129.6 B Fecha identificación del brote (dd/mm/aaaa). Se sugiere registrar esta variable
+  161.4  129.6 - evaluando dos aspectos:
+  169.7  129.6 B Información relacionada a pacientes o personal de salud: la fecha exacta en la que se
+  178.1  129.6 - sospechó del brote. Ejemplos: fecha de inicio de síntomas, fecha de toma de muestra,
+  186.5   19.9 B 3.2. Fecha identificación
+  186.5  129.6 - fecha de resultado de cultivo.
+  186.5  392.9 - Diligencie la variable, de lo contrario el sistema no
+  193.4  392.9 B permitirá continuar con el ingreso de la información. SI
+  194.8  129.6 B Información relacionada a comportamiento inusual: aumento en el número de casos
+  203.2  129.6 - en un servicio (p ej. UCI, Hospitalización, entre otros) relacionados a IAD, IAPMQ,
+  211.5  129.6 - enfermedades transmisibles, enfermedades transmitidas por alimentos, aumento en el
+  219.9  129.6 - uso o consumo de antibióticos.
+  244.6  129.6 B Fecha del último caso (dd/mm/aaaa). Diligencie la variable, de acuerdo con, la fecha
+  248.3   19.9 B 3.3. Fecha último caso
+  250.9  392.9 - Diligencie la variable, de lo contrario el sistema no
+  253.0  129.6 - de inicio de síntomas del último caso identificado.
+  257.8  392.9 B permitirá continuar con el ingreso de la información. SI
+  296.8  128.4 - Número de días entre la fecha del último caso y la fecha actual (para fichas abiertas).
+  298.5  391.7 - Cálculo automático
+  302.5   19.9 B 3.4. Días transcurridos
+  305.2  128.4 - Para fichas cerradas, corresponde a los días entre el último caso y la fecha de cierre.
+  309.7  556.0 B NO
+  350.9  128.4 - Se debe seleccionar estado actual del brote, ejemplo: abierto, cerrado. Debe ser
+  356.1  391.7 - Diligencie la variable, de lo contrario el sistema no
+  359.3  128.4 - superior a la fecha del último caso
+  361.5   19.9 B 3.5. Estado del brote
+  362.3  555.6 B SI
+  363.7  391.7 B permitirá continuar con el ingreso de la información.
+  398.0  128.4 - Fecha de cierre del brote (dd/mm/aaaa). Diligencie la variable cuando sea seleccionado
+  406.4  128.4 - estado del brote: cerrado. La fecha debe ser superior a la fecha de último caso.
+  406.6  555.6 B NO
+  410.4  391.7 B Diligencie la variable, cuando aplique.
+  411.0   19.9 B 3.6. Fecha cierre
+  443.7  128.4 - Aumento de IAAS, asociadas o no a la identificación de microorganismos, en casos que
+  452.1  128.4 - cumplen criterios epidemiológicos de tiempo, lugar y persona.
+  466.2  128.4 - Nuevo aislamiento. Seleccione este criterio si el brote se configura por: Primer
+  468.3  391.7 - Seleccione la opción que corresponda, de acuerdo con
+  474.6  128.4 - aislamiento del microorganismo en la UPGD.
+  475.8  391.7 - la configuración del brote y el criterio de notificación.
+  475.8  555.6 B SI
+  476.4   19.9 B 3.7. Brote configurado por
+  488.7  128.4 - Cambio de perfil de resistencia de un microorganismo a los antimicrobianos. Seleccione
+  497.1  128.4 - este criterio si el brote se configura en un determinado microorganismo, detectado en
+  505.4  128.4 - la institución de salud.
+  521.6  391.7 - Si selecciona la variable 1=Pacientes solo se habilitará
+  529.0  391.7 - el campo siguiente # pacientes
+  543.8  391.7 - Si selecciona la variable 2=Trabajadores solo se
+  550.9  128.4 - Brote presentado en:
+  551.2  391.7 - habilitará el campo siguiente # trabajadores
+  564.9  128.4 - Seleccione la variable que aplique, ejemplo: 1=Pacientes, 2=Trabajadores, 3=Ambos.
+  565.9  391.7 - Si selecciona la variable 3=Ambos se habilitarán los dos
+  566.7   19.9 B 3.8. Presentado en
+  572.2  555.6 B SI
+  573.3  391.7 - campos siguientes # pacientes y # trabajadores
+  579.1  128.4 - Se debe digitar el número de casos desagregado por grupo seleccionado.
+  595.6  391.7 - Seleccione y diligencie las variables, de lo contrario el
+  603.0  391.7 - sistema no permitirá continuar con el ingreso de la
+  610.6  391.7 B información.
+  618.7  254.8 B 4. Tipo de infección
+  637.0  128.4 - Seleccione la variable que aplique, ejemplo: IAD, IAMPQ, Medicamentos o Insumos,
+  645.4  128.4 - Enfermedad Gastrointestinal, Enfermedad por IRA, otro cuando aplique (permite digitar
+  649.7   19.9 B 4.1. Brote asociado a
+  653.8  128.4 - manual).
+  657.1  391.7 - Seleccione la variable, de lo contrario el sistema no
+  659.6  555.6 B SI
+  664.6  391.7 B permitirá continuar con el ingreso de la información.
+  667.8  128.4 - Puede seleccionar varias variables a la vez.
+  683.5  128.4 - Seleccione la variable que aplique, ejemplo: 1=Fallas en higiene de manos, 2=Fallas en
+  688.2  391.7 - Si la hipótesis de contagio no se encuentra dentro de la
+  695.8  391.7 - lista desplegable o se sospeche de más de una
+  697.0  128.4 - procesos de limpieza y desinfección de áreas o superficies, 3=Asociación a
+  703.2  391.7 - hipótesis diligencie el campo 8=Otra para habilitar el
+  705.4  128.4 - medicamentos, soluciones o desinfectantes posiblemente contaminados, 4=Fallas en
+  706.7   19.9 B 4.2. Hipótesis contag.
+  710.6  391.7 - campo siguiente Otra
+  713.8  128.4 - procesos de aislamiento y cohortización de paciente, 5=Posible contaminación de agua,
+  716.6  555.6 B SI
+  722.0  128.4 - 6=Enfermedad Transmitida por Alimentos, 7=Uso inadecuado de EPP, 8=Otra cuando
+  725.4  391.7 - Seleccione la variable, de lo contrario el sistema no
+  730.4  128.4 - aplique (permite digitar manual).  En otra amplíe la hipótesis seleccionada.
+  732.8  391.7 B permitirá continuar con el ingreso de la información.
+  748.2  391.7 - Si la hipótesis de contagio no se encuentra dentro de la
+  755.8  391.7 - lista desplegable o se sospeche de más de una
+  763.2  391.7 - hipótesis diligencie el campo 8=Otra para habilitar el
+  770.7  391.7 - campo siguiente Otra
+  771.6  128.4 - Este campo se habilitará si se selecciona la variable 8=Otra dentro de la lista
+  773.1   19.9 B 4.3. Otra
+  780.0  128.4 B desplegable de la variable anterior Hipótesis contag. Amplíe la hipótesis seleccionada.
+  783.0  555.6 B SI
+  785.4  391.7 - Seleccione la variable, de lo contrario el sistema no
+  792.9  391.7 - permitirá continuar con el ingreso de la información.
+  813.7  242.1 B 5. Caracterización del brote
+--- dibujos: 200 ---
+
+===== PAGINA 4 =====
+   63.5  157.5 B INSTRUCTIVO DILIGENCIAMIENTO FICHAS DE NOTIFICACIÓN DATOS COLECTIVOS
+   72.1  182.7 B BROTES DE INFECCIONES ASOCIADAS A LA ATENCIÓN EN SALUD
+   80.7  247.1 B CÓDIGO INS: Código INS 957
+  118.1  128.4 - Número total de infectados. Número total de casos, (uno o más) con signos y síntomas
+  123.8   19.9 B 5.1. Total infectados
+  123.9  391.7 - Cálculo automático, a partir de los datos numéricos
+  126.5  128.4 - que cumplen los criterios clínicos y epidemiológicos, pueden ser confirmados por clínica
+  131.3  391.7 B registrados en # pacientes y # trabajadores.
+  133.7  555.6 B SI
+  134.9  128.4 - o por laboratorio, con inicio durante su estancia hospitalaria.
+  163.2  129.6 - Número total de expuestos. Número total de pacientes, personal de salud, familiares, que
+  171.6  129.6 - han compartido el mismo espacio físico con un caso durante el período del brote (es
+  173.2   19.9 B 5.2. Total expuestos
+  177.9  391.7 - Diligencie la variable, de lo contrario el sistema no
+  180.0  129.6 B importante considerar los períodos de incubación y de transmisibilidad de cada agente
+  185.4  391.7 B permitirá continuar con el ingreso de la información.
+  187.8  555.6 B SI
+  188.3  129.6 - etiológico). Se cuentan desde el inicio del brote hasta la fecha de inicio de síntomas del
+  196.7  129.6 - último caso relacionado al brote.
+  213.8  129.6 - Número de muertes asociadas. Muerte asociada: todo caso de muerte ocurrida durante el
+  222.2  129.6 - periodo de brote en una institución prestadora de servicios de salud (IPS), en un paciente
+  230.6  129.6 - con infección adquirida durante la atención y vinculada epidemiológicamente al brote en
+  235.4   19.9 B 5.3. # Muertes asoc.
+  238.8  129.6 - investigación, que haya contribuido de manera directa o indirecta al desenlace fatal. Estas
+  242.9  391.7 - Diligencie la variable, de lo contrario el sistema no
+  245.5  555.6 B SI
+  247.3  129.6 - muertes deberán clasificarse como atribuibles o no atribuibles al brote.
+  250.4  391.7 B permitirá continuar con el ingreso de la información.
+  275.0  129.6 - Número de muertes atribuibles. Muerte atribuible: todo caso de muerte que se presente
+  283.4  129.6 - durante el periodo del brote en una IPS, en un paciente con infección asociada a la
+  291.7  129.6 - atención en salud (IAAS) causante del brote, establecida como causa de muerte, con
+  300.1  129.6 - cualquiera de las siguientes condiciones:
+  312.8  129.6 - - Sin tratamiento instaurado para el microorganismo aislado/diagnóstico clínico al
+  313.6   19.9 B 5.4. # Muert. Atribuibles
+  321.1  391.7 - Diligencie la variable, de lo contrario el sistema no
+  321.2  129.6 - momento de la muerte.
+  323.6  555.6 B SI
+  328.5  391.7 B permitirá continuar con el ingreso de la información.
+  334.0  129.6 - - Con tratamiento instaurado sin modulación del proceso infeccioso en el momento de la
+  342.4  129.6 - muerte.
+  371.5  128.4 - Casos colonizados. Colonizado: caso sin signos y síntomas pero que cumple los
+  379.9  128.4 - criterios epidemiológicos, confirmado por laboratorio, con inicio durante la
+  388.1  128.4 - hospitalización. Es importante considerar que un paciente colonizado por un
+  389.5   19.9 B 5.5. # casos coloniz.
+  396.5  128.4 - microorganismo puede actuar como fuente de transmisión, posiblemente habiéndose
+  396.9  391.7 - Diligencie la variable, de lo contrario el sistema no
+  399.5  555.6 B SI
+  404.5  391.7 B permitirá continuar con el ingreso de la información.
+  404.8  128.4 - colonizado dentro de la institución de salud y en cualquier momento podría evolucionar a
+  413.2  128.4 - una infección activa.
+  433.8  129.7 B Este indicador se calcula automáticamente con los datos consignados en la variable #
+  442.4  129.7 B Muertes asoc. (numerador) y la variable Total infectados (denominador). Multiplicado
+  444.9   19.9 B 5.6. Mortalidad
+  445.0  391.7 - Esta variable no se diligencia. Se calcula
+  448.9  555.6 B NO
+  451.0  129.7 B por 100.
+  452.5  391.7 B automáticamente.
+  483.2  129.7 B Este indicador se calcula automáticamente con los datos consignados en la variable #
+  491.8  129.7 B Muert. Atribuibles (numerador) y la variable Total infectados (denominador).
+  498.9   19.9 B 5.7. Letalidad
+  499.0  391.7 - Esta variable no se diligencia. Se calcula
+  500.5  129.7 B Multiplicado por 100.
+  506.6  391.7 B automáticamente.
+  509.0  555.6 B NO
+  537.3  129.7 B Este indicador se calcula automáticamente con los datos consignados en la variable Total
+  546.0  129.7 B infectados (numerador) y la variable Total expuestos (denominador). Multiplicado por
+  548.5   19.9 B 5.8. Tasa de ataque
+  553.2  391.7 - Esta variable no se diligencia. Se calcula
+  554.6  129.7 B 100.
+  560.7  391.7 B automáticamente.
+  563.1  555.6 B NO
+  590.4  128.4 - Servicios de atención donde se presenta el brote. Seleccione la variable que aplique,
+  598.8  128.4 - ejemplo: UCI Intensiva Adultos, UCI Intensiva Pediátrica, UCI Intensiva Neonatal, UCI
+  598.8  391.7 - La sumatoria de los Infectados debe coincidir con el
+  607.2  128.4 - Intermedia Adultos, UCI Intermedia Pediátrica, UCI Intermedia Neonatal, UCI básica
+  607.2  391.7 B número registrado en la variable Total infectados
+  615.5  128.4 - neonatal, Hospitalización Adultos, Sala de Maternidad, Hospitalización Pediátrica, Otros
+  621.2  391.7 - La sumatoria de los Expuestos debe coincidir con el
+  623.9  128.4 - servicios cuando aplique.
+  629.5   19.9 B 5.9. Servicios donde ocurrió el
+  629.6  391.7 B número registrado en la variable Total expuestos
+  637.9  128.4 - Se debe digitar manualmente el número de infectados y expuestos desagregado por
+  638.2   19.9 B brote
+  643.8  391.7 - Si los valores no coinciden el sistema no permitirá
+  643.9  555.6 B SI
+  646.3  128.4 - servicio para obtener de manera automática la tasa de ataque individualizada por tipo de
+  652.1  391.7 - realizar el registro exitoso.
+  654.7  128.4 - servicio relacionado a la situación del brote.
+  666.2  391.7 - La variable Tasa no se diligencia se calcula
+  674.6  391.7 B automáticamente .
+  697.8  391.7 - La sumatoria de los Infectados debe coincidir con el
+  706.2  391.7 B número registrado en la variable Total infectados
+  720.4  391.7 - La sumatoria de los Expuestos debe coincidir con el
+  728.8  391.7 B número registrado en la variable Total expuestos
+  731.4  128.4 - Al seleccionar Otro servicio, le permitirá seleccionar de la lista desplegable un servicio
+  732.7   19.9 B 5.10. Otros servicios
+  739.8  128.4 - que no se encuentra en el listado anterior.
+  742.8  391.7 - Si los valores no coinciden el sistema no permitirá
+  742.8  555.6 B SI
+  751.2  391.7 - realizar el registro exitoso.
+  766.7  391.7 - La variable Tasa no se diligencia se calcula
+  774.1  391.7 B automáticamente .
+--- dibujos: 154 ---
+
+===== PAGINA 5 =====
+   63.5  157.5 B INSTRUCTIVO DILIGENCIAMIENTO FICHAS DE NOTIFICACIÓN DATOS COLECTIVOS
+   72.1  182.7 B BROTES DE INFECCIONES ASOCIADAS A LA ATENCIÓN EN SALUD
+   80.7  247.1 B CÓDIGO INS: Código INS 957
+  108.3  391.7 - Al diligenciar esta variable se activarán el número de
+  115.7  391.7 B campos que seleccione en la variable siguiente Tipos
+  123.2  391.7 B de infección. Se debe tener identificado el número
+  125.3  128.4 - Inicialmente se debe registrar el número total de infecciones que se identificaron en el
+  126.6   19.9 B 5.11. # infecciones
+  130.6  391.7 - total de infecciones asociadas al brote.
+  133.7  128.4 - servicio o en los servicios involucrados. Se permite un máximo número de 5 registros.
+  136.7  555.6 B SI
+  145.4  391.7 - Diligencie la variable, de lo contrario el sistema no
+  152.8  391.7 B permitirá continuar con el ingreso de la información.
+  168.3  391.7 - Este campo solo se activará si diligencia la variable
+  175.7  391.7 B anterior # infecciones: permite máximo 5 campos.
+  184.8  128.4 B Se activarán los campos que se digiten en la variable anterior # infecciones. El tipo de
+  190.4   19.9 B 5.12. Tipos de infección
+  190.4  391.7 - Cuando se trate de 2 o más tipos de infecciones,
+  190.6  555.6 B SI
+  193.2  128.4 - infección ejemplo ITS- AC: si es único tipo de infección se deberá seleccionar 1 en #
+  197.8  391.7 - ejemplo: ITS- AC, ISTU- AC, IAMPQ, debe
+  201.5  128.4 - infecciones y describir la cantidad de infectados en la variable posterior.
+  205.4  391.7 - corresponder al número inicial diligenciado en el campo
+  212.8  391.7 B anterior # infecciones de lo contrario el sistema no
+  220.2  391.7 - permitirá continuar con el ingreso de la información
+  238.4  128.4 - Registrar el número de pacientes que tienen el tipo de infección seleccionado en el
+  239.7   19.9 B 5.13. Cantidad
+  239.8  391.7 - Diligencie la variable, de lo contrario el sistema no
+  240.0  555.6 B SI
+  246.8  128.4 B campo anterior Tipos de infección
+  247.4  391.7 - permitirá continuar con el ingreso de la información.
+  266.9  391.7 - Al diligenciar esta variable se activarán el número de
+  274.4  391.7 - campos que seleccione en la variable siguiente:
+  281.8  391.7 B Tipos de muestra; permite máximo 5 campos.
+  289.0   19.9 B 5.14. # muestras
+  291.9  128.4 - Digite el número de muestras cuando aplique.
+  293.1  555.6 B SI
+  296.6  391.7 - Diligencie la variable, de lo contrario el sistema no
+  304.0  391.7 - permitirá continuar con el ingreso de la información,
+  311.5  391.7 - para los brotes confirmados por clínica debe
+  319.0  391.7 B diligenciarse el número 0.
+  327.3  128.4 B Se activarán los campos que se seleccionen en la variable anterior # muestras.
+  332.2  391.7 - Diligencie la variable, de lo contrario el sistema no
+  335.3   19.9 B 5.15. Tipos de muestra
+  335.7  128.4 B (Permite máximo 5 campos). Se deberá registrar el tipo de muestra y el número total
+  335.9  555.6 B SI
+  339.7  391.7 - permitirá continuar con el ingreso de la información
+  344.0  128.4 - de pacientes, personal de salud o familiares.
+  356.1  128.4 - Registrar el número de muestras por tipo de infección seleccionado en el campo anterior
+  356.8  391.7 - Diligencie la variable, de lo contrario el sistema no
+  359.9   19.9 B 5.16. Cantidad
+  360.5  555.6 B SI
+  364.4  391.7 - permitirá continuar con el ingreso de la información
+  364.5  128.4 B Tipos de muestra
+  376.4  230.9 B 5.17. Grupos de Edad (Grupo etario)
+  391.9  391.7 - Diligencie la variable, de lo contrario el sistema no
+  399.3  391.7 - permitirá continuar con el ingreso de la información.
+  409.6  129.6 - Digite el número de infecciones y expuestos por grupo de edad
+  413.8   19.9 B Menores a 1 año
+  414.0  391.7 - Si no existen casos para este grupo de edad, registre el
+  417.9  555.6 B SI
+  421.5  391.7 - valor cero (0).
+  436.2  391.7 - La sumatoria de los Infectados debe coincidir con el
+  443.6  391.7 B número registrado en la variable Total infectados
+  459.1  391.7 - Diligencie la variable, de lo contrario el sistema no
+  466.5  391.7 - permitirá continuar con el ingreso de la información.
+  470.0   19.9 B 1 a 5 años
+  472.2  129.6 - Digite el número de infecciones y expuestos por grupo de edad
+  474.0  555.6 B SI
+  481.2  391.7 - Si no existen casos para este grupo de edad, registre el
+  488.7  391.7 - valor cero (0).
+  504.1  391.7 - Diligencie la variable, de lo contrario el sistema no
+  511.6  391.7 - permitirá continuar con el ingreso de la información.
+  526.2   19.9 B 6-11 años
+  526.3  391.7 - Si no existen casos para este grupo de edad, registre el
+  528.3  129.6 - Digite el número de infecciones y expuestos por grupo de edad
+  530.1  555.6 B SI
+  533.7  391.7 - valor cero (0).
+  548.4  391.7 - La sumatoria de los Infectados debe coincidir con el
+  555.9  391.7 B número registrado en la variable Total infectados
+  571.3  391.7 - Diligencie la variable, de lo contrario el sistema no
+  578.9  391.7 - permitirá continuar con el ingreso de la información.
+  593.4   19.9 B 12-17 años
+  593.5  391.7 - Si no existen casos para este grupo de edad, registre el
+  595.6  129.6 - Digite el número de infecciones y expuestos por grupo de edad
+  597.4  555.6 B SI
+  601.0  391.7 - valor cero (0).
+  615.6  391.7 - La sumatoria de los Infectados debe coincidir con el
+  623.2  391.7 B número registrado en la variable Total infectados
+  638.5  391.7 - Diligencie la variable, de lo contrario el sistema no
+  646.1  391.7 - permitirá continuar con el ingreso de la información.
+  660.6   19.9 B 18-28 años
+  660.7  391.7 - Si no existen casos para este grupo de edad, registre el
+  662.8  129.6 - Digite el número de infecciones y expuestos por grupo de edad
+  664.6  555.6 B SI
+  668.2  391.7 - valor cero (0).
+  682.8  391.7 - La sumatoria de los Infectados debe coincidir con el
+  690.4  391.7 B número registrado en la variable Total infectados
+  705.7  391.7 - Diligencie la variable, de lo contrario el sistema no
+  713.2  391.7 - permitirá continuar con el ingreso de la información.
+  727.8   19.9 B 29-59 años
+  727.9  391.7 - Si no existen casos para este grupo de edad, registre el
+  730.0  129.6 - Digite el número de infecciones y expuestos por grupo de edad
+  731.8  555.6 B SI
+  735.4  391.7 - valor cero (0).
+  750.0  391.7 - La sumatoria de los Infectados debe coincidir con el
+  757.6  391.7 B número registrado en la variable Total infectados
+  772.9  391.7 - Diligencie la variable, de lo contrario el sistema no
+  780.4  391.7 - permitirá continuar con el ingreso de la información.
+  791.3   19.9 B >=60 años
+  793.3  129.6 - Digite el número de infecciones y expuestos por grupo de edad
+  795.1  391.7 - Si no existen casos para este grupo de edad, registre el
+  795.3  555.6 B SI
+  802.6  391.7 - valor cero (0).
+  817.2  391.7 - La sumatoria de los Infectados debe coincidir con el
+--- dibujos: 212 ---
+
+===== PAGINA 6 =====
+   63.5  157.5 B INSTRUCTIVO DILIGENCIAMIENTO FICHAS DE NOTIFICACIÓN DATOS COLECTIVOS
+   72.1  182.7 B BROTES DE INFECCIONES ASOCIADAS A LA ATENCIÓN EN SALUD
+   80.7  247.1 B CÓDIGO INS: Código INS 957
+  101.1  391.7 B número registrado en la variable Total infectados
+  109.2  270.8 B 5.18. Sexo
+  124.7  391.7 B La sumatoria de la variable Total hombres con la
+  132.2  391.7 B variable Total mujeres debe coincidir con el número
+  139.4   19.9 B Total hombres
+  139.6  391.7 B registrado en la variable Total infectados
+  139.6  555.6 B SI
+  141.5  129.6 - Digite el número total de hombres infectados
+  154.4  391.7 - Diligencie la variable, de lo contrario el sistema no
+  161.8  391.7 - permitirá continuar con el ingreso de la información.
+  177.2  391.7 B La sumatoria de la variable Total hombres con la
+  184.7  391.7 B variable Total mujeres debe coincidir con el número
+  191.9   19.9 B Total mujeres
+  192.2  391.7 B registrado en la variable Total infectados
+  194.7  128.4 - Digite el número total de mujeres infectados
+  195.9  555.6 B SI
+  206.8  391.7 - Diligencie la variable, de lo contrario el sistema no
+  214.2  391.7 B permitirá continuar con el ingreso de la información.
+  222.5  252.2 B 6. Datos de laboratorio
+  237.8  128.4 - Diligencie la fecha de envío de los aislamientos al laboratorio de salud pública
+  239.2   19.9 B 6.1. Fecha envío
+  243.1  391.7 B Diligencie la variable, cuando aplique.
+  243.2  555.6 B NO
+  246.2  128.4 - departamental.
+  255.2  257.7 B 7. Diligenciamiento
+  267.3   19.9 B 7.1. Nombre del profesional que
+  271.9  391.7 - Diligencie la variable, de lo contrario el sistema no
+  274.5  128.4 - Registre el nombre del responsable del diligenciamiento de la ficha de notificación.
+  275.7  555.6 B SI
+  275.9   19.9 B diligenció la ficha
+  279.3  391.7 B permitirá continuar con el ingreso de la información.
+  294.5   19.9 B 7.2. Teléfono
+  294.7  391.7 - Diligencie la variable, de lo contrario el sistema no
+  297.4  128.4 - Registre el teléfono del responsable del diligenciamiento de la ficha de notificación.
+  298.6  555.6 B SI
+  302.2  391.7 - permitirá continuar con el ingreso de la información.
+--- dibujos: 142 ---

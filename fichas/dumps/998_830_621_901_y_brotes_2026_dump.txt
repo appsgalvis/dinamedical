@@ -1,0 +1,214 @@
+
+===== PAGINA 1 =====
+  148.8  236.4 - FOR-R02.4030-063 V:00 2026-08-06
+  177.8  245.6 B 1. INFORMACIÓN GENERAL
+  196.4  353.8 B 1.2 Fecha de Notificación (dd/mm/aaaa)
+  198.8   28.1 B 1.1 Evento
+  217.5  267.5 B Código
+  234.8   26.7 B 1.3 Semana epidemiológica
+  236.1  225.1 B 1.4 Año
+  259.7   26.5 B 1.5 Departamento/ Municipio  que notifica
+  277.7  374.5 - Departamento
+  278.0  446.4 - Municipio
+  291.9   25.5 B 1.6 Código de la UPGD
+  293.7  322.3 B 1.7 Razón social de la UPGD que notifica
+  327.3   28.8 - Departamento
+  327.3   99.6 - Municipio
+  327.3  195.9 - Código
+  327.3  269.7 - Sub índice
+  350.2  258.8 B 2. CARACTERIZACIÓN
+  377.6   28.4 B 2.1 Grupo de edad
+  394.9  542.2 - De 80 y
+  397.1   27.8 - < 1 año
+  397.9  481.5 - De 70 a
+  397.9  512.0 - De 75 a
+  398.0   85.2 - De 5 a 9
+  398.0  146.3 - De 15 a
+  398.0  358.6 - De 50 a
+  398.0  420.3 - De 60 a
+  398.0  451.0 - De 65 a
+  398.1   54.6 - De 1 a 4
+  398.1  116.2 - De 10 a
+  398.1  328.6 - De 45 a
+  398.2  175.8 - De 20 a
+  398.2  206.3 - De 25 a
+  398.2  237.3 - De 30 a
+  398.2  267.5 - De 35 a
+  398.2  297.7 - De 40 a
+  398.2  389.4 - De 55 a
+  400.9  546.1 - mas
+  401.7  574.9 - Total
+  403.9  481.3 - 74 años
+  403.9  511.8 - 79 años
+  404.0   89.3 - años
+  404.0  146.1 - 19 años
+  404.0  358.5 - 54 años
+  404.0  420.2 - 64 años
+  404.0  450.8 - 69 años
+  404.1   58.6 - años
+  404.1  116.0 - 14 años
+  404.1  328.5 - 49 años
+  404.2  175.6 - 24 años
+  404.2  206.2 - 29 años
+  404.2  237.1 - 34 años
+  404.2  267.3 - 39 años
+  404.2  297.6 - 44 años
+  404.2  389.2 - 59 años
+  406.9  545.4 - años
+  441.3  368.2 B 2.3 Sexo
+  442.4   28.0 B 2.2 Clasificación
+  442.9  197.8 B Confirmados
+  443.7  493.3 B 2.4 Condición final
+  454.0  271.1 B Nexo
+  458.7   90.5 B Probables
+  458.9   29.5 B Sospechosos
+  460.5  152.3 B Laboratorio*
+  460.8  211.5 B Clínica
+  461.1  323.9 B TOTAL
+  461.7  455.7 B Total
+  462.4  254.0 B epidemiológico
+  462.9  565.3 B Total
+  463.2  495.6 B Vivos
+  463.2  526.1 B Muertos
+  463.7  367.2 B Hombres
+  463.7  412.2 B Mujeres
+  518.5  262.0 B 2.7 Municipio de procedencia
+  521.1   30.6 B 2.5 Hospitalizados
+  521.1  110.9 B 2.6 Ambulatorios
+  522.2  202.4 B TOTAL
+  553.7  469.3 - Departamento
+  553.9  427.0 - País
+  554.0  541.2 - Municipio
+  570.3  233.6 B En caso de brote diligenciar el nombre del brote o la institución
+  571.0   28.1 B 2.8 Barrio/ Sector de ocurrencia de los casos
+  622.9  174.2 B 3. OTROS EVENTOS COLECTIVOS (Solo aplica para Cod. INS 901)
+  651.9   25.3 B 3.1 Sospecha de evento
+  666.6   23.8 - o 1. Síndrome mano, pie, boca
+  666.6  174.1 - o
+  666.6  405.5 - o 6. Otros
+  670.2  182.8 - 4. Brucelosis
+  683.9   23.8 - o 2. Conjuntivitis
+  683.9  174.1 - o
+  684.4  406.5 B 3.1.2 ¿Cuáles otros?
+  687.5  182.8 - 5. Hepatitis aguda de origen desconocido
+  717.7   18.2 B Correo: sivigila@ins.gov.co
+--- dibujos: 100 ---
+
+===== PAGINA 2 =====
+   60.8  165.9 B INSTRUCTIVO DILIGENCIAMIENTO FICHAS DE NOTIFICACIÓN DATOS COMPLEMENTARIOS
+   68.8  264.6 B Ficha de datos colectivos
+   76.7   79.2 B Código INS:998 Morbilidad por EDA | Código INS:830 Varicela colectivo | Código INS:901 Evento sin establecer | Código INS: 621 - Parotiditis Colectivo
+   99.0   54.4 B Para el diligenciemiento de esta ficha tenga en cuenta que es posible notificar varios brotes para la misma semana de la misma UPGD, de diferentes barrios, sectores o
+  106.9   94.3 B VARIABLE
+  106.9  218.4 B CATEGORÍAS Y DEFINICIÓN
+  106.9  390.7 B CRITERIOS SISTEMATIZACIÓN
+  107.4  526.8 B OBLIG.
+  115.1  243.6 B 1. INFORMACIÓN GENERAL
+  128.4  169.7 - Diligenciar el nombre y el código del evento a notificar como
+  128.4  353.6 - Diligencie la información, de lo contraro el sistema no le
+  132.4   52.3 B 1.1 Evento
+  132.7  534.6 B SI
+  136.1  169.7 - colectivo. Cerciorese que coincidan los datos.
+  136.1  353.6 - permitirá continuar con el ingreso de los datos.
+  154.5  353.6 - Diligencie la información, de lo contraro el sistema no le
+  158.3  169.7 - Formato día-mes-año
+  158.4   52.3 B 1.2 Fecha de notificación
+  158.8  534.6 B SI
+  162.1  353.6 - permitirá continuar con el ingreso de los datos.
+  180.5  169.7 - Diligenciar el número de la semana que finaliza donde se
+  184.3  353.6 - Variable que permite valores entre 1 y 53.
+  184.5   52.3 B 1.3 Semana epidemiológica
+  184.8  534.6 B SI
+  188.2  169.7 - evidenció el brote.
+  206.5  353.6 - Diligencie la información, de lo contrario el sistema no le
+  210.4  169.7 - Diligenciar el año de ocurrencia del brote
+  210.5   52.3 B 1.4 Año
+  210.9  534.6 B SI
+  214.2  353.6 - permitirá continuar con el ingreso de los datos.
+  232.6  169.7 - Diligenciar el nombre del departamento que está haciendo la
+  232.6  353.6 - Diligencie la información, de lo contrario el sistema no le
+  236.5   52.3 B 1.5 Departamento que notifica
+  236.9  534.6 B SI
+  240.3  169.7 - notificación del brote.
+  240.3  353.6 - permitirá continuar con el ingreso de los datos.
+  254.8  169.7 - Recuerde
+  254.8  203.6 - ingresar
+  254.8  232.5 - los
+  254.8  247.2 - códigos
+  254.8  275.3 - correspondientes
+  254.8  329.6 - con
+  254.8  346.3 - el
+  258.6  353.6 - Diligencie la información, de lo contrario el sistema no le
+  262.5  169.7 - departamento, municipio, código de la IPS asignado y el sub
+  262.6   52.3 B 1.6 Código de la UPGD
+  263.0  534.6 B SI
+  266.3  353.6 - permitirá continuar con el ingreso de los datos.
+  270.2  169.7 - índice.
+  284.7   52.3 B 1.7 Razón social de la UPGD que
+  284.7  169.7 - Diligenciar el nombre o razón social de la Unidad Primaria
+  284.7  353.6 - Diligencie la información, de lo contrario el sistema no le
+  289.0  534.6 B SI
+  292.4  169.7 - Genenradora del Dato que está haciendo la notificación del brote.
+  292.4  353.6 - permitirá continuar con el ingreso de los datos.
+  292.6   52.3 B notifica
+  309.0  252.6 B 2. CARACTERIZACIÓN
+  326.8  169.7 - Ingrese el número de casos asociados al brote según grupo de
+  326.8  353.6 - Tenga en cuenta que van a presentarse grupos de edad
+  334.5  169.7 - edad al que pertenecen. Al final diligencie la sumatoria de cada
+  334.5  353.6 - donde no hubo casos. Siendo así diligencie con el valor 0
+  334.6   52.3 B 2.1 Grupo de edad
+  334.8  534.6 B SI
+  342.2  169.7 - grupo.
+  342.2  353.6 - (cero) los espacios que no tuvieron casos.
+  358.5  169.7 - Ingrese
+  358.5  196.1 - el
+  358.5  206.9 - número
+  358.5  233.9 - de
+  358.5  246.9 - casos
+  358.5  269.2 - asociados
+  358.5  303.3 - al
+  358.5  314.2 - brote
+  358.5  334.3 - según
+  366.2  169.7 - clasificación en la que se encuentren. Al final ingrese la suma de
+  366.2  353.6 - Para los dos eventos se permiten valores en "Confirmado
+  370.1   52.3 B 2.2 Clasificación
+  370.4  534.6 B SI
+  373.8  169.7 - todos los grupos, la cual debe coincidir con el valor consignado en
+  373.8  353.6 - por clínica".
+  381.5  169.7 - los grupos de edad.
+  397.8  169.7 - Ingrese el número de casos asociados al brote según sexo. Al
+  401.7  353.6 - Diligencie la información, de lo contrario el sistema no le
+  405.5  169.7 - final ingrese el total el cual debe coincdir con las distribucioes
+  405.6   52.3 B 2.3 Sexo
+  405.9  534.6 B SI
+  409.4  353.6 - permitirá continuar con el ingreso de los datos.
+  413.2  169.7 - anteriores.
+  433.4  169.7 - Ingrese el número de casos asociados al brote según condición
+  437.2  353.6 - Diligencie la información, de lo contrario el sistema no le
+  441.1  169.7 - final. Al final ingrese el total el cual debe coincdir con las
+  441.2   52.3 B 2.4 Condición final
+  441.4  534.6 B SI
+  444.9  353.6 - permitirá continuar con el ingreso de los datos.
+  448.7  169.7 - distribucioes anteriores.
+  472.7  353.6 - Diligencie la información, de lo contrario el sistema no le
+  476.6  169.7 - Escriba el número según corresponda.
+  476.7   52.3 B 2.5 2.6 Hospitalizados, Ambulatorios
+  476.9  534.6 B SI
+  480.4  353.6 - permitirá continuar con el ingreso de los datos.
+  508.3   52.3 B 2.7
+  508.3   67.5 B Departamento
+  508.3  115.9 B -
+  508.3  124.5 B Municipio
+  508.3  159.9 B de
+  508.3  353.6 - Diligencie la información, de lo contrario el sistema no le
+  512.1  169.7 - Escriba el nombre del municipio donde ocurrió el caso.
+  512.5  534.6 B SI
+  515.9  353.6 - permitirá continuar con el ingreso de los datos.
+  516.2   52.3 B procedencia del caso
+  543.8  169.7 - Ingrese el nombre del barrio, sector o localidad (si aplica) donde
+  543.8  353.6 - Diligencie la información, de lo contrario el sistema no le
+  547.7   52.3 B 2.8 Barrio o sector de ocurrencia
+  548.0  534.6 B SI
+  551.5  169.7 - ocurrió el evento.
+  551.5  353.6 - permitirá continuar con el ingreso de los datos.
+--- dibujos: 34 ---

@@ -1,0 +1,84 @@
+FICHA 300 – AGRESIONES ANIMALES / APTR (Cod: INS 300)
+Ficha de notificación individual – Datos complementarios: FOR-R02.4030-017 V:00 2026-08-06
+Índice: slug=300_Aptr_2026 total=7 preguntas=[1,2] fin_preguntas=p2 instructivo_desde=p3
+P1 = datos básicos universales (secciones 1-4, NO catalogables; ya existen en ficha_datos_basicos).
+OBLIG: el bloque OBLIG de p3 del instructivo corresponde a entradas de datos básicos
+(1.1, 2.1-2.8); p3 no cubre las entradas de catálogo de la ficha -> se usan los criterios
+textuales de cada entrada del catálogo (fuente fiable), discrepancies anotadas. Errata de título
+del instructivo: "5. ANIMLAES..." (p2 gana: "DATOS DE LA AGRESIÓN O CONTACTO...").
+
+===== PAGINA 2 (página de preguntas) =====
+5. DATOS DE LA AGRESIÓN O CONTACTO, DE LA ESPECIE AGRESORA Y DE LA CLASIFICACIÓN
+   DE LA EXPOSICIÓN
+5.1 Tipo de agresión o contacto — multiselect (marque con X). Números impresos verbatim
+    (1,2,3,6,7,8 — el instructivo omite 4 y 5):
+    1. Mordedura
+    2. Arañazo o rasguño
+    3. Contacto de mucosa o piel lesionada con saliva infectada con virus rábico
+    6. Contacto de mucosa o piel lesionada, con tejido nervioso, material biológico o
+       secreciones infectadas con virus rábico
+    7. Inhalación en ambientes cargados con virus rábico (aerosoles)
+    8. Trasplante de órganos o tejidos infectados con virus rábico
+    OBLIG.
+    Sub-variable impresa: "Si marcó 1. mordedura, seleccione área": En área cubierta del
+    cuerpo / En área descubierta del cuerpo. Depende de 5.1=1 -> NO codificable como
+    show_if (padre multiselect); documentado. (La regla del catálogo se aplica también a
+    arañazo/rasguño según lectura de visión; conflictivo: p2 lo condiciona solo a mordedura.)
+5.2 ¿Agresión provocada? — círculo: 1. Sí, 2. No. OBLIG.
+5.3 Tipo de lesión — círculo: 1. Única, 2. Múltiple. OBLIG.
+5.4 Profundidad — círculo: 1. Superficial, 2. Profunda. OBLIG.
+5.5 Localización anatómica de la lesión (señale más de una en caso necesario) —
+    multiselect: 1. Cabeza, cara, cuello; 2. Manos, dedos; 3. Tronco; 4. Miembros superiores;
+    5. Miembros inferiores; 6. Pies, dedos; 7. Genitales externos. NO OBLIG (el criterio
+    textual dice que a partir de las opciones 1=Si ó 2=No por opción -> no obligatoria).
+5.6 Fecha de la agresión o contacto — date. OBLIG.
+5.7 Especie agresora — círculo: 1. Perro, 2. Gato, 3. Bovino-Bufalino, 4. Equidos,
+    5. Porcino (cerdo), 7. Murciélago, 8. Zorro, 9. Mico, 10. Humano, 12. Otros silvestres,
+    13. Ovino-Caprino, 14. Grandes roedores. NO OBLIG.
+    Regla del catálogo: las opciones 3,4,5,7,8,9,10,12,13,14 desactivan 5.8, 5.9 y 5.10
+    (solo Perro/Gato las mantienen activas). NO codificable como show_if (multivalor sobre
+    varios hijos); documentado.
+5.8 Animal vacunado — círculo: 1. Sí, 2. No, 3. Desconocido. NO OBLIG; activo solo si
+    5.7 in (Perro, Gato).
+5.9 ¿Presentó carné de vacunación antirrábica? — círculo: 1. Sí, 2. No. NO OBLIG.
+    Mismo bloqueo condicional que 5.8 (solo Perro/Gato).
+5.10 Fecha de vacunación — date. NO OBLIG. Solo si 5.7 in (Perro, Gato) y 5.8 = Sí.
+5.11 Nombre del propietario o responsable del agresor — texto. NO OBLIG.
+5.12 Dirección del propietario o responsable del agresor — texto. NO OBLIG.
+5.13 Teléfono del propietario — texto. NO OBLIG.
+5.14 Estado del animal al momento de la agresión o contacto — círculo: 1. Con signos de
+    rabia, 2. Sin signos de rabia, 3. Desconocido. OBLIG.
+    Nota: p2 imprime solo los dos primeros labels en la fila; el valor 3. Desconocido lo
+    agrega la lectura de visión p02 (membresía confirmada por el grupo de filas superiores).
+5.15 Estado del animal al momento de la consulta — círculo: 1. Vivo, 2. Muerto,
+    3. Desconocido. OBLIG.
+5.16 Ubicación del animal agreso — círculo: 1. Observable, 2. Perdido. OBLIG.
+5.17 Tipo de exposición — círculo: 0. No exposición, 1. Exposición leve, 2. Exposición
+    grave. OBLIG.
+
+6. ANTECEDENTES DE INMUNIZACIÓN DEL PACIENTE (Antes de la consulta actual el paciente había recibido)
+6.1 Suero antirrábico — círculo: 1. Sí, 2. No, 3. No sabe. OBLIG.
+6.2 Fecha de aplicación — date. NO OBLIG; solo si 6.1 = Sí (1) => show_if='1' padre=300_suero.
+6.3 Vacuna antirrábica — círculo: 1. Sí, 2. No, 3. No sabe. OBLIG.
+6.4 Número de dosis — número. NO OBLIG; solo si 6.3 = Sí (1) => show_if='1' padre=300_vacuna.
+6.5 Fecha de última dosis — date. NO OBLIG; solo si 6.3 = Sí (1) => show_if='1' padre=300_vacuna.
+
+7. DATOS DEL TRATAMIENTO ORDENADO EN LA ACTUALIDAD
+7.1 ¿Lavado de herida con agua y jabón? — círculo: 1. Sí, 2. No. NO OBLIG (solo para
+    mordedura, arañazo o rasguño -> depende de multiselect 5.1, no codificable).
+7.2 ¿Sutura de la herida? — círculo: 1. Sí, 2. No. NO OBLIG.
+7.3 ¿Ordenó suero antirrábico? — círculo: 1. Sí, 2. No. OBLIG.
+7.4 ¿Ordenó aplicación vacuna? — círculo: 1. Sí, 2. No. OBLIG.
+
+NOTAS / DECISIONES:
+- 5.1 es multiselect con números verbatim (1,2,3,6,7,8) de la categoría de exposición; no se
+  re-numera para cerrar huecos (4 y 5 existen en el catálogo con otros criterios).
+- Las reglas de activación de 5.8/5.9/5.10 (según especie) y del área (5.1=1) NO son
+  codificables como show_if de un solo valor; se documentan aquí.
+- 7.1/7.2 condicionadas a tipos de agresión multivalor -> no codificables.
+- Slugs para la migración (300): tipo_agresion, agresion_provocada, tipo_lesion, profundidad,
+  localizacion_anatomica, fecha_agresion, especie_agresora, animal_vacunado, carne_antirrabica,
+  fecha_vacunacion, nombre_propietario, direccion_propietario, telefono_propietario,
+  estado_animal_agresion, estado_animal_consulta, ubicacion_animal, tipo_exposicion,
+  suero, fecha_aplicacion_suero, vacuna, numero_dosis, fecha_ultima_dosis,
+  lavado_herida, sutura, ordeno_suero, ordeno_vacuna.

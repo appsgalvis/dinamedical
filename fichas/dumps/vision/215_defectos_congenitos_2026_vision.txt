@@ -1,0 +1,66 @@
+FICHA 215 – DEFECTOS CONGÉNITOS (Coef INS 215)
+Ficha de notificación individual – Datos complementarios: FOR-R02.4030-014 V:00 2026-08-06
+Índice: slug=215_Defectos_Congenitos_2026 total=6 preguntas=[1,2] fin_preguntas=p2 instructivo_desde=p3
+P1 = datos básicos universales (secciones 1-4, NO catalogables; ya existen en ficha_datos_basicos).
+OBLIG: tabla del instructivo (p2 del instructivo); columnas del instructivo en extracción aparecen
+desordenadas -> se usan los criterios textuales de cada entrada (fuente fiable), discrepancies anotadas.
+
+===== PAGINA 2 (página de preguntas) =====
+RELACIÓN CON DATOS BÁSICOS: campo A-G (nombres/tipo ID/número del paciente y de la madre, edad)
+-> referencia a datos básicos, NO se cataloga.
+
+5. INFORMACIÓN MATERNA
+5.1 Número de embarazos totales — cajas numéricas — número. OBLIG (criterio: de lo contrario el
+    sistema no permitirá continuar). Rango 1-30.
+5.2 Nacidos vivos — cajas numéricas — número. OBLIG. Rango 0-20.
+5.3 Abortos (<22 sem) — cajas numéricas — número. OBLIG. Valores >=0 (abortos <22 sem o <500 g).
+5.4 Mortinatos (>=22) — cajas numéricas — número. OBLIG. Valores >=0 (>=22 sem o >=500 g).
+5.5 Diagnóstico — círculo (única respuesta): 1. Prenatal, 2. Postnatal. OBLIG.
+5.5.1 Edad gestacional al diagnóstico — cajas (semanas) — número. NO OBLIG; depende de 5.5:
+    solo si 5.5 = Prenatal (1) => show_if='1' padre=215_diagnostico.
+5.6 Patología crónica adicional o complicaciones durante el embarazo — círculo: 1. Sí, 2. No. NO OBLIG.
+5.6.1 Cuáles — texto. Solo si 5.6 = Sí (1) => show_if='1' padre=215_patologia (marcar con X; el
+    instructivo dice "Marque Si o No... Si la respuesta es Si indique cuales").
+
+6. INFORMACIÓN COMPLEMENTARIA DEL NIÑO
+6.1 Embarazo múltiple — círculo: 1. Sí, 2. No. OBLIG (criterio textual explícito).
+6.2 Nativivo — círculo: 1. Sí, 2. No, 3. No ha nacido. NO OBLIG; condicionada a datos básicos
+    (condición final = 1 Vivo) => no codificable como show_if (dependencia cross-catalog).
+6.3 Edad gestacional al momento del nacimiento — cajas — número (semanas, 10-45). No OBLIG.
+6.4 Peso (Gramos) al nacer — caja + 'grs' — number_unit (grs, 50-6000). No OBLIG.
+6.5 Perímetro cefálico — caja + 'cm' — number_unit (cm). No OBLIG.
+
+7. DEFECTOS CONGÉNITOS (regla: registrar según priorización del anexo 2 del protocolo)
+7.1 Defectos metabólicos (incluye hipotiroidismo congénito)
+7.1.1 Descripción — texto. OBLIG: "por lo menos debe ingresarse la descripción de un defecto
+    metabólico" (obligatorio el primer campo del grupo).
+7.2 Defectos sensoriales
+7.2.1 Descripción — texto. OBLIG (uno o dos defectos; el primero obligatorio).
+7.2.2 Descripción — texto. No OBLIG.
+7.3 Malformaciones congénitas (Reporte las malformaciones en orden de gravedad) — entre una y
+    cinco; se catalogan los campos de descripción:
+7.3.1-7.3.5 Descripción — texto. No OBLIG.
+
+8. DATOS DE LABORATORIO
+8.1 STORCH en recién nacido — círculo (marque con X): 1. Sí, 2. No. OBLIG (criterio textual:
+    de lo contrario el sistema no permitirá el ingreso).
+8.2 Hipotiroidismo exámenes de tamizaje y confirmación — indique si se realizó cada examen:
+8.2.1 TSH — círculo: 1. Sí, 2. No. OBLIG según criterios ("diligencie según corresponda").
+8.2.2 T4 Total suero — círculo: 1. Sí, 2. No. OBLIG.
+8.2.3 T4 libre suero — círculo: 1. Sí, 2. No. OBLIG.
+8.3 Resultado — indique el tipo de resultado en cada examen realizado:
+8.3.1 TSH — círculo: 1. Alto, 3. Normal. No OBLIG.
+8.3.2 T4 Total Suero — círculo: 2. Bajo, 3. Normal. No OBLIG.
+8.3.3 T4 Libre Suero — círculo: 2. Bajo, 3. Normal. No OBLIG.
+    Regla de dependencia: los resultadosApplyan "si se realizó alguno de los exámenes"
+    (plural, no dependiente de un solo padre) -> NO codificable como show_if.
+
+NOTAS / DECISIONES:
+- Erata en lectura visual inicial: nombres de 5.x se leyeron mal (p.ej. "parto preparto"); se
+  corrigen con la extracción nativa (5.1 embarazos, 5.2 nacidos vivos, 5.3 abortos <22, 5.4
+  mortinatos >=22, 5.5 diagnóstico 1 Prenatal/2 Postnatal, 5.6 patología + "Cuáles").
+- La columna OBLIG del instructivo (18 valores) aparece desordenada en la extracción y no
+  reconcilia con los criterios por variable; se aplican los criterios textuales por entrada.
+- Valores de opciones de 7.x no existen (son campos de texto).
+- Show_if codificables: 5.5.1 (padre 5.5 = '1'), 5.6.1 (padre 5.6 = '1').
+- 6.2 depende de datos básicos (condición final), no codificable.

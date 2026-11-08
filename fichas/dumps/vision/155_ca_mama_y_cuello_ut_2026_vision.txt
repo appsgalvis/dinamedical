@@ -1,0 +1,46 @@
+VOLCADOS DE VISIÓN — 155 CA Mama y Cuello Uterino (Cód INS 155, FOR-R02.4030-010 V:00 2026-08-06)
+Páginas de preguntas (visión): p1-p2. Índice: total=8, preguntas=[1,2], fin_preguntas=p2, instructivo desde p3.
+Fuente OBLIG: tabla visual p6 (lectura de excepción).
+
+DECISIÓN CONFLICTO p2 vs p6: la forma impresa (p2) es la base del catálogo (nomenclatura y opciones).
+El instructivo (p6) describe masters "Sí/No" (5.3.3 biopsia exocervix, 5.3.4 endocervix, 5.3.4.1 resultado,
+5.3.4.2 adenocarcinoma, 5.4.1 tratamiento/tipo) que la forma impresa NO muestra como pregunta maestra.
+Esas reglas de desactivación del sistema NO son codificables como show_if porque faltaría la pregunta padre.
+Se documentan como erratas; el catálogo usa las opciones directas de p2.
+
+===== PAGINA 2 (preguntas) =====
+Definición de caso: Cáncer de mama y cuello uterino (CIE C53/C54...). Códigos SICRO.
+Sección 5. DATOS ESPECÍFICOS
+
+5.1 Tipo de cáncer — select (círculo única) — OBLIG SI
+  Opciones: 1. CA Mama, 2. CA Cuello uterino, 3. Ambos
+
+5.2 Examen de confirmación diagnóstica de cáncer de mama
+  5.2.1 Fecha de procedimiento — date — OBLIG NO
+  5.2.2 Fecha resultado — date — OBLIG NO
+  5.2.3 Resultado biopsia — select — OBLIG NO. Opciones: 1. Carcinoma ductal, 2. Carcinoma lobulillar
+  5.2.3.1 Grado histopatológico — select — OBLIG NO. Opciones: 1. In-situ, 2. Infiltrante
+
+5.3 Examen de confirmación diagnóstica de cáncer de cuello uterino
+  5.3.1 Fecha de toma de muestra — date — OBLIG NO
+  5.3.2 Fecha de resultado — date — OBLIG NO
+  5.3.3 Resultado de la biopsia — select — OBLIG NO.
+    Opciones: 1. LEI AG NCIII / In situ, 2. Carcinoma escamocelular, 3. Adenocarcinoma o mixtos
+  5.3.4 Grado histopatológico — select — OBLIG NO.
+    Opciones (p2 impreso): 1. Invasor, 2. Invasante, 3. Infiltrante, 4. No indicado
+
+5.4 Tratamiento — select Sí/No — OBLIG SI
+  Opciones: 1. Sí, 2. No
+  5.4.1 Fecha de inicio del tratamiento — date — OBLIG NO
+
+===== PAGINA 6 (instructivo, lectura visual de excepción) =====
+Bloque datos básicos (A/B/C): OBLIG SI.
+Orden natural tabla p6 con OBLIG: 5.1 SI; 5.2.1/5.2.2 NO; 5.2.3 NO; 5.2.3.1 NO;
+5.3.1/5.3.2 NO; 5.3.3 NO; 5.3.3.1 NO; 5.3.3.2 NO; 5.3.4 NO; 5.3.4.1 NO; 5.3.4.2 NO;
+5.4 SI; 5.4.1 NO.
+
+Subvariables del instructivo NO presentes en la forma impresa (documentadas):
+- 5.3.3.1/5.3.3.2 (exocervix), 5.3.4/5.3.4.1/5.3.4.2 (endocervix, adenocarcinoma, Positivo/Negativo),
+  5.4.1 tipo de tratamiento (1 Quimioterapia, 2 Radioterapia, 3 Cirugía, 4 No indicado) + fecha.
+Reglas documentadas (no codificables): exocervix=No ⇒ inactiva 5.3.3.1 y 5.3.3.2; Adenocarcinoma=Negativo ⇒
+inactiva grado; exocervix Positivo ⇒ habilita grado histopatológico; tratamiento=No ⇒ fecha no diligenciable.

@@ -1,0 +1,240 @@
+
+===== PAGINA 1 =====
+  132.6  227.9 - FOR-R02.4030-060 V:00 2026-08-06
+  167.6  244.2 B 1. INFORMACIÓN GENERAL
+  187.1   21.0 B 1.1 Código de la UPGD
+  187.1  269.0 B Razón social  de la unidad primaria generadora del dato
+  216.2   25.0 - Departamento
+  216.2   83.0 - Municipio
+  216.8  159.1 - Código
+  216.9  219.4 - Sub– Índice
+  228.6   19.9 B 1.3 Fecha de la notificación (dd/mm/aaaa)
+  228.6  406.9 B 1.5 Año a notificar
+  228.7  218.4 B 1.4 Mes a notificar
+  247.7   77.0 - /
+  248.0  120.8 - /
+  271.1  269.0 B 2. UCI ADULTOS
+  285.6  206.2 B 2.1. USO DE DISPOSITIVOS EN UCI ADULTOS
+  299.3  472.1 - Casos nuevos
+  299.3  532.9 - Días dispositivo
+  301.6   23.8 B Número de UCI vigiladas
+  311.2   23.8 B en el mes
+  313.1  210.1 B Infección del torrente sanguíneo asociada a catéter (ITS-AC)
+  326.7   23.8 B Camas vigiladas en el
+  333.1  210.1 B Infección del tracto urinario asociada a catéter (ITSU-AC)
+  336.3   23.8 B mes
+  353.8  210.1 B Neumonía asociada a ventilador mecánico (NAV)
+  354.6   23.8 B Días paciente
+  379.2  263.2 B 3. UCI PEDIÁTRICA
+  398.4  200.4 B 3.1. USO DE DISPOSITIVOS EN UCI PEDIÁTRICA
+  413.9  472.1 - Casos nuevos
+  413.9  532.9 - Días dispositivo
+  415.7   23.8 B Número de UCI vigiladas
+  425.3   23.8 B en el mes
+  427.7  210.1 B Infección del torrente sanguíneo asociada a catéter (ITS-AC)
+  439.2   23.8 B Camas vigiladas en el
+  447.7  210.1 B Infección del tracto urinario asociada a catéter (ITSU-AC)
+  448.8   23.8 B mes
+  468.4  210.1 B Neumonía asociada a ventilador mecánico (NAV)
+  469.1   23.8 B Días paciente
+  492.3  265.7 B 4. UCI NEONATAL
+  516.0   21.0 B 4.1. USO DE DISPOSITIVOS EN
+  517.2  211.0 B INFECCIÓN DEL TORRENTE SANGUÍNEO
+  517.3  417.0 B NEUMONÍA ASOCIADA A VENTILADOR
+  526.8   21.0 B UCI NEONATAL
+  528.0  230.2 B ASOCIADA A CATÉTER (ITS-AC)
+  528.1  463.5 B MECÁNICO (NAV)
+  540.1   25.3 B Número de UCI vigiladas
+  544.2  336.1 - Días paciente
+  544.2  534.1 - Días paciente
+  544.6  216.4 - Casos nuevos
+  544.6  278.9 - Días catéter
+  544.6  414.4 - Casos nuevos
+  544.6  478.7 - Días ventil.
+  546.7  149.9 - Peso al nacer
+  549.7   25.3 B en el mes
+  558.7  154.4 B <=750g
+  578.9  154.4 B 751 – 1000 g
+  579.8   24.6 B Camas vigiladas
+  589.4   24.6 B en el mes
+  599.0  154.4 B 1001 – 1500 g
+  618.5  154.4 B 1501 –2500 g
+  622.2   24.3 B Días paciente
+  638.1  154.5 B >2500g
+  665.1   21.0 B Correos: sivigila@ins.gov.co
+--- dibujos: 91 ---
+
+===== PAGINA 2 =====
+   71.0  175.3 B INSTRUCTIVO DILIGENCIAMIENTO FICHAS DE NOTIFICACIÓN DATOS COLECTIVOS
+   79.0  234.4 B INFECCIONES ASOCIADAS A DISPOSITIVOS
+   86.9  257.2 B CÓDIGO INS: Código INS 359
+  111.7   52.9 B VARIABLE
+  112.0  534.7 B OBL
+  115.5  153.4 B CATEGORÍAS Y DEFINICIÓN
+  115.5  412.8 B CRITERIOS SISTEMATIZACIÓN
+  119.9  537.3 B IG.
+  130.5  251.0 B 1. INFORMACIÓN GENERAL
+  144.9  385.1 - Diligencie la variable, de lo contrario el sistema no
+  148.7  153.4 - Ingrese el código de la UPGD que va a notificar que le fue  asignado en el Sivigila
+  148.8   52.9 B 1.1. Código UPGD
+  149.3  538.4 B SI
+  152.5  385.1 - permitirá continuar con el ingreso de la información.
+  171.1  385.1 - Diligencie la variable, de lo contrario el sistema no
+  175.0  153.4 - Ingrese el nombre de la UPGD que va a notificar
+  175.1   52.9 B 1.2. Razón social de la UPGD
+  175.6  538.4 B SI
+  178.8  385.1 - permitirá continuar con el ingreso de la información.
+  200.5  385.1 - Diligencie la variable, de lo contrario el sistema no
+  204.4  153.4 - Ingrese la fecha en la que se va a noitificar la información. Formato día-mes-año
+  204.5   52.9 B 1.3. Fecha notificación
+  205.0  538.4 B SI
+  208.2  385.1 - permitirá continuar con el ingreso de la información.
+  230.2  385.1 - Diligencie la variable, de lo contrario el sistema no
+  234.0  153.4 - Ingrese el mes que va a reportar. Ejm: enero, febrero, marzo, etc
+  234.1   52.9 B 1.4.Mes a notificar
+  234.6  538.4 B SI
+  237.9  385.1 - permitirá continuar con el ingreso de la información.
+  259.5  385.1 - Diligencie la variable, de lo contrario el sistema no
+  263.3  153.4 - Ingrese ela año que va a reportar. Ejm: 2018
+  263.4   52.9 B 1.5 Año a notificar
+  263.9  538.4 B SI
+  267.2  385.1 - permitirá continuar con el ingreso de la información.
+  284.7  236.9 B 2. UCI ADULTOS / 3. UCI PEDIÁTRICA
+  296.0   52.9 B Servicios vigilados en el
+  303.9   52.9 B mes
+  304.0  153.4 - Ingrese el número consolidado de UCI adultos/ UCI pediatrica  vigilados en el mes.
+  304.0  385.1 - Diligencie la variable, de lo contrario el sistema no
+  308.4  538.4 B SI
+  311.7  153.4 - Esto debe concordar con la información ingresada en la caracterización
+  311.7  385.1 - permitirá continuar con el ingreso de la información.
+  329.0   52.9 B Camas vigiladas en el
+  332.1  153.4 - Ingrese el número consolidado de camas de  UCI adultos/ UCI pediatrica vigilados
+  332.1  385.1 - Diligencie la variable, de lo contrario el sistema no
+  336.5  538.4 B SI
+  336.9   52.9 B mes
+  339.8  153.4 - en el mes. Esto debe concordar con la información ingresada en la caracterización
+  339.8  385.1 - permitirá continuar con el ingreso de la información.
+  352.1   52.9 B Días paciente
+  355.6  153.4 - Ingrese el consolidado mensual de los dias pacientes que se recolecto a través de
+  359.4  385.1 - Diligencie la variable, de lo contrario el sistema no
+  363.3  153.4 - la vigilancia activa y daria. Para establecer la forma de recolección de este dato,
+  363.9  538.4 B SI
+  367.1  385.1 - permitirá continuar con el ingreso de la información.
+  371.0  153.4 - refierasé al protocolo de vigilancia
+  383.6   52.9 B Infección del torrente sanguíneo
+  390.0  153.4 - Es el resultado de la sumatoria de casos de ITS-AC reportados en el mes . Este
+  391.5   52.9 B asociada a catéter (ITS-AC)
+  393.9  385.1 - Calculo automático
+  394.5  538.4 B SI
+  397.7  153.4 - indicador es una consolidacióna automatica del sivigila
+  399.4   52.9 B casos
+  413.5   52.9 B Infección del torrente sanguíneo
+  416.1  153.4 - Ingrese el consolidado mensual de los dias dispositivo (dias catéter)  que se
+  419.9  385.1 - Diligencie la variable, de lo contrario el sistema no
+  421.4   52.9 B asociada a catéter (ITS-AC) dias
+  423.8  153.4 - recolectó a través de la vigilancia activa y daria. Para establecer la forma de
+  424.4  538.4 B SI
+  427.6  385.1 - permitirá continuar con el ingreso de la información.
+  429.3   52.9 B dispositivo
+  431.5  153.4 - recolección de este dato, refierasé al protocolo de vigilancia
+  443.3   52.9 B Infección del tracto urinario
+  449.8  153.4 - Es el resultado de la sumatoria de casos de ISTUAC reportados en el mes . Este
+  451.3   52.9 B asociada a catéter (ITSU-AC)
+  453.7  385.1 - Calculo automático
+  454.3  538.4 B SI
+  457.5  153.4 - indicador es una consolidacióna automatica del sivigila
+  459.2   52.9 B casos
+  473.2   52.9 B Infección del tracto urinario
+  475.9  153.4 - Ingrese el consolidado mensual de los dias dispositivo (dias urinario)  que se
+  479.7  385.1 - Diligencie la variable, de lo contrario el sistema no
+  481.1   52.9 B asociada a catéter (ITSU-AC)
+  483.5  153.4 - recolectó a través de la vigilancia activa y daria. Para establecer la forma de
+  484.1  538.4 B SI
+  487.4  385.1 - permitirá continuar con el ingreso de la información.
+  489.1   52.9 B dias dispositivo
+  491.2  153.4 - recolección de este dato, refierasé al protocolo de vigilancia
+  503.1   52.9 B Neumonía asociada a ventilador
+  509.6  153.4 - Es el resultado de la sumatoria de casos de NAV reportados en el mes . Este
+  511.0   52.9 B mecánico (NAV) casos
+  513.4  385.1 - Calculo automático
+  514.0  538.4 B SI
+  517.3  153.4 - indicador es una consolidacióna automatica del sivigila
+  533.0   52.9 B Neumonía asociada a ventilador
+  535.6  153.4 - Ingrese el consolidado mensual de los dias dispositivo (ventilador mecánico)  que
+  539.5  385.1 - Diligencie la variable, de lo contrario el sistema no
+  540.9   52.9 B mecánico (NAV) dias dispositivo
+  543.3  153.4 - se recolectó a través de la vigilancia activa y daria. Para establecer la forma de
+  543.9  538.4 B SI
+  547.1  385.1 - permitirá continuar con el ingreso de la información.
+  551.0  153.4 - recolección de este dato, refierasé al protocolo de vigilancia
+  562.5  265.9 B 4. UCI NEONATAL
+  571.0   52.9 B Servicios vigilados en el
+  575.3  153.4 - Ingrese el número consolidado de UCI neonatal  vigiladas en el mes. Esto debe
+  575.3  385.1 - Diligencie la variable, de lo contrario el sistema no
+  579.0   52.9 B mes
+  579.7  538.4 B SI
+  582.9  153.4 - concordar con la información ingresada en la caracterización
+  582.9  385.1 - permitirá continuar con el ingreso de la información.
+  596.3   52.9 B Camas vigiladas en el
+  603.9  153.4 - Ingrese el número consolidado de camas de UCI neonatal vigilados en el mes.
+  603.9  385.1 - Diligencie la variable, de lo contrario el sistema no
+  604.2   52.9 B mes
+  608.4  538.4 B SI
+  611.6  153.4 - Esto debe concordar con la información ingresada en la caracterización
+  611.6  385.1 - permitirá continuar con el ingreso de la información.
+  628.4   52.9 B Días paciente
+  630.7  153.4 - Ingrese la sumatoria de los dias pacientes por categoria de peso que se recolecto a
+  638.4  153.4 - través de la vigilancia activa y daria. Para establecer la forma de recolección de
+  642.2  385.1 - Diligencie la variable, de lo contrario el sistema no
+  646.1  153.4 - este dato, refierasé al protocolo de vigilancia . Las categorias de peso definidas
+  646.7  538.4 B SI
+  649.9  385.1 - permitirá continuar con el ingreso de la información.
+  653.7  153.4 - son:<=750g; 751 – 1000 g; 1001 – 1500 g; 1501 –2500 g; >2500g
+  672.8   52.9 B Infección del torrente sanguíneo
+  678.6  153.4 - Es el resultado de la sumatoria de casos de ITS-AC reportados en el mes . Este
+  680.7   52.9 B asociada a catéter (ITS-AC)
+  686.3  153.4 - indicador es una consolidacióna automatica del sivigila. Esta agrupación  se
+  688.6   52.9 B casos
+  693.9  153.4 - realizará de acuerdo a las categorias de peso al nacer establecidas en la vigilancia
+  693.9  385.1 - Calculo automático
+  694.5  538.4 B SI
+  701.6  153.4 - que son: <=750g; 751 – 1000 g; 1001 – 1500 g; 1501 –2500 g; >2500g
+--- dibujos: 42 ---
+
+===== PAGINA 3 =====
+   71.0  175.3 B INSTRUCTIVO DILIGENCIAMIENTO FICHAS DE NOTIFICACIÓN DATOS COLECTIVOS
+   79.0  234.4 B INFECCIONES ASOCIADAS A DISPOSITIVOS
+   86.9  257.2 B CÓDIGO INS: Código INS 359
+  111.7   52.9 B VARIABLE
+  112.0  534.7 B OBL
+  115.5  153.4 B CATEGORÍAS Y DEFINICIÓN
+  115.5  412.8 B CRITERIOS SISTEMATIZACIÓN
+  119.9  537.3 B IG.
+  128.1   52.9 B Infección del torrente sanguíneo
+  130.9  153.4 - Ingrese el consolidado mensual de los dias dispositivo (dias catéter)  por categoria
+  136.0   52.9 B asociada a catéter (ITS-AC) dias
+  138.6  153.4 - de peso al nacer que se recolectó a través de la vigilancia activa y daria. Para
+  142.5  385.1 - Diligencie la variable, de lo contrario el sistema no
+  143.9   52.9 B dispositivo
+  146.3  153.4 - establecer la forma de recolección de este dato, refierasé al protocolo de vigilancia.
+  146.9  538.4 B SI
+  150.1  385.1 - permitirá continuar con el ingreso de la información.
+  154.0  153.4 - Las categorias de peso definidas son:<=750g; 751 – 1000 g; 1001 – 1500 g; 1501
+  161.7  153.4 - –2500 g; >2500g
+  173.7   52.9 B Neumonía asociada a ventilador
+  175.9  153.4 - Es el resultado de la sumatoria de casos de  NAV  reportados en el mes . Este
+  181.6   52.9 B mecánico (NAV) casos
+  183.6  153.4 - indicador es una consolidacióna automatica del sivigila. Esta agrupación  se
+  191.3  153.4 - realizará de acuerdo a las categorias de peso al nacer establecidas en la vigilancia
+  191.3  385.1 - Calculo automático
+  191.9  538.4 B SI
+  199.0  153.4 - que son: <=750g; 751 – 1000 g; 1001 – 1500 g; 1501 –2500 g; >2500g
+  218.1   52.9 B Neumonía asociada a ventilador
+  222.4   52.9 B mecánico (NAV) dias dispositivo Ingrese el consolidado mensual de los dias dispositivo (ventilador mecánico)  que
+  230.1  153.4 - se recolectó a través de la vigilancia activa y daria. Para establecer la forma de
+  230.1  385.1 - Diligencie la variable, de lo contrario el sistema no
+  234.5  538.4 B SI
+  237.7  153.4 - recolección de este dato, refierasé al protocolo de vigilancia.  Las categorias de
+  237.7  385.1 - permitirá continuar con el ingreso de la información.
+  245.4  153.4 - peso definidas son:<=750g; 751 – 1000 g; 1001 – 1500 g; 1501 –2500 g; >2500g
+--- dibujos: 21 ---

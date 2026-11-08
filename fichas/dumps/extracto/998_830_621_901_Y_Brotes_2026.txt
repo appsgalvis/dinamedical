@@ -1,0 +1,212 @@
+===== PAGINA 1 =====
+1. INFORMACIÓN GENERAL
+1.1 Evento
+Código 
+Correo: sivigila@ins.gov.co
+2. CARACTERIZACIÓN
+1.2 Fecha de Notificación (dd/mm/aaaa)
+1.3 Semana epidemiológica
+1.4 Año
+1.5 Departamento/ Municipio  que notifica
+1.7 Razón social de la UPGD que notifica
+Departamento
+2.1 Grupo de edad
+2.2 Clasificación
+Probables
+Sospechosos
+Confirmados
+Laboratorio*
+Clínica
+Nexo
+epidemiológico
+2.3 Sexo
+Total
+Hombres
+Mujeres
+Vivos
+2.4 Condición final
+Muertos
+Total
+2.7 Municipio de procedencia
+< 1 año
+De 1 a 4
+años
+De 5 a 9
+años
+De 10 a
+14 años
+De 15 a
+19 años
+De 20 a
+24 años
+De 25 a
+29 años
+De 30 a
+34 años
+De 35 a
+39 años
+De 40 a
+44 años
+De 45 a
+49 años
+De 50 a
+54 años
+De 55 a
+59 años
+De 60 a
+64 años
+De 65 a
+69 años
+De 70 a
+74 años
+De 75 a
+79 años
+Total
+De 80 y 
+mas  
+años
+Municipio
+Departamento
+Municipio
+2.5 Hospitalizados
+2.6 Ambulatorios
+2.8 Barrio/ Sector de ocurrencia de los casos
+1.6 Código de la UPGD
+Municipio
+Código
+Departamento
+Sub índice
+TOTAL
+TOTAL
+En caso de brote diligenciar el nombre del brote o la institución
+País
+3. OTROS EVENTOS COLECTIVOS (Solo aplica para Cod. INS 901)
+3.1 Sospecha de evento
+o 1. Síndrome mano, pie, boca
+o  2. Conjuntivitis
+o 
+ 4. Brucelosis
+o 6. Otros
+o 
+5. Hepatitis aguda de origen desconocido
+3.1.2 ¿Cuáles otros?
+FOR-R02.4030-063 V:00 2026-08-06
+
+===== PAGINA 2 =====
+OBLIG.
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+2.7
+Departamento
+-
+Municipio
+de
+procedencia del caso 
+Escriba el nombre del municipio donde ocurrió el caso. 
+Diligencie la información, de lo contrario el sistema no le
+permitirá continuar con el ingreso de los datos. 
+2.8 Barrio o sector de ocurrencia
+Ingrese el nombre del barrio, sector o localidad (si aplica) donde
+ocurrió el evento.  
+Diligencie la información, de lo contrario el sistema no le
+permitirá continuar con el ingreso de los datos. 
+2.4 Condición final
+Ingrese el número de casos asociados al brote según condición
+final. Al final ingrese el total el cual debe coincdir con las
+distribucioes anteriores. 
+Diligencie la información, de lo contrario el sistema no le
+permitirá continuar con el ingreso de los datos. 
+2.5 2.6 Hospitalizados, Ambulatorios
+Escriba el número según corresponda. 
+Diligencie la información, de lo contrario el sistema no le
+permitirá continuar con el ingreso de los datos. 
+2.2 Clasificación
+Ingrese
+el
+número
+de
+casos
+asociados
+al
+brote
+según
+clasificación en la que se encuentren. Al final ingrese la suma de
+todos los grupos, la cual debe coincidir con el valor consignado en
+los grupos de edad. 
+Para los dos eventos se permiten valores en "Confirmado
+por clínica".
+2.3 Sexo
+Ingrese el número de casos asociados al brote según sexo. Al
+final ingrese el total el cual debe coincdir con las distribucioes
+anteriores. 
+Diligencie la información, de lo contrario el sistema no le
+permitirá continuar con el ingreso de los datos. 
+1.7 Razón social de la UPGD que
+notifica
+Diligenciar el nombre o razón social de la Unidad Primaria
+Genenradora del Dato que está haciendo la notificación del brote. 
+Diligencie la información, de lo contrario el sistema no le
+permitirá continuar con el ingreso de los datos. 
+2. CARACTERIZACIÓN
+2.1 Grupo de edad
+Ingrese el número de casos asociados al brote según grupo de
+edad al que pertenecen. Al final diligencie la sumatoria de cada
+grupo. 
+Tenga en cuenta que van a presentarse grupos de edad
+donde no hubo casos. Siendo así diligencie con el valor 0
+(cero) los espacios que no tuvieron casos. 
+1.5 Departamento que notifica
+Diligenciar el nombre del departamento que está haciendo la
+notificación del brote. 
+Diligencie la información, de lo contrario el sistema no le
+permitirá continuar con el ingreso de los datos. 
+1.6 Código de la UPGD
+Recuerde
+ingresar
+los
+códigos
+correspondientes
+con
+el
+departamento, municipio, código de la IPS asignado y el sub
+índice. 
+Diligencie la información, de lo contrario el sistema no le
+permitirá continuar con el ingreso de los datos. 
+1.3 Semana epidemiológica
+Diligenciar el número de la semana que finaliza donde se
+evidenció el brote. 
+Variable que permite valores entre 1 y 53. 
+1.4 Año
+Diligenciar el año de ocurrencia del brote
+Diligencie la información, de lo contrario el sistema no le
+permitirá continuar con el ingreso de los datos. 
+1.1 Evento 
+Diligenciar el nombre y el código del evento a notificar como
+colectivo. Cerciorese que coincidan los datos. 
+Diligencie la información, de lo contraro el sistema no le
+permitirá continuar con el ingreso de los datos. 
+1.2 Fecha de notificación
+Formato día-mes-año
+Diligencie la información, de lo contraro el sistema no le
+permitirá continuar con el ingreso de los datos. 
+INSTRUCTIVO DILIGENCIAMIENTO FICHAS DE NOTIFICACIÓN DATOS COMPLEMENTARIOS
+Ficha de datos colectivos
+Código INS:998 Morbilidad por EDA | Código INS:830 Varicela colectivo | Código INS:901 Evento sin establecer | Código INS: 621 - Parotiditis Colectivo
+Para el diligenciemiento de esta ficha tenga en cuenta que es posible notificar varios brotes para la misma semana de la misma UPGD, de diferentes barrios, sectores o 
+VARIABLE
+CATEGORÍAS Y DEFINICIÓN
+CRITERIOS SISTEMATIZACIÓN
+1. INFORMACIÓN GENERAL
+

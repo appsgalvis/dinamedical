@@ -1,0 +1,366 @@
+
+===== PAGINA 1 =====
+  137.4  242.1 - FOR-R02.4030-058 V:00 2026-08-06
+  181.9  246.4 B 1. INFORMACIÓN GENERAL
+  201.2   22.7 B 1.1 Evento
+  201.9  146.2 B 1.2 Razón social
+  216.9   83.5 B Código
+  227.0   22.6 B 1.3 Código de la UNM
+  227.9  390.8 B 1.4 Fecha de Notificación (dd/mm/aaaa)
+  248.7  121.8 - Departamento
+  248.8  187.0 - Municipio
+  249.0  260.0 - Código
+  249.1  339.9 - Sub índice
+  261.5   23.9 B 1.5 Semana
+  264.0  314.9 B 1.7 Departamento/Municipio de procedencia
+  264.6  176.0 B 1.6 Año
+  269.9   23.9 B epidemiológica
+  278.1  481.5 - Departamento
+  278.6  537.4 - Municipio
+  289.7  145.4 B 2. FUENTE DE TRANSMISIÒN
+  289.7  442.8 B 3. MODO DE TRANSMISION
+  309.2   32.6 - o 1. Agua
+  310.4  134.7 - o 5. Otro  diferente de agua y alimento
+  310.5  262.2 B 2.1 Estado
+  314.3  418.1 B 3.1 Oral
+  315.0  466.3 B 3.2 Oral fecal
+  315.0  534.4 B 3.3 Cruzada
+  320.0   32.6 - o 2.  Alimentos
+  321.2  134.7 - o 6. Desconocido
+  322.9  262.2 - o 1. Abierto
+  323.0  423.8 - o 1. Sì
+  323.0  480.5 - o 1. Sì
+  323.5  545.7 - o 1. Sì
+  331.5   32.8 - o 3. Persona a persona
+  333.7  262.2 - o 2. Cerrado con identificación del agente
+  333.8  423.8 - o 2. No
+  333.8  480.5 - o 2. No
+  334.3  545.7 - o 2. No
+  342.3   32.8 - o 4. Contaminación medio ambiental
+  344.5  262.2 - o 3. Cerrado sin identificación del agente
+  371.9  259.1 B 4. CARACTERIZACIÒN
+  389.8  176.3 B Tasa de ataque
+  389.8  342.6 B Sexo
+  389.8  487.1 B Condicion  final
+  396.8   57.2 B Grupo edad
+  398.2  160.9 B Enfermos       Expuestos
+  398.2  318.7 B Hombres    Mujeres
+  398.2  487.5 B Vivos   Muertos
+  413.2   76.0 B <1
+  432.4   66.7 B 1-4 años
+  451.6   66.7 B 5-9 años
+  470.8   63.1 B 10-19 años
+  490.0   63.1 B 20-49 años
+  509.2   63.1 B 50-74 años
+  528.4   64.0 B >=75 años
+  556.1  226.3 B 5. INFORMACIÓN COMPLEMENTARIA
+  577.6  242.4 B 5.1  Fecha del primer caso (dd/mm/aaaa)
+  613.0  238.1 B Tasa de ataque
+  615.1  530.0 B Tasa de ataque
+  619.0  375.6 B Alimentos implicados
+  619.5   86.5 B Alimentos implicados
+  621.4  223.7 B Enfermos     Expuestos
+  623.5  514.7 B Enfermos    Expuestos
+  636.3  317.6 - 6
+  637.4   35.6 - 1
+  656.1  317.0 - 7
+  657.2   35.1 - 2
+  673.5  317.6 - 8
+  674.6   35.6 - 3
+  693.3  317.0 - 9
+  694.4   35.1 - 4
+  712.8  313.9 - 10
+  713.9   35.1 - 5
+  751.8   23.7 B 5.2  Distribución de signos y síntomas (número de casos)
+  774.6  527.7 - Cefalea
+  774.8  143.8 - Nauseas
+  775.0  212.9 - Vómito
+  775.0  357.7 - Fiebre
+  775.0  442.7 - Dolor abdominal
+  775.2  286.6 - Diarrea
+  777.0   66.9 - Ninguna
+  788.8  527.3 - Escalofrios
+  789.1  442.4 - Estreñimiento
+  789.2  357.4 - Mareo
+  789.8  144.5 - Cianosis
+  789.9  212.9 - Mialgias
+  789.9  287.1 - Artralgías
+  790.5   66.7 - Deshidratación
+  802.7  357.7 - Lesiones
+  804.1  442.8 - Anorexía
+  805.1  527.3 - Bradicardia relativa
+  809.4  286.5 - Coluria
+  809.9  144.8 - Ictericia
+  809.9  357.7 - maculopapulares
+  810.3   66.8 - Parestesias
+  810.5  213.3 - Acolia
+  825.5  237.9 B ¿Cuál otros?
+  826.1  212.9 - Otros
+  826.4   66.7 - Sialorrea
+  826.4  144.8 - Miosis
+  827.4  386.1 B 5.3.1 Nombre del lugar del consumo implicado
+  857.1   27.0 B 5.3  Lugar de consumo implicado
+  858.9  386.0 B 5.3.2 Dirección
+  869.2  148.6 - o 5. Casino
+  869.3   28.4 - o 1. Hogar
+  870.0  276.1 - o 11. Venta ambulante
+  880.0  148.6 - o 6. Establecimiento penitenciario
+  880.1   28.4 - o 2. Establecimiento educativo
+  880.8  276.1 - o 12. Institución de salud
+  890.8  148.6 - o 8. Hotel
+  890.9   28.4 - o 3. Establecimiento militar
+  891.6  276.1 - o 13. Panadería/Pastelería
+  892.0  385.5 B 5.4  Agentes identificados
+  901.6  148.6 - o 10. Hogar geriátrico
+  901.7   28.4 - o 4. Restaurante
+  905.9  401.1 - Agente 1
+  906.5  475.7 - Agente 3
+  906.5  552.2 - Agente 5
+  906.6  437.3 - Agente 2
+  906.6  515.5 - Agente 4
+  913.4   28.4 - o 9. Otros
+  918.5   92.2 B Cuales?
+  955.5   22.4 B AGENTES 77.OTRO, 78. PENDIENTE, 79. NO DETECTADO
+  969.8   35.5 - 1-Coliformes fecales, 2-Coliformes totales, 3-Bacillus cereus,4-Bacillus anthracis, 5-Staphylococcus aureus,6-Streptococcus sp, 7-Clostridium perfringens, 8-Aeromonas
+  978.2   35.5 - hydrophila, 9-Campylobacter jejuni,, 10 Vibrio Cholerae 11–Escherichia coli,12– Shigella sp, 13-Salmonella spp, 14-Salmonella Typhi, 15-Salmonella Paratyphi, 16-
+  986.6   35.5 - Clostridiumbotulinum17-Vibrio sp, 18-Vibrio parahaemolyticus, 19-Brucella abortus, 20-Mycobacterium bovis, 21-Listeria monocytogenes, 22-Proteus sp, 24-Norovirus, 25-
+  995.0   35.5 - Rotavirus, 26-Parvovirus, 27-Astrovirus, 28-Adenovirus, 29-Hepatitis A, 30-Hepatitis E, 32-Ascaris lumbricoides, 33-Complejo Entamoeba histolytica/dispar, 34-Fasciola hepática,
+ 1003.4   35.5 - 35-Taenia saginata, 36-Cyclospora, 37-Giardia duodenalis, 38-Taenia solium, 39-Trichinella spiralis, 40-Balantidium coli, 41-Cryptosporidium, 42-Isospora belli,43-Trichuris
+ 1011.8   35.5 - trichiura, 44-Uncinarias, 45-Enterobius vermicularis, 46-Strongyloides stercolaris, 47-Hymenolepis nana, 48-Hymenolepis diminuta, 49-Dipylidium caninum, 50-Entamoeba
+ 1020.2   35.5 - hartamanni, 51-Entamoeba coli , 52-Endolimax nana , 53-Iodamoeba butschlii 54-Chilomastix mesnili , 55-Trichomonas hominis , 56-Antimonio, 57-Cadmio, 58-Cobre, 59-
+ 1028.6   35.5 - Fluoruro,60-Plomo, 61-Estaño 62-Zinc, 63-Nitritos o Nitratos, 64-Cloruros, 65-Hidroxido de sodio, 66-Organofosforados, 67-Carbamatos, 68-Acido okadaico, 69-Saxitoxina, 70-
+ 1037.0   35.5 - Alcaloides, 71-Hidrocarburo clorado, 72-Mercurio, 73 Fostato de triortocresilo, 74- Glutamatomonosodico, 75-Micotinato sódico, 85- T-Cruzi, 86-Toxinas de algas marinas
+ 1053.4   35.5 B Correo: sivigila@ins.gov.co
+--- dibujos: 168 ---
+
+===== PAGINA 2 =====
+   58.2  187.1 B INSTRUCTIVO DILIGENCIAMIENTO FICHAS DE NOTIFICACIÓN DATOS COMPLEMENTARIOS
+   65.1  273.0 B Ficha de datos colectivos
+   71.9  211.4 B Enfermedades transmitidas por alimentos (ETA) y Cólera) Código INS 349
+   89.2  102.4 B VARIABLE
+   89.2  244.6 B CATEGORÍAS Y DEFINICIÓN
+   89.2  402.5 B CRITERIOS SISTEMATIZACIÓN
+   89.7  507.9 B OBLIG.
+   97.9  269.3 B 1. INFORMACIÓN GENERAL
+  111.8  166.7 - Diligencie el código del evento correspondiente.
+  111.9   66.9 B 1.1 Evento
+  125.8  166.7 - Anote el nombre o la razón social de la Unidad Primaria Generadora del Dato que está
+  129.2   66.9 B 1.2 Razón social
+  132.4  166.7 - haciendo la notificación.
+  151.5  166.7 - Diligencie el código de la UPGD en el orden en que aparecen las casillas de la variable.
+  158.1  166.7 - Dilligencie el código de habilitación del prestador.
+  164.7  166.7 - Tenga en cuenta:
+  171.3  166.7 - Departamento: se relaciona con el código del departamento al que pertenece la institución
+  177.9  166.7 - (código DANE).
+  184.5  166.7 - Municipio: los tres dígitos sumados a los anteriores, identifican el Municipio donde se
+  191.1  166.7 - enuentra ubicada la institución.
+  197.7  166.7 - Código: el primer dígito de este grupo, corresponde al número asignado cuando la institución
+  204.3  166.7 - se encuentra en el registro de habilitación de prestadores de salud (REPS). Tenga en cuenta
+  204.4   66.9 B 1.3 Código de la UPGD
+  210.9  166.7 - que si la UPGD pertenece a la Policía Nacional el dígito debe ser 7. Si pertenece a fuerzas
+  215.6  397.4 - Diligencie
+  215.6  425.2 - la
+  215.6  433.9 - información,
+  215.6  468.0 - de
+  215.6  478.4 - lo
+  217.5  166.7 - militares debe ser 8. Si son unidades informadoras que no tienen código de habilitación debe
+  222.2  397.4 - contrario el sistema no permitirá
+  224.1  166.7 - ser 9. Los cuatro dígitos siguientes son asignados por el departamento-municipio cuando son
+  225.3  514.7 B SI
+  228.8  397.4 - continuar con el ingreso de los
+  230.7  166.7 - unidades informadoras; de lo contrario son asignados por el  REPS.
+  235.4  397.4 - datos.
+  237.3  166.7 - Sub-índice: identifica el número de sede al que pertence la institución cuando la UPGD tiene
+  243.9  166.7 - más de una. Cuando terminan en 80, se relacionan con UPGD que pertencen al ejército
+  250.5  166.7 - nacional; 81, a la Armada; 82, a la fuerza aérea; 83, hospital militar; y 99, identifican los
+  257.1  166.7 - establecimientos penitenciarios y carcelarios.
+  281.0  166.7 - Formato día-mes-año (dd/mm/aaaa)
+  284.4   66.9 B 1.4 Fecha de Notificación
+  287.6  166.7 - Ingrese la fecha en la que se notifica el evento al siguiente nivel por cualquier medio.
+  305.7  166.7 - Diligencie la semana correspondiente a la ocurrencia del brote.
+  305.8   66.9 B 1.5 Semana epidemiológica
+  321.2  166.7 - Diligencie el año correspondiente a la semana epidemiológica ingresada
+  321.3   66.9 B 1.6 Año
+  338.2  166.7 - Diligencie el nombre del departamento que está realizando la notificación.
+  338.4   66.9 B 1.7 Departamento que notifica
+  357.1  268.1 B 2. FUENTE DE TRANSMISIÓN
+  375.1   66.9 - Seleccione el mecanismo por medio del cual se presentó la transmisión del evento que está notificando, teniendo en cuenta:
+  381.7   66.9 - 1. Agua: Si la fuente común de contagio fue esta, selecciónela.
+  388.3   66.9 - 2. Alimentos: Indague si la fuente común de transmisión fueron alimentos consumidos.
+  391.6  397.4 - Diligencie
+  391.6  425.2 - la
+  391.6  433.9 - información,
+  391.6  468.0 - de
+  391.6  478.4 - lo
+  394.9   66.9 - 3. Persona a paersona: Indague acerca de contacto directo entre las personas involucradas en el evento, aclarando el momento y tipo
+  398.2  397.4 - contraro el sistema no le permitirá
+  401.5   66.9 - de contacto.
+  401.8  514.7 B SI
+  404.8  397.4 - continuar con el ingreso de los
+  408.1   66.9 - 4. Contaminación medio ambiental: Verifique si el mecanismo de transmisión fue medio ambiental
+  411.5  397.4 - datos.
+  414.7   66.9 - 5. Otro diferente a agua y alimento: de no ser la fuente común de transmisión los mencionados, indague acerca de cuál pudo ser la
+  421.3   66.9 - posible fuente.
+  427.9   66.9 - 6. Desconocido: Cuando definitivamente la fuente no es conocida o mencionada por alguno de los casos.
+  443.4  397.4 - Diligencie
+  443.4  425.2 - la
+  443.4  433.9 - información,
+  443.4  468.0 - de
+  443.4  478.4 - lo
+  446.6  166.7 - Teniendo en cuenta el estado del evento notificado, seleccione la opción según corresponda
+  450.0  397.4 - contraro el sistema no le permitirá
+  453.2  166.7 - aclarando que el brote se mantendrá abierto hasta tanto se cuente con los soportes e
+  453.3   66.9 B 2.1 Estado
+  453.6  514.7 B SI
+  456.6  397.4 - continuar con el ingreso de los
+  459.8  166.7 - informes correspondientes  para su culminación.
+  463.2  397.4 - datos.
+  478.3  270.5 B 3. MODO DE TRANSMISIÓN
+  495.2  166.7 - Defina el modo de transmisión entre los casos y el caso o fuente inicial y seleccione la poción
+  495.2  397.4 - Variable dicotómica que permite
+  498.6   66.9 B 3.1 a 3.3
+  501.8  166.7 - según corresponda. Tenga en cuenta que debe diligenciar las categorías de las tres variables.
+  501.8  397.4 - valores 1: Si  2 :No
+  517.2  277.1 B 4. CARACTERIZACIÓN
+  532.7  166.7 - Ingrese el número de casos enfermos asociados al brote según grupo de edad al que
+  535.9  397.4 - Tenga
+  535.9  417.9 - en
+  535.9  429.1 - cuenta
+  535.9  450.7 - que
+  535.9  464.9 - van
+  535.9  478.9 - a
+  539.3  166.7 - pertenecen.
+  542.5  397.4 - presentarse grupos de edad donde
+  545.9  166.7 - Así mismo, ingrese el número de personas expuestas al brote según los grupos de edad
+  549.1  397.4 - no
+  549.1  409.8 - hubo
+  549.1  428.1 - casos.
+  549.1  450.3 - Siendo
+  549.1  473.5 - así
+  549.2   66.9 B Tasa de ataque
+  549.5  513.2 B NO
+  552.5  166.7 - definidos.
+  555.7  397.4 - diligencie con el valor 0 (cero) los
+  559.1  166.7 - Tenga en cuenta que para calcular la tasa de ataque es necesario definir las dos variables
+  562.3  397.4 - espacios que no tuvieron casos.
+  565.7  166.7 - (enfermos y expuestos) al momeento de ocurrir el brote.
+  582.9  397.4 - Diligencie
+  582.9  425.2 - la
+  582.9  433.9 - información,
+  582.9  468.0 - de
+  582.9  478.4 - lo
+  586.0  166.7 - Ingrese el número de casos asociados al brote según sexo. Es necesario que defina el sexo
+  589.5  397.4 - contraro el sistema no le permitirá
+  592.8   66.9 B Sexo
+  592.8  166.7 B de los enfermos definidos en la variable anterior. El total de esta variable debe coincidir con
+  593.1  513.2 B NO
+  596.1  397.4 - continuar con el ingreso de los
+  599.4  166.7 - el valor ingresado anteriormente en dicho criterio.
+  602.7  397.4 - datos.
+  616.2  397.4 - Diligencie
+  616.2  425.2 - la
+  616.2  433.9 - información,
+  616.2  468.0 - de
+  616.2  478.4 - lo
+  619.5  166.7 - Ingrese el número de casos asociados al brote sea vivos o muertos. Tenga en cuenta que
+  622.8  397.4 - contraro el sistema no le permitirá
+  626.1  166.7 - estos se relacionan con los enfermos mencionados anteriormente y que el total debe coincidir
+  626.2   66.9 B Condición final
+  626.4  513.2 B NO
+  629.4  397.4 - continuar con el ingreso de los
+  632.7  166.7 - con los diligenciados allí y con los establecidos en la variable "sexo"
+  636.0  397.4 - datos.
+  646.2  257.6 B 5. INFORMACIÓN COMPLEMENTARIA
+  655.8  397.4 - Diligencie
+  655.8  425.2 - la
+  655.8  433.9 - información,
+  655.8  468.0 - de
+  655.8  478.4 - lo
+  662.4  166.7 - Formato día-mes-año (dd/mm/aaaa)
+  662.4  397.4 - contrario el sistema no permitirá
+  665.9   66.9 B 5.1 Fecha del primer caso
+  666.0  513.2 B NO
+  669.0  166.7 - Ingrese la fecha en la que se notifica el evento al siguiente nivel por cualquier medio.
+  669.0  397.4 - continuar con el ingreso de los
+  675.6  397.4 - datos.
+  696.0  397.4 - Diligencie
+  696.0  425.2 - la
+  696.0  433.9 - información,
+  696.0  468.0 - de
+  696.0  478.4 - lo
+  702.6  166.7 - Encontrará un total de 10 espacios donde podrá relacionar el o los alimentos que se
+  702.6  397.4 - contrario el sistema no permitirá
+  706.0   66.9 B Alimentos implicados
+  706.2  513.2 B NO
+  709.2  166.7 - relacionan con el brote de ETA a notificar.
+  709.2  397.4 - continuar con el ingreso de los
+  715.8  397.4 - datos.
+--- dibujos: 50 ---
+
+===== PAGINA 3 =====
+   58.2  187.1 B INSTRUCTIVO DILIGENCIAMIENTO FICHAS DE NOTIFICACIÓN DATOS COMPLEMENTARIOS
+   65.1  273.0 B Ficha de datos colectivos
+   71.9  211.4 B Enfermedades transmitidas por alimentos (ETA) y Cólera) Código INS 349
+   89.2  102.4 B VARIABLE
+   89.2  244.6 B CATEGORÍAS Y DEFINICIÓN
+   89.2  402.5 B CRITERIOS SISTEMATIZACIÓN
+   89.7  507.9 B OBLIG.
+  112.7  397.4 - Variable
+  112.7  423.5 - que
+  112.7  438.8 - permite
+  112.7  463.3 - valores
+  116.1  166.7 - Diligencie el número de expuestos y el número de enfermos (quienes presentaron el evento),
+  119.3  397.4 - numéricos tanto para el numerador
+  119.5   66.9 B Tasa de ataque
+  119.7  513.2 B NO
+  122.7  166.7 - según el o los alimentos implicados en el brote.
+  125.9  397.4 - como el denominador.
+  162.3  166.7 - Encontrará una serie de signos y síntomas que se relacionan con la presencia del evento en
+  162.3  397.4 - Diligencie
+  162.3  425.2 - la
+  162.3  433.9 - información,
+  162.3  468.0 - de
+  162.3  478.4 - lo
+  168.9   66.9 B 5.2
+  168.9   80.9 B Distribución
+  168.9  118.5 B de
+  168.9  131.2 B signos
+  168.9  154.9 B y
+  168.9  166.7 - los casos, es necesario que en la casilla de cada uno ingrese el número de personas que
+  168.9  397.4 - contrario el sistema no permitirá
+  172.5  513.2 B NO
+  175.5  166.7 - presentaron dichos hallazgos clínicos relacionados con el brote que está notificando. Si los
+  175.5  397.4 - continuar con el ingreso de los
+  175.7   66.9 B síntomas (número de casos)
+  182.1  166.7 - pacientes presentan signos y síntomas diferentes al listado, estos deben nombrarsen.
+  182.1  397.4 - datos.
+  215.1  397.4 - Diligencie
+  215.1  425.2 - la
+  215.1  433.9 - información,
+  215.1  468.0 - de
+  215.1  478.4 - lo
+  221.7  166.7 - Seleccione con una X el lugar donde se dio el consumo del o los alimentos relacionados con
+  221.7  397.4 - contrario el sistema no permitirá
+  225.1   66.9 B 5.3 Lugar de consumo implicado
+  225.3  514.7 B SI
+  228.3  166.7 - el brote que está notificando.
+  228.3  397.4 - continuar con el ingreso de los
+  234.9  397.4 - datos.
+  267.9  397.4 - Diligencie
+  267.9  425.2 - la
+  267.9  433.9 - información,
+  267.9  468.0 - de
+  267.9  478.4 - lo
+  274.5  166.7 - Escriba la diressión o localización del lugar donde se dio el consumo del o los alimentos
+  274.5  397.4 - contrario el sistema no permitirá
+  277.9   66.9 B 5.3.1 Dirección
+  278.1  514.7 B SI
+  281.1  166.7 - relacionados con el brote que está notificando.
+  281.1  397.4 - continuar con el ingreso de los
+  287.7  397.4 - datos.
+  310.0  166.7 - Teniendo en cuenta el listado de agentes que se encuentra en la parte inferior de la ficha,
+  316.6  166.7 - ingrese el número correspondiente al agente que se identificó una vez se realizó el cultivo de
+  316.8   66.9 B 5.4 Agentes identificados
+  316.9  513.2 B NO
+  323.2  166.7 - las muestras obtenidas durante el estudio del brote.
+--- dibujos: 21 ---
