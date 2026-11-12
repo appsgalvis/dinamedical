@@ -36,6 +36,7 @@ Work por tramos de ~5-6 eventos, en el orden del índice.
 | 345 ESI/IRAG | 043 | ✔ 22 defs / 17 oblig (37 opciones) |
 | 348 IRAG inusitado | 044 | ✔ 25 defs / 23 oblig (39 opciones) |
 | 349 ETA colectivo | 045 | ✔ 117 defs / 33 oblig (23 opciones) |
+| 850 VIH/Sida | 076 | ✔ 11 defs / 10 oblig (54 opciones) |
 
 Excluidos (no aplicar): 100, 210-220-220 ya tiene catálogo; fichas genéricas `Datos_Básicos` (250-270-275-290, 320, 330, 346, 620, 831), Caracterización, Laboratorios.
 
@@ -77,7 +78,6 @@ Los PNG de páginas de preguntas de TODAS las fichas ya están renderizados (run
 | 30 | 770 Tétanos neonatal | 770 (p2) | 073 |
 | 31 | 800 Tosferina | 800 (p2) | 074 |
 | 32 | 813 Tuberculosis | 813 (p2) | 075 |
-| 33 | 850 VIH/Sida | 850 (p2) | 076 |
 | 34 | 875 Violencia de género | 875 (p2) | 077 |
 | 35 | 880 Mpox | 880 (p2) | 078 |
 | 36 | 895 Zika | 895 (p2) | 079 |

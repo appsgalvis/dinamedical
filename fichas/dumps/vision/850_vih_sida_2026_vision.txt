@@ -1,0 +1,31 @@
+FICHA 850 — VIH SIDA (FOR-R02.4030-053 V:00 2026-08-06).
+Páginas de preguntas: p1 (básicos), p2 (complementarios secciones 5-8). Instructivo p3+ (p6-p7 complementarios).
+============================================================
+===== PÁGINA 2 (p02.png) =====
+
+5. ANTECEDENTES EPIDEMIOLÓGICOS
+5.1 Mecanismo probable de transmisión — MULT (impreso cuadrados parenteral + sexual grupo + materno):
+  1 Heterosexual | 2 Homosexual | 3 Bisexual | 4 Materno infantil (<10 anos) |
+  5 Transfusion sanguinea | 6 Usos de drogas inyectables | 7 Accidente de trabajo |
+  9 Transplante de organos | 10 Piercing | 11 Hemodialisis | 12 Tatuajes |
+  13 Procedimientos esteticos | 14 Acupuntura. OBLIG (sin codigo 8).
+  Bloque madre (instructivo 5.2): nombre, tipo ID*, numero ID — OBLIG show_if 5.1 contiene '4';
+  activacion edad <=10 no codificable (regla edad en basicos).
+5.3 Identidad de genero — SELECT M/F/T (Masculino, Femenino, Transgenero). OBLIG.
+5.4 Dono sangre 12 meses previos — Sí/No. OBLIG.
+
+6. DIAGNOSTICO DE LABORATORIO
+6.1 Tipo prueba confirmacion — SELECT 1 WB | 2 Carga viral | 3 Rapida | 4 Elisa | 5 Quimioluminiscencia. OBLIG.
+6.1.1 Fecha resultado — DATE OBLIG.
+6.1.2 Valor carga viral (N copias) — NUMBER OBLIG show_if 6.1='2'.
+
+7. INFORMACION CLINICA
+7.1 Estadio clinico — SELECT 1 VIH | 2 Sida | 3 Muerto. OBLIG (notificacion unica).
+
+8. INFORMACION CLINICA (titulo duplicado en impreso)
+8.1 Enfermedades asociadas — MULT 28 oportunistas (solo estadio Sida/Muerto en instrucción);
+  obligatorio=0 cross-table 7.1 in (2,3); instructivo exige diligenciar si aplica.
+
+===== DECISIÓN OBLIG (cerrada) =====
+11 defs / 10 oblig flags (madre x3 + carga viral condicionales en motor).
+Listas: 54 opciones (14+3+5+3+28 + si_no).
