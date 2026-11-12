@@ -37,6 +37,7 @@ Work por tramos de ~5-6 eventos, en el orden del índice.
 | 348 IRAG inusitado | 044 | ✔ 25 defs / 23 oblig (39 opciones) |
 | 349 ETA colectivo | 045 | ✔ 117 defs / 33 oblig (23 opciones) |
 | 850 VIH/Sida | 076 | ✔ 11 defs / 10 oblig (54 opciones) |
+| 670 Rabia humana | 067 | ✔ 33 defs / 26 oblig (90 opciones) |
 
 Excluidos (no aplicar): 100, 210-220-220 ya tiene catálogo; fichas genéricas `Datos_Básicos` (250-270-275-290, 320, 330, 346, 620, 831), Caracterización, Laboratorios.
 
@@ -69,7 +70,6 @@ Los PNG de páginas de preguntas de TODAS las fichas ya están renderizados (run
 | 21 | 607 Ebola | 607 (p1-3) | 064 |
 | 22 | 610 PFA | 610 (p2) | 065 |
 | 23 | 650/652 Rabia animal | 650_652 (p2) | 066 |
-| 24 | 670 Rabia humana | 670 (p2) | 067 |
 | 25 | 710/730 Sarampión/Rubeola | 710_730 (p2) | 068 |
 | 26 | 720 S. Rubeola congénita | 720 (p2) | 069 |
 | 27 | 739 MIS-C | 739 (p2) | 070 |
