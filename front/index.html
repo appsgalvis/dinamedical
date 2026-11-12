@@ -4,14 +4,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dinamedical - IPS</title>
-    <link rel="stylesheet" href="estilos.css?v=23">
+    <link rel="stylesheet" href="estilos.css?v=25">
 </head>
 <body>
+    <aside class="aviso-prototipo" aria-label="Créditos del prototipo académico">
+        <p class="aviso-prototipo-titulo">Prototipo académico</p>
+        <p>Fase 4 — Componente práctico (práctica simulada). Proyecto de grado UNAD.</p>
+        <p><strong>C. Johan Galvis Bernal</strong> · Investigador principal</p>
+        <p><strong>Santiago Andrés Riaño Mogollón</strong> · Coinvestigador</p>
+    </aside>
     <!-- Vista Login -->
     <div id="vista-login" data-vista class="pagina-login">
         <div class="login-card">
             <h1>Dinamedical</h1>
             <p class="subtitulo">Sistema para Institución Prestadora de Salud</p>
+            <p class="login-prototipo-nota">Este software forma parte del prototipo del componente práctico del proyecto de grado.</p>
             <div class="tabs-login">
                 <button type="button" class="tab-login activo" data-tab="login">Iniciar sesión</button>
                 <button type="button" class="tab-login" data-tab="registro">Registrar IPS</button>
@@ -106,6 +113,7 @@
                 <div id="contenido-personas" class="oculto"></div>
                 <div id="contenido-citas" class="oculto"></div>
                 <div id="contenido-consultas" class="oculto"></div>
+                <div id="contenido-fichas" class="oculto"></div>
                 <div id="contenido-historias" class="oculto"></div>
                 <div id="contenido-ips" class="oculto"></div>
                 <div id="contenido-roles" class="oculto"></div>
@@ -504,8 +512,26 @@
         </div>
     </div>
 
-    <script src="app.js?v=24"></script>
+    <!-- Modal detalle Ficha SIVIGILA (datos básicos + detalles del evento) -->
+    <div id="modal-ficha-sivigila" class="overlay oculto" data-ancho="medio">
+        <div class="modal modal-ancho">
+            <h2>Ficha SIVIGILA</h2>
+            <div class="selector-ancho-modal">
+                <label><input type="radio" name="ficha-ancho" value="normal" onchange="setFichaAncho('normal')"> Normal</label>
+                <label><input type="radio" name="ficha-ancho" value="medio" onchange="setFichaAncho('medio')"> Medio</label>
+                <label><input type="radio" name="ficha-ancho" value="completo" onchange="setFichaAncho('completo')"> Completo</label>
+            </div>
+            <div id="ficha-sivigila-detalle" class="historia-detalle"></div>
+            <div style="display:flex;gap:0.5rem;margin-top:1rem;flex-wrap:wrap">
+                <button type="button" class="btn btn-secundario" id="btn-ficha-abrir-consulta" onclick="abrirFichaDesdeModal()">Abrir en Consultas</button>
+                <button type="button" class="btn btn-secundario" onclick="cerrarModal('modal-ficha-sivigila')">Cerrar</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js?v=25"></script>
     <script src="atencion.js?v=30"></script>
+    <script src="fichas-sivigila.js?v=2"></script>
     <script>
         document.querySelectorAll('.tab-login').forEach(tab => {
             tab.addEventListener('click', () => {

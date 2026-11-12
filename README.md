@@ -2,6 +2,17 @@
 
 Sistema para Institución Prestadora de Salud. API + Frontend en contenedor separado.
 
+## Contexto académico (prototipo)
+
+Este software forma parte del **prototipo** del entregable **Fase 4 — Componente práctico (práctica simulada)** del **proyecto de grado** (curso 202016907), programa **Ingeniería de Sistemas**, **UNAD** (ECBTI).
+
+| Rol | Nombre |
+|-----|--------|
+| Investigador principal | Cristian Johan Galvis Bernal |
+| Coinvestigador | Santiago Andrés Riaño Mogollón |
+
+El aviso también aparece en el frontend (pantalla de inicio de sesión y esquina de la aplicación) para dejar claro el carácter académico del sistema.
+
 ## Estructura
 
 - **API**: `dinamedical/` - Express + MSSQL (puerto 3002)
