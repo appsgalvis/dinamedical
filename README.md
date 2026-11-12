@@ -2,6 +2,19 @@
 
 Sistema para Institución Prestadora de Salud. API + Frontend en contenedor separado.
 
+## Propósito y problema que aborda
+
+En el marco del proyecto de grado **«Sistema unificado de historia clínica interoperable con estandarización de variables epidemiológicas»**, se identifica que en Colombia coexisten múltiples sistemas clínicos no estandarizados: eso dificulta la **trazabilidad del paciente** entre IPS y hace que la notificación a **SIVIGILA** dependa a menudo de **transcripciones manuales**, con retrasos y riesgo de inconsistencia en el dato epidemiológico.
+
+**Dinamedical** es el **prototipo funcional** (objetivo de evaluación **TRL 5** en entorno simulado de laboratorio) que responde a esa problemática ofreciendo, en un mismo flújo de atención:
+
+- Registro clínico por consulta (citas, historia, signos vitales) bajo un modelo **multi-IPS** con roles y permisos.
+- **Captura en el punto de atención** de la ficha de datos básicos y de los **formularios de notificación SIVIGILA** asociados al evento seleccionado.
+- **Carga dinámica** de los detalles del evento desde metadatos en base de datos, sin codificar cada ficha como pantalla fija — lo que ha permitido parametrizar múltiples catálogos de eventos de salud pública.
+- API REST y capa de persistencia preparada para **consolidar y exportar** información hacia estructuras compatibles con los flujos de vigilancia (evaluación documentada en la Fase 4 del proyecto).
+
+No sustituye SIVIGILA nacional ni un despliegue productivo en todas las IPS del país; demuestra en laboratorio cómo reducir intermediarios y duplicidad de digitación al integrar historia clínica y notificación epidemiológica en una sola herramienta.
+
 ## Contexto académico (prototipo)
 
 Este software forma parte del **prototipo** del entregable **Fase 4 — Componente práctico (práctica simulada)** del **proyecto de grado** (curso 202016907), programa **Ingeniería de Sistemas**, **UNAD** (ECBTI).
