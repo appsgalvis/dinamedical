@@ -1,0 +1,21 @@
+FICHA 349 — ETA y cólera COLECTIVO (FOR-R02.4030-058 V:00 2026-08-06).
+Toda la ficha imprimible = p1 (3 páginas PDF: p1 formulario, p2-p3 instructivo).
+============================================================
+===== PÁGINA 1 (única de preguntas, p01.png) =====
+
+1. INFORMACIÓN GENERAL — UPGD/evento (1.1–1.3) en módulo caracterización; en catálogo:
+   1.4 Fecha notificación | 1.5 Semana epi | 1.6 Año | 1.7 Depto/Mun procedencia (NO OBLIG).
+2. FUENTE: select 1-6 + 2.1 Estado brote (OBLIG ×2).
+3. MODO: 3.1 Oral, 3.2 Oral-fecal, 3.3 Cruzada — sí/no cada una (OBLIG).
+4. CARACTERIZACIÓN: 7 filas edad × 6 contadores (enfermos, expuestos, H, M, vivos, muertos) = 42 number NO OBLIG (cero permitido).
+5. COMPLEMENTARIA:
+   5.1 Fecha primer caso (NO OBLIG instructivo).
+   Alimentos: 10 filas × (nombre, enfermos, expuestos) = 30 campos NO OBLIG fila a fila.
+   5.2 Signos/síntomas: 25 casillas numéricas (incl. Ninguna y Otros) — OBLIG instructivo (valor 0 válido).
+   ¿Cuál otros? texto libre (NO OBLIG motor; diligenciar si usa Otros).
+   5.3 Lugar consumo (códigos con salto 7; 9=Otros) OBLIG; 5.3.1 nombre + 5.3.2 dirección OBLIG;
+   Cuales? si lugar=9 OBLIG.
+   5.4 Agente 1-5: código numérico pie de ficha (77/78/79 especiales) NO OBLIG.
+
+===== DECISIÓN OBLIG (cerrada) =====
+117 defs / 33 oblig flags: 2+3 modos + 25 síntomas + lugar+nom+dir+cuales(9).

@@ -35,6 +35,7 @@ Work por tramos de ~5-6 eventos, en el orden del índice.
 | 342 Enf. huérfanas | 042 | ✔ 5 defs / 3 oblig (23 opciones) |
 | 345 ESI/IRAG | 043 | ✔ 22 defs / 17 oblig (37 opciones) |
 | 348 IRAG inusitado | 044 | ✔ 25 defs / 23 oblig (39 opciones) |
+| 349 ETA colectivo | 045 | ✔ 117 defs / 33 oblig (23 opciones) |
 
 Excluidos (no aplicar): 100, 210-220-220 ya tiene catálogo; fichas genéricas `Datos_Básicos` (250-270-275-290, 320, 330, 346, 620, 831), Caracterización, Laboratorios.
 
@@ -46,7 +47,6 @@ Los PNG de páginas de preguntas de TODAS las fichas ya están renderizados (run
 
 | # | Evento | Ficha | Migración |
 |---|---|---|---|
-| 2 | 349 ETA colectivo | 349_ETA_Colectivo_2026 (p1) | 045 |
 | 3 | 352 Infecciones ISO individual | 352 (p2) | 046 |
 | 4 | 354 CAB — brotes | 354_CAB_2026 (p1) | 047 |
 | 5 | 356 Int. suicidio | 356 (p2) | 048 |
@@ -88,4 +88,4 @@ Los PNG de páginas de preguntas de TODAS las fichas ya están renderizados (run
 
 Al terminar todo batch C: re-ejecutar `venv-py312\Scripts\python.exe dinamedical\fichas\procesar_fichas.py` para regenerar el índice de visión.
 
-Retomar desde: **tramo = 349, 352, 354, 356** (352/356 vision p2 + extracto p3+; 349/354 solo p1). Visión: `fichas/dumps/vision/348_irag_inusitado_2026_vision.txt`.
+Retomar desde: **tramo = 352, 354, 356** (352/356 vision p2 + extracto p3+; 354 solo p1). Visión: `fichas/dumps/vision/349_eta_colectivo_2026_vision.txt`.
