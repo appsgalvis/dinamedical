@@ -1,0 +1,58 @@
+FICHA 348 — IRAG INUSITADA (FOR-R02.4030-023 V:00 2026-08-06).
+Páginas de preguntas: p1 (básicos), p2 (secciones 5-9 = catálogo). Instructivo p3+ (complementario p6-7).
+============================================================
+===== PÁGINA 2 (preguntas, p02.png + texto dump) =====
+
+5. ¿POR QUÉ SE NOTIFICA EL CASO COMO IRAG INUSITADO?
+5.1 Seleccione una o varias de las siguientes opciones — MULT (6, instructivo):
+    1 Es trabajador del área de la salud
+    2 Tuvo contacto con aves o cerdos enfermos o muertos (14 días previos)
+    3 Presenta deterioro clínico sin etiología determinada, evolución rápida
+      (vasopresores y/o VM) desde el inicio de síntomas
+    4 Caso asociado a un brote o conglomerado
+    5 ¿Viajó?
+    6 Tuvo contacto estrecho con personas enfermas o fallecidas de IRAG
+      (14 días previos a los síntomas)
+    OBLIG (instructivo p6).
+5.1.1 ¿El viaje fue en el territorio Nacional? — SELECT 1.Sí 2.No.
+    OBLIG. show_if 5.1 contiene '5' (viajó).
+5.1.1.1 ¿Dónde? — TEXTO (depto/municipio). OBLIG, show_if 5.1.1='1'.
+    Código — TEXTO (casilla Código al lado). OBLIG, show_if 5.1.1='1'.
+5.1.2 ¿El viaje fue Internacional? — SELECT 1.Sí 2.No. OBLIG, show_if 5.1 contiene '5'.
+5.1.2.1 ¿Dónde? — TEXTO. OBLIG, show_if 5.1.2='1'.
+    Código — TEXTO. OBLIG, show_if 5.1.2='1'.
+5.2 Recuerde tos y fiebre — MULT (2): 1 Paciente con tos | 2 Paciente con fiebre.
+    OBLIG (recordatorio + instructivo).
+
+6. ANTECEDENTES VACUNALES (solo Influenza + COVID; sin neumococo vs 345)
+6.1 Influenza estacional — SELECT 1.Sí 2.No 3.Desconocido. OBLIG.
+6.1.1 Dosis — NUMBER, OBLIG, show_if 6.1='1'.
+6.2 COVID-19 — SELECT si_no_desc. OBLIG.
+6.2.1 Dosis — NUMBER, OBLIG, show_if 6.2='1'.
+6.2.2 Fecha última dosis (dd/mm/aaaa) — DATE, OBLIG, show_if 6.2='1'.
+6.2.3 Nombre de la vacuna — TEXTO, OBLIG, show_if 6.2='1'.
+
+7. DATOS CLÍNICOS
+7.1 ¿Reporta antecedentes clínicos? — MULT (14): Asma|EPOC|Diabetes|VIH|Enfermedad cardiaca|
+    Cancer|Malnutrición|Obesidad|Insuficiencia renal|Toma medicamentos inmunosupresores|
+    Fumador|Trombocitopenia|HTA|Otros. OBLIG. Otros='14', Trombocitopenia='12'.
+7.1.1 Conteo de plaquetas — NUMBER, OBLIG, show_if 7.1 contiene '12'.
+7.2 ¿Cuáles otros? — TEXTO, OBLIG, show_if 7.1 contiene '14'.
+
+8. DIAGNÓSTICO Y TRATAMIENTO
+8.1 Si se tomó radiografía de tórax ¿hallazgos? — SELECT (3): infiltrado alveolar |
+    Infiltrados intersticiales | Ninguno. OBLIG (sin TAC en impreso 2026, vs 345).
+8.2 ¿Usó antibiótico en la última semana? — SELECT Sí/No (sin Desconocido en p2). OBLIG.
+8.3 ¿Usó antivirales en la última semana? — SELECT Sí/No. OBLIG.
+8.3.1 Fecha inicio antiviral — DATE, OBLIG, show_if 8.3='1'
+    (instructivo p7 erróneamente cita variable 7.3 -> se corrige a 8.3).
+8.4 Servicio hospitalización — SELECT 1 General | 2 Cuidados intermedios | 3 UCI. OBLIG=0
+    (cross-table básico 3.7 hospitalizado, mismo criterio 345).
+8.4.1 Fecha ingreso UCI — DATE, OBLIG, show_if 8.4='3'.
+8.5 Complicaciones — MULT (6), verbatim "Falla Respiratoria". OBLIG=0 (sin "Ninguna").
+8.5.1 Otro cuáles — TEXTO, OBLIG, show_if 8.5 contiene '6'.
+
+9. DATOS DE LABORATORIO — FUERA catálogo (módulo laboratorios SIVIGILA).
+
+===== DECISIÓN OBLIG (cerrada) =====
+25 defs / 23 flags oblig: ver migración 044. NO OBLIG: 8.4, 8.5.
