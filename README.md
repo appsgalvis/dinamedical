@@ -6,11 +6,11 @@ Sistema para Institución Prestadora de Salud. API + Frontend en contenedor sepa
 
 En el marco del proyecto de grado **«Sistema unificado de historia clínica interoperable con estandarización de variables epidemiológicas»**, se identifica que en Colombia coexisten múltiples sistemas clínicos no estandarizados: eso dificulta la **trazabilidad del paciente** entre IPS y hace que la notificación a **SIVIGILA** dependa a menudo de **transcripciones manuales**, con retrasos y riesgo de inconsistencia en el dato epidemiológico.
 
-**Dinamedical** es el **prototipo funcional** (objetivo de evaluación **TRL 5** en entorno simulado de laboratorio) que responde a esa problemática ofreciendo, en un mismo flújo de atención:
+**Dinamedical** es un **prototipo académico** en entorno **simulado de laboratorio**, orientado a demostrar integración consulta → notificación (meta de evaluación documentada **TRL 5**; componentes centrales en consolidación según matriz del proyecto). Ofrece, en un mismo flújo de atención:
 
 - Registro clínico por consulta (citas, historia, signos vitales) bajo un modelo **multi-IPS** con roles y permisos.
 - **Captura en el punto de atención** de la ficha de datos básicos y de los **formularios de notificación SIVIGILA** asociados al evento seleccionado.
-- **Carga dinámica** de los detalles del evento desde metadatos en base de datos, sin codificar cada ficha como pantalla fija — lo que ha permitido parametrizar múltiples catálogos de eventos de salud pública.
+- **Carga dinámica** de los detalles del evento desde metadatos en base de datos. **Piloto de cierre (demostración): evento dengue** (códigos 210/220/580); el mecanismo admite más fichas en desarrollo local, no incluidas en este repositorio público.
 - API REST y capa de persistencia preparada para **consolidar y exportar** información hacia estructuras compatibles con los flujos de vigilancia (evaluación documentada en la Fase 4 del proyecto).
 
 No sustituye SIVIGILA nacional ni un despliegue productivo en todas las IPS del país; demuestra en laboratorio cómo reducir intermediarios y duplicidad de digitación al integrar historia clínica y notificación epidemiológica en una sola herramienta.
@@ -55,7 +55,7 @@ Las migraciones se aplican en orden (`migraciones/001-…` hasta `043-…`). Agr
 | Personas y ubicación | `personas`, `ubicaciones`, `telefonos`, vistas de apoyo | 003, 005–013, 019–020 |
 | Catálogos editables | `listas` (opciones de formularios: documento, sexo, campos de eventos, etc.) | 004, 006 |
 | Atención clínica | `citas`, `consultas`, `historias_clinicas`, signos vitales | 015, 024 |
-| Vigilancia en salud pública | `tipo_evento`, `ficha_datos_basicos`, `detalle_eventos`, `detalle_eventos_respuestas` | 017, 025, 026, 027–043 |
+| Vigilancia en salud pública | `tipo_evento`, `ficha_datos_basicos`, `detalle_eventos`, `detalle_eventos_respuestas` | 017, 025, 026; catálogo publicado: **027 (dengue)** |
 
 Convenciones relevantes:
 
@@ -83,7 +83,17 @@ El sistema no codifica cada ficha en el frontend de forma rígida. El flujo es *
 - En **Consultas / atención** (`atencion.js`), al elegir el tipo de evento se llama `cargarDetallesEvento(codigo)`, que pinta el panel lateral con preguntas dinámicas y persiste con POST.
 - En **Fichas SIVIGILA** (`fichas-sivigila.js`), la grilla lista fichas de datos básicos y el modal combina la ficha con los detalles del evento cargados por la misma API.
 
-**Ampliar un evento nuevo:** añadir migración `migraciones/0XX-detalles-<evento>-<codigo>.sql` que inserte filas en `detalle_eventos` y, si aplica, opciones en `listas`. Sin cambiar la lógica del cliente salvo etiquetas o reglas de negocio nuevas. El evento `100` (accidente ofídico) y decenas de códigos INS están modelados en migraciones `027`–`043` y documentados en `RECORDATORIOS-POR-EVENTO.md`.
+**Ampliar un evento nuevo:** añadir migración `migraciones/0XX-detalles-<evento>-<codigo>.sql` (desarrollo local). En **GitHub** se publica solo el esquema dinámico (`026`) y el catálogo **dengue** (`027`), alineado al flujo piloto que se evidencia con datos sintéticos.
+
+## Demostración y acceso
+
+| Recurso | Enlace |
+|---------|--------|
+| Aplicación (entorno simulado) | [https://dinamedical.solucion-digital.com](https://dinamedical.solucion-digital.com) |
+| Código | Este repositorio (público) |
+| Especificación fichas | Formularios INS / SIVIGILA 2026 (referencia documental del proyecto de grado) |
+
+Repositorio visible para revisión del tutor y pares; los catálogos de eventos distintos de dengue se mantienen en el entorno de desarrollo del equipo y no se versionan aquí.
 
 ## Estructura del repositorio
 
@@ -138,6 +148,12 @@ El sistema no codifica cada ficha en el frontend de forma rígida. El flujo es *
 - **Rol**: Administrador Dinamedical (acceso total)
 
 Cambiar la clave después del primer login.
+
+## Demo visual estática (respaldo)
+
+Si la URL pública no está disponible, existe una copia **solo frontend** con datos en JSON:
+
+`demo-visual-estatica/index.html` — ver `demo-visual-estatica/README.md`.
 
 ## Levantar
 

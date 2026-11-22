@@ -1,2 +1,7 @@
 node_modules/
 .env
+
+# Catálogos SIVIGILA en desarrollo (local). En GitHub solo se publican 026 + dengue 027.
+migraciones/*-detalles-*.sql
+!migraciones/026-detalles-eventos-dinamicos.sql
+!migraciones/027-detalles-dengue-210-220-580.sql
